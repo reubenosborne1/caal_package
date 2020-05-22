@@ -1,0 +1,879 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+>
+  <skos:Concept rdf:about="http://localhost:8000/cf6eed5d-51eb-38e5-b2f5-f2a96a07c86f">
+    <skos:inScheme>
+      <skos:ConceptScheme rdf:about="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9">
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/e8c3358f-d0aa-3c83-8c39-2e01e33d5abb"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/9357c04b-4148-3e9a-b037-352a05f2de8c"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/4c87d2d4-12fc-3b75-8bfe-0d8ccd3f7393"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/32000ffe-561e-34b4-b1a4-c81fbf6a7619"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/2abbce0b-90d4-3d3e-aa0a-0176dd46adb8"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/6dea39a3-d80a-3636-8c9a-22b95833614f"/>
+        <dcterms:title xml:lang="en">{"id": "148b929a-fee0-4cab-acf8-78a855c19282", "value": "Building Materials (CAAL)"}</dcterms:title>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/bc80f634-f288-3eba-9498-9bd507f76dfb"/>
+        <dcterms:identifier xml:lang="en-us">{"id": "dc624fcb-ac24-4b11-93be-2e12fb9c8766", "value": "http://purl.org/heritagedata/schemes/eh_tbm"}</dcterms:identifier>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/2668d484-a7d1-38b4-bbcb-bfef762f4383"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/ddf59152-c3e2-3781-b8a5-f7c81e930f5a"/>
+        <dcterms:description xml:lang="en">{"id": "1fdd10b1-4475-4f7c-91cf-e06288a38e21", "value": "Thesaurus of main constructional material types (eg. the walls) for indexing of monuments."}</dcterms:description>
+      </skos:ConceptScheme>
+    </skos:inScheme>
+    <skos:scopeNote xml:lang="en">{"id": "e975e065-179b-4f6f-9ebf-d7b78311ace7", "value": "Coarse grained, metamorphic rock in which the colour is dependent upon the predominant mineral."}</skos:scopeNote>
+    <dcterms:identifier xml:lang="en-us">{"id": "06291852-7575-4822-a6fd-829b27af4a83", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/97940"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "de6ad6c7-cfea-4a7b-9db1-6324d8a43cba", "value": "GNEISS"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/b2a73951-1786-32cd-9750-c12332a1946f">
+    <skos:related>
+      <skos:Concept rdf:about="http://localhost:8000/1ccca3f3-4c13-35b5-a7e7-4ccee13a8330">
+        <skos:related rdf:resource="http://localhost:8000/b2a73951-1786-32cd-9750-c12332a1946f"/>
+        <skos:related rdf:resource="http://localhost:8000/27514107-aa21-36bf-b1d8-1355cc6e2754"/>
+        <skos:prefLabel xml:lang="en">{"id": "a05277be-31c7-4efe-b3a4-645f2c536b1f", "value": "BRICK"}</skos:prefLabel>
+        <skos:altLabel xml:lang="en">{"id": "751a3e04-d7bb-4381-85b6-30273c4b199e", "value": "Ruabon Brick"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en-us">{"id": "f0063339-831f-4a27-91fb-43d0c85441d8", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/97777"}</dcterms:identifier>
+        <skos:altLabel xml:lang="en">{"id": "6b40023c-320e-4ab1-b9d3-aa3eb7a17152", "value": "Vitrified Brick"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+        <skos:scopeNote xml:lang="en">{"id": "e1210cce-2b5f-4d1d-aeae-5b9138debea3", "value": "Standard rectangular block or tablet bonded on mortar joints in a regular arrangement or pattern for strength or decoration. Made from clay or brick earth which may contain varying quantities of chalk, lime or iron oxide which effect colour or density."}</skos:scopeNote>
+      </skos:Concept>
+    </skos:related>
+    <skos:scopeNote xml:lang="en">{"id": "705f9134-1511-4f16-b801-361aed153448", "value": "A fine grained earth which becomes more plastic when water is added and can be moulded and dried to make bricks, tile, pottery, etc."}</skos:scopeNote>
+    <dcterms:identifier xml:lang="en-us">{"id": "5715d214-2555-40b7-86e9-8371f3c311cc", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/97827"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "853d7c0f-89c8-4533-ae31-c5d1429c1d40", "value": "CLAY"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+    <skos:altLabel xml:lang="en">{"id": "aa367207-5fc7-427c-ace2-f0f6cda0f261", "value": "Clay Tile"}</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/4264c07d-f565-3cbe-9d5f-6523c05118ee">
+    <skos:scopeNote xml:lang="en">{"id": "93494be6-b95b-44a2-b325-f255e8581472", "value": "Medium grained, hard, white/grey coloured stone consisting of quartz and often silica, produced by the metamorphosis of sandstone."}</skos:scopeNote>
+    <skos:related>
+      <skos:Concept rdf:about="http://localhost:8000/10c85bd8-17dd-36e6-8e99-21277486ff7d">
+        <skos:related rdf:resource="http://localhost:8000/4264c07d-f565-3cbe-9d5f-6523c05118ee"/>
+        <skos:prefLabel xml:lang="en">{"id": "c247dc87-99ba-4a06-940a-aa038fd288c0", "value": "QUARTZ"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+        <dcterms:identifier xml:lang="en-us">{"id": "236dc5d3-13c9-4053-ae4c-ce6c334e051d", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/98133"}</dcterms:identifier>
+        <skos:scopeNote xml:lang="en">{"id": "8646c5cd-989f-43b1-8855-6ee19b8fad9d", "value": "Hard, transparent, often coloured mineral. Can be found on its own as crystals and veins but also as a major constituent of rocks such as granite. Often used decoratively."}</skos:scopeNote>
+      </skos:Concept>
+    </skos:related>
+    <dcterms:identifier xml:lang="en-us">{"id": "4fc5aa30-b83f-4183-a2e2-ce95824d6d75", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/98134"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "9589f3f9-ccba-4643-acc7-fa07c75e1107", "value": "QUARTZITE"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/b2cc11ea-9a23-31be-bf43-aca4e7806979">
+    <skos:altLabel xml:lang="en">{"id": "fda1e64f-89e8-441f-8bf2-3807670fa88a", "value": "Painted Wall Plaster"}</skos:altLabel>
+    <skos:scopeNote xml:lang="en">{"id": "21a688c9-b17b-4018-8da3-3b2b56c82743", "value": "Plaster which has been painted either for decorative purposes or to protect it."}</skos:scopeNote>
+    <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+    <skos:prefLabel xml:lang="en">{"id": "fd9aadae-9ef2-4471-9d9e-1d20fba9386d", "value": "PAINTED PLASTER"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en-us">{"id": "992322d8-2c37-459a-ace5-b157b6d8fd2e", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/143498"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/24eba2f3-fdeb-3b52-94c9-682f2d49a538">
+    <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+    <skos:prefLabel xml:lang="en">{"id": "e7dfcb74-d491-43fb-ab32-c5fd25dfa177", "value": "SHINGLE"}</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">{"id": "a2ef7657-80c8-4e12-bec6-6ee288a7c4b0", "value": "Wooden roof tile (traditionally oak) which is riven or sawn from good quality timber to a regular size and used as a roof and/or wall covering. Index with type of wood if known."}</skos:scopeNote>
+    <dcterms:identifier xml:lang="en-us">{"id": "f3bd6d87-3896-482c-a1d3-47401d72114a", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/98186"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/1216b731-5730-36af-a722-609b585c6194">
+    <skos:scopeNote xml:lang="en">{"id": "5b4d2533-2e20-4599-8535-03f001a25885", "value": "Wood, cut and seasoned so forming or capable of forming any part of a structure. May be treated with preservative before use."}</skos:scopeNote>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/6f572876-7657-3d3f-bdce-ad37212efe69">
+        <skos:scopeNote xml:lang="en">{"id": "fa98f778-3829-4082-81d1-0d9a15b6cc13", "value": "Wooden rods or stakes which can be interlaced with twigs or branches to make walls or fences, or more commonly, to form the basis of panels in traditional timber framed buildings which are then covered with daub."}</skos:scopeNote>
+        <skos:related rdf:resource="http://localhost:8000/1197c870-a6f9-31ea-b230-24084b54be58"/>
+        <dcterms:identifier xml:lang="en-us">{"id": "f013b0ae-c557-4293-80e0-a66dacecd2d2", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/98276"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+        <skos:prefLabel xml:lang="en">{"id": "769b4c88-7125-4df6-a025-5b1c67d5b1aa", "value": "WATTLE"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:related>
+      <skos:Concept rdf:about="http://localhost:8000/385b1582-ddb0-3c09-9be3-397a94e34c6c">
+        <skos:narrower rdf:resource="http://localhost:8000/d4d83d95-f8bf-3cff-a112-adc92a8287f3"/>
+        <skos:narrower rdf:resource="http://localhost:8000/8325d7b5-53aa-3f80-9035-e94465df1f22"/>
+        <dcterms:identifier xml:lang="en-us">{"id": "aebac6f0-52d6-4cb9-8a4e-2a119f868307", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/98301"}</dcterms:identifier>
+        <skos:narrower rdf:resource="http://localhost:8000/da72f1d2-c8b7-37d9-b220-08d5c5fa5be6"/>
+        <skos:narrower rdf:resource="http://localhost:8000/0fcaaa33-3668-350a-96f1-18a05262372e"/>
+        <skos:prefLabel xml:lang="en">{"id": "1c634bfa-07fb-4f61-9aa3-6ad65559ef06", "value": "WOOD"}</skos:prefLabel>
+        <skos:narrower rdf:resource="http://localhost:8000/5034eccc-5891-3089-b4b7-d49fbe69fa72"/>
+        <skos:related rdf:resource="http://localhost:8000/1216b731-5730-36af-a722-609b585c6194"/>
+        <skos:narrower rdf:resource="http://localhost:8000/6ceec563-828b-37d7-9815-180200b79fcf"/>
+        <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+        <skos:scopeNote xml:lang="en">{"id": "bb7a3bf9-720c-4aee-af6d-1d057f3dca6b", "value": "Hard, compact, unprocessed, fibrous cellulose substance. The roots, trunks and branches of trees and shrubs consist of this tissue."}</skos:scopeNote>
+        <skos:related rdf:resource="http://localhost:8000/32fe432f-9006-39ca-bcf4-d02f157099ea"/>
+      </skos:Concept>
+    </skos:related>
+    <skos:prefLabel xml:lang="en">{"id": "985e41d8-32ce-427b-9dbc-4c5b2235a51d", "value": "TIMBER"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en-us">{"id": "8e498748-fafc-469a-a611-29a034328df0", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/98242"}</dcterms:identifier>
+    <skos:narrower rdf:resource="http://localhost:8000/24eba2f3-fdeb-3b52-94c9-682f2d49a538"/>
+    <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/96deaeae-9e6f-3002-9151-257d7ed0a487">
+    <dcterms:identifier xml:lang="en-us">{"id": "6e344490-87e8-4263-80e9-46fd272948bc", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/98023"}</dcterms:identifier>
+    <skos:scopeNote xml:lang="en">{"id": "9177d707-6025-4c2a-9255-7d8b0fb31f91", "value": "Animal skin that has been hardened or treated by a tanning process."}</skos:scopeNote>
+    <skos:prefLabel xml:lang="en">{"id": "8cf3e844-973d-4a77-9221-6a3b2cee2382", "value": "LEATHER"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/d4d83d95-f8bf-3cff-a112-adc92a8287f3">
+    <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+    <skos:prefLabel xml:lang="en">{"id": "829c0361-5706-4777-9dae-108c4fdc40f1", "value": "OAK"}</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">{"id": "6e9b2398-e4be-4e7b-a92d-a6f7335b60b0", "value": "A native hardwood of the Beech family with hard and durable characteristics which traditionally made it appropriate for structural work."}</skos:scopeNote>
+    <dcterms:identifier xml:lang="en-us">{"id": "c74bb324-0114-4799-88b0-19f0c1f479c2", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/98074"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/32fe432f-9006-39ca-bcf4-d02f157099ea">
+    <skos:prefLabel xml:lang="en">{"id": "b8f99ef9-e7c2-4976-9dcb-784411f6f4bf", "value": "PAPER"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+    <skos:scopeNote xml:lang="en">{"id": "219bc77b-92f2-41ef-af22-f2bdd248f240", "value": "Thin flexible sheets made from the pulp of wood or other fibrous matter."}</skos:scopeNote>
+    <skos:related rdf:resource="http://localhost:8000/385b1582-ddb0-3c09-9be3-397a94e34c6c"/>
+    <dcterms:identifier xml:lang="en-us">{"id": "553d3318-e4d6-495f-bcd0-4124347fba7f", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/98082"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/1f6130eb-dc36-3f3a-a9d2-ea81a82b5f6e">
+    <skos:prefLabel xml:lang="en">{"id": "38cc98d2-2512-4e60-aca0-ea948d63a7c3", "value": "BASALT"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+    <skos:scopeNote xml:lang="en">{"id": "40b303aa-be02-4510-b1b2-0b6142e4a181", "value": "Basic, black coloured, fine grained, igneous rock."}</skos:scopeNote>
+    <dcterms:identifier xml:lang="en-us">{"id": "a54e0c88-2ac8-4d58-8fcc-704f55477d7a", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/97734"}</dcterms:identifier>
+    <skos:related>
+      <skos:Concept rdf:about="http://localhost:8000/8b3ec9df-a12e-3cce-af24-97d65f97f55e">
+        <skos:prefLabel xml:lang="en">{"id": "5bc9e61c-8da0-424b-9ecf-eef6d4f86318", "value": "SERPENTINE"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en-us">{"id": "c7ca0c0e-7b28-42b1-aad2-94dd2a9f8ab8", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/98181"}</dcterms:identifier>
+        <skos:scopeNote xml:lang="en">{"id": "43988fcc-e772-4654-be3b-5125ea04bd27", "value": "Medium to coarse grained, green to dark red/black coloured igneous rock, mainly found on The Lizard, South West Cornwall. Due to its fragmentary structure, Serpentine is mainly used for decorative and ornamental purposes."}</skos:scopeNote>
+        <skos:related rdf:resource="http://localhost:8000/1f6130eb-dc36-3f3a-a9d2-ea81a82b5f6e"/>
+        <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+      </skos:Concept>
+    </skos:related>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/b3831450-b069-3bed-b0d6-2463babac3d0">
+    <skos:prefLabel xml:lang="en">{"id": "b8cc4ca7-a41b-4696-ba76-89da406b06e8", "value": "LEAD"}</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">{"id": "001baadb-15fa-4834-9f18-a00108dc5a39", "value": "Metal used primarily for roof coverings and window fittings. It is easy to work, can be worked cold and does not rust which makes it suitable for holding or repelling water."}</skos:scopeNote>
+    <dcterms:identifier xml:lang="en-us">{"id": "88878210-be11-40ee-b918-9478d6c24f26", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/98022"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/b616dd63-f93e-3977-ba44-d74bc85ea514">
+    <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+    <dcterms:identifier xml:lang="en-us">{"id": "36bf5ed0-81a8-4d5e-9adb-682f4d8865ff", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/98305"}</dcterms:identifier>
+    <skos:scopeNote xml:lang="en">{"id": "82048f72-ea75-4278-847b-9a26fa7eacbb", "value": "The oldest form of iron, it is a tough, pure form of iron that can be fashioned into decorative items or shapes by hammering, squeezing or rolling."}</skos:scopeNote>
+    <skos:prefLabel xml:lang="en">{"id": "c48cee2e-c3c4-4edf-9413-49797cf5e535", "value": "WROUGHT IRON"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/a12c2d31-6730-3e32-a872-e87b1ccba039">
+    <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+    <skos:prefLabel xml:lang="en">{"id": "2305ef4e-dad0-47a1-a3c5-1787e95c1621", "value": "STUCCO"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en-us">{"id": "4a4eb741-c9f9-4b1b-9140-ba56b6ed1faf", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/98220"}</dcterms:identifier>
+    <skos:scopeNote xml:lang="en">{"id": "25407cc4-982e-416c-9bb4-16383f351606", "value": "Smooth rendering applied to the exterior of buildings which may be incised to suggest coursed masonry. Made of lime and sand or brick dust, and more recently, cement."}</skos:scopeNote>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/ddf59152-c3e2-3781-b8a5-f7c81e930f5a">
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/9c1063a7-d8ca-3710-8e40-25a30a030fd8">
+        <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+        <skos:prefLabel xml:lang="en">{"id": "7221ee5c-b2de-4c81-8624-44dd084d313a", "value": "FLUORITE"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en-us">{"id": "adcfca62-d745-46f7-8a26-bd9aa1412228", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/97923"}</dcterms:identifier>
+        <skos:scopeNote xml:lang="en">{"id": "000129c0-4cc1-446c-947d-f64e30c7a957", "value": "Soft mineral, colour varying from black/purple to yellow/green. Commonly found as a mineral vein."}</skos:scopeNote>
+        <skos:altLabel xml:lang="en">{"id": "a102b155-a71c-4c6c-b7a5-b68faa891ac1", "value": "Fluorspar"}</skos:altLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower rdf:resource="http://localhost:8000/10c85bd8-17dd-36e6-8e99-21277486ff7d"/>
+    <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+    <skos:prefLabel xml:lang="en">{"id": "c718baec-785f-46de-a581-f58f37d7ae76", "value": "MINERAL"}</skos:prefLabel>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/c7eb9ea2-13a7-3688-ab0d-1a3c741b5d5e">
+        <dcterms:identifier xml:lang="en-us">{"id": "98515ed8-db81-411a-972b-a0f6d28bddd2", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/97892"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+        <skos:scopeNote xml:lang="en">{"id": "451824e4-3ce2-4910-96ec-ec2293beb754", "value": "Soft, often white, but may be transparent. Dolomite can be found on its own, but may also occur as a replacement mineral found in some rocks, particularly limestone, formed after action by magnesium-rich fluids."}</skos:scopeNote>
+        <skos:prefLabel xml:lang="en">{"id": "2d418b15-9ef9-4041-8143-6692cd5e1d97", "value": "DOLOMITE"}</skos:prefLabel>
+        <skos:altLabel xml:lang="en">{"id": "b0b25fb3-e12e-4c78-bf6f-5bcd079465ac", "value": "Dolomitic Conglomerate"}</skos:altLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/b9f09a66-0df0-362c-a871-72db74a7555f">
+        <dcterms:identifier xml:lang="en-us">{"id": "aece1f98-92ab-4e71-8563-13001f15f87b", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/97980"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+        <skos:scopeNote xml:lang="en">{"id": "3a638e72-e98d-4da9-93d1-84567407e627", "value": "Medium hard, green/black coloured. Found in many igneous and metamorphic rocks."}</skos:scopeNote>
+        <skos:prefLabel xml:lang="en">{"id": "80bc6858-34df-47f9-81be-e8c450687a7f", "value": "HORNBLENDE"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:scopeNote xml:lang="en">{"id": "22fddbda-499d-4b20-9c71-bc5d0d899ff9", "value": "Natural inorganic substance possessing a definite chemical composition in a crystalline form. See MINERAL Class Listnfor narrow terms."}</skos:scopeNote>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/f968b733-2c1d-3dd8-a81b-f4becc9fa785">
+        <dcterms:identifier xml:lang="en-us">{"id": "ca50b4aa-fff8-4412-87ea-c5dc8a8e7dc8", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/97915"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+        <skos:prefLabel xml:lang="en">{"id": "83dc636e-3a7d-4601-a596-629cb3accd6e", "value": "FELDSPAR"}</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">{"id": "f1075783-78f7-44da-945a-b6ca56bf2142", "value": "Hard, often coloured, can be transparent. Found on its own as crystals and veins but also as a major constituent of all three geological rock types."}</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+    <dcterms:identifier xml:lang="en-us">{"id": "5a9895d0-328b-401d-aac4-bd9a55b35858", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/98058"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/4c87d2d4-12fc-3b75-8bfe-0d8ccd3f7393">
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/6ec0626b-773c-39e0-80b0-f2b2fe591292">
+        <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+        <skos:scopeNote xml:lang="en">{"id": "212b6abf-3b3c-4408-a018-f738dbe2581d", "value": "Easily formed metal alloy composed of copper and zinc."}</skos:scopeNote>
+        <skos:prefLabel xml:lang="en">{"id": "280b4913-174e-4787-ab7a-90278cbcbf2a", "value": "BRASS"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en-us">{"id": "36a1dd36-65d6-4cb9-98aa-161efeef7691", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/97772"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/fa7d3468-6ce0-3bc3-81e8-7c1f3f8e77d2">
+        <dcterms:identifier xml:lang="en-us">{"id": "f7842e07-92e4-49bd-816a-237ad88bbe42", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/98312"}</dcterms:identifier>
+        <skos:scopeNote xml:lang="en">{"id": "29e7275a-5f71-4348-b8ff-6ea51d49a9b0", "value": "A hard and lustrous metallic element, used for roofing, galvanising iron and a component of alloys such as brass."}</skos:scopeNote>
+        <skos:prefLabel xml:lang="en">{"id": "b509156a-d506-417f-9dc3-f42317e7e0e5", "value": "ZINC"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:prefLabel xml:lang="en">{"id": "7206e2d3-5861-4ff9-aec7-746c62200a08", "value": "METAL"}</skos:prefLabel>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/929ae0c8-9496-3195-84d0-9f7426b38006">
+        <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+        <skos:prefLabel xml:lang="en">{"id": "da261126-7bb9-4198-93ff-a6e4350652ca", "value": "IRON"}</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">{"id": "e4b00233-91cf-40bb-a003-2e506d6f46b8", "value": "A malleable, ductile ferromagnetic metal widely used for structural and decorative purposes."}</skos:scopeNote>
+        <skos:altLabel xml:lang="en">{"id": "a3428f18-5543-4236-bf63-cb644818c729", "value": "Corrugated Iron"}</skos:altLabel>
+        <skos:narrower rdf:resource="http://localhost:8000/8f199f69-633a-3822-bd33-4ebc773b1a0f"/>
+        <skos:narrower rdf:resource="http://localhost:8000/b616dd63-f93e-3977-ba44-d74bc85ea514"/>
+        <dcterms:identifier xml:lang="en-us">{"id": "bbd0ecfb-36e6-4cd7-862e-556509ff7a47", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/97992"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/3f5915be-47fa-3a07-b330-0001a46cf8b1">
+        <skos:prefLabel xml:lang="en">{"id": "2bc4c34c-b0cc-469b-a821-4a2af1a4ed79", "value": "SILVER"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en-us">{"id": "86e46fa3-6d2f-4e7b-a1ab-63f98835daa8", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/98189"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+        <skos:scopeNote xml:lang="en">{"id": "06af92c5-533b-4d24-babb-a0a8bcc4d5b2", "value": "A precious metal of lustrous white colour with great malleability and ductility."}</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/37a2fc37-7c5b-3375-b9d4-beb695cff563">
+        <skos:scopeNote xml:lang="en">{"id": "945afed9-c288-4350-bd49-396938442d2a", "value": "Hard, corrosive resistant alloy of copper and tin."}</skos:scopeNote>
+        <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+        <skos:prefLabel xml:lang="en">{"id": "0cae4c98-9f4e-4e1f-b9dc-1acce002d957", "value": "BRONZE"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en-us">{"id": "47b0c071-f578-481c-a4d9-9aec83be59a8", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/97779"}</dcterms:identifier>
+        <skos:related rdf:resource="http://localhost:8000/8fa73ff5-2aee-393d-9dc0-de3492bcb979"/>
+        <skos:related rdf:resource="http://localhost:8000/e9e45911-c81c-3d55-8c82-3c12effdb2f1"/>
+      </skos:Concept>
+    </skos:narrower>
+    <dcterms:identifier xml:lang="en-us">{"id": "b8d1b629-dfd6-4141-809c-c3cde3459d5a", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/98053"}</dcterms:identifier>
+    <skos:narrower rdf:resource="http://localhost:8000/b3831450-b069-3bed-b0d6-2463babac3d0"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/bd16afa6-bc8a-3c10-8a6c-5a36986cf278">
+        <dcterms:identifier xml:lang="en-us">{"id": "8304b400-298c-407a-900a-3d92826280b7", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/98213"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="en">{"id": "5f79e351-81d4-45d8-82bf-dea52566ef75", "value": "STEEL"}</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">{"id": "febce2d0-a5f8-434c-933e-368eddf5f2a3", "value": "An alloy of iron and carbon, its strength makes it suitable for load bearing purposes. It is primarily used in structural steelwork and concrete reinforcement."}</skos:scopeNote>
+        <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:scopeNote xml:lang="en">{"id": "7e3014aa-2479-42bf-88de-5ba22c574bc4", "value": "Class of elements and alloys that are characteristically lustrous,ductile, fusible and malleable. These are extracted from ore minerals originally existing in nature and processed before becoming a recognisable metal. See METAL Class List for narrow terms"}</skos:scopeNote>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/a9a57bd6-8d5d-356c-9c63-ea1ccdf60b6d">
+        <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+        <skos:prefLabel xml:lang="en">{"id": "847724a6-1bea-4036-9b96-9cd5fe0a1ab2", "value": "GOLD"}</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">{"id": "0abd2ebd-4ff3-4fe0-81d5-6b0de3fa74cb", "value": "A precious metal characterised by its yellow colour and resistance to tarnishing."}</skos:scopeNote>
+        <dcterms:identifier xml:lang="en-us">{"id": "90ba425d-0d7a-455c-8fab-e89c3ce5191a", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/97942"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/e9e45911-c81c-3d55-8c82-3c12effdb2f1">
+        <skos:related rdf:resource="http://localhost:8000/37a2fc37-7c5b-3375-b9d4-beb695cff563"/>
+        <skos:prefLabel xml:lang="en">{"id": "ae22fc0f-a3ad-42a6-a042-193b3ef363fd", "value": "TIN"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en-us">{"id": "924c5651-7c52-4dee-a1e4-56e2f2a8e305", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/98243"}</dcterms:identifier>
+        <skos:scopeNote xml:lang="en">{"id": "8850b78b-6741-4675-a7b2-9ccfb95e4a8e", "value": "Malleable metal used for roofing and for alloys such as bronze."}</skos:scopeNote>
+        <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/8fa73ff5-2aee-393d-9dc0-de3492bcb979">
+        <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+        <skos:scopeNote xml:lang="en">{"id": "a489c630-1eeb-4d00-9b0f-1e648ac9a655", "value": "Metal used primarily for roofing and ornamental purposes, being lighter and stronger than lead."}</skos:scopeNote>
+        <skos:related rdf:resource="http://localhost:8000/37a2fc37-7c5b-3375-b9d4-beb695cff563"/>
+        <skos:prefLabel xml:lang="en">{"id": "e3c2ecb1-fb92-485d-8808-651332757d1e", "value": "COPPER"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en-us">{"id": "67136be7-b44a-4070-8766-90a129989224", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/97845"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/136841e7-d0f8-3cad-9744-dc041ab53a3a">
+        <dcterms:identifier xml:lang="en-us">{"id": "ac9c4195-b6f8-4ed1-abc0-615d72a3fccf", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/97708"}</dcterms:identifier>
+        <skos:altLabel xml:lang="en">{"id": "1d791248-ee85-4883-8088-a0945bf08a0d", "value": "Corrugated Aluminium"}</skos:altLabel>
+        <skos:scopeNote xml:lang="en">{"id": "2e4a8b88-4cc5-4fde-a0b7-37c08b5fba75", "value": "Lightweight, strong metal with good corrosive resistance, normally used as an alloy."}</skos:scopeNote>
+        <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+        <skos:prefLabel xml:lang="en">{"id": "2a9e7543-4a82-4f65-80b7-44184b9bcaf1", "value": "ALUMINIUM"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/2ba00b25-118f-3269-bb4e-792a64ba0024">
+    <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+    <skos:scopeNote xml:lang="en">{"id": "62426837-2bd9-403c-879f-b42e40cbf8bd", "value": "Designating or pertaining to hard, brittle substances produced by strong heating of clay."}</skos:scopeNote>
+    <dcterms:identifier xml:lang="en-us">{"id": "985321ac-c51a-4ff9-88a1-f75a8047b3ad", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/97813"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "845d5bb9-c995-4aad-804c-908068fb4b42", "value": "CERAMIC"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/9c5ba1e5-4db9-353d-be71-9cbbf170bc82">
+    <skos:scopeNote xml:lang="en">{"id": "1121956f-c0c5-4cfa-8e07-a586b58feb47", "value": "Sedimentary rock consisting of rounded pebbles naturally cemented together."}</skos:scopeNote>
+    <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+    <dcterms:identifier xml:lang="en-us">{"id": "8eaabaaf-2a9a-440d-b86a-45486cb90dee", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/97843"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "0eb066f0-0574-4ecb-9294-78d65fa9417b", "value": "CONGLOMERATE"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/65afb3fc-de7a-35b8-b57a-d072df0f403e">
+    <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+    <skos:scopeNote xml:lang="en">{"id": "b53e0f7a-d9ea-47b8-b52b-7577c18acd02", "value": "Medium grained, intrusive, black or dark green coloured, igneous rock."}</skos:scopeNote>
+    <skos:prefLabel xml:lang="en">{"id": "5a61e2d8-7824-4492-931e-0e8501c36a13", "value": "DOLERITE"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en-us">{"id": "65404746-49e9-415b-8cf7-c9ae79131cda", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/97891"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/50df3f5a-339b-3406-8da9-334a1a022988">
+    <dcterms:identifier xml:lang="en-us">{"id": "1b26b61f-96d0-4d7e-bec9-2abde05a70ea", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/97876"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "fd22101e-6b59-4851-838b-95f141ccf98b", "value": "DECORATIVE PLASTER"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+    <skos:scopeNote xml:lang="en">{"id": "c5ec4737-3942-41a6-b2be-4bbea7dc93d0", "value": "Ornate or patterned decoration, carved into or moulded from plaster."}</skos:scopeNote>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/9357c04b-4148-3e9a-b037-352a05f2de8c">
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/c93b194f-d8d5-3c58-9e2b-750d951a8abc">
+        <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+        <skos:prefLabel xml:lang="en">{"id": "fab6a7ac-42eb-426c-a438-5d4d54c5ddc0", "value": "TESSERA"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en-us">{"id": "5cf49983-23f1-449c-82f6-f2296e64c382", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/98237"}</dcterms:identifier>
+        <skos:altLabel xml:lang="en">{"id": "3766e1fc-2dbb-4c06-bb9e-6b74e3b8b307", "value": "Mosaic"}</skos:altLabel>
+        <skos:scopeNote xml:lang="en">{"id": "82fe8f91-316f-40e9-9d92-8911cff20eaa", "value": "Squared block of glass, tile, stone or marble used in mosaic."}</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:prefLabel xml:lang="en"><![CDATA[{"id": "d236b776-8b87-40b1-b37f-c1d6605f6666", "value": "MATERIAL <BY FORM>"}]]></skos:prefLabel>
+    <skos:narrower rdf:resource="http://localhost:8000/1ccca3f3-4c13-35b5-a7e7-4ccee13a8330"/>
+    <dcterms:identifier xml:lang="en-us">{"id": "3bd1fbc6-d612-43a3-b02c-40c938e700ec", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/98046"}</dcterms:identifier>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/96f326a0-39ac-302f-b93d-9974b632d546">
+        <skos:scopeNote xml:lang="en">{"id": "53b29f48-2c46-41bd-8eeb-1eb470c950a4", "value": "Grains of rock fragment larger than coarse sand and finer than pebbles (diameter 2-4mm)."}</skos:scopeNote>
+        <skos:related rdf:resource="http://localhost:8000/32000ffe-561e-34b4-b1a4-c81fbf6a7619"/>
+        <skos:prefLabel xml:lang="en">{"id": "f0030a40-cb77-4155-9702-c83c71e064f8", "value": "GRAVEL"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+        <skos:related rdf:resource="http://localhost:8000/d96292bf-8962-3326-b9c7-2bf8d328722b"/>
+        <dcterms:identifier xml:lang="en-us">{"id": "56637436-98f1-4c83-80e8-3038ae5ba532", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/97947"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/dcbbc34e-a5eb-3a93-a8ef-19840b974650">
+        <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+        <skos:scopeNote xml:lang="en">{"id": "8438b962-92a9-4aea-8961-2627895bdf17", "value": "Tablet of a uniform shape. Used as finishing or covering materials which fit together in a regular format."}</skos:scopeNote>
+        <skos:prefLabel xml:lang="en">{"id": "175ad0d7-4d2e-434f-ae5c-39f261bda8d1", "value": "TILE"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en-us">{"id": "5c1dd441-a0f7-4ccb-9861-eb12865eb6f3", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/98241"}</dcterms:identifier>
+        <skos:narrower rdf:resource="http://localhost:8000/24eba2f3-fdeb-3b52-94c9-682f2d49a538"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:scopeNote xml:lang="en"><![CDATA[{"id": "f7fa1ea8-3fdf-4401-9c5e-5620781f0351", "value": "A raw material determined by its form or a finished product material characterised by its end shape or form. See MATERIAL <BY FORM> Class List for narrow terms."}]]></skos:scopeNote>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/d1e7a769-89d7-3a49-98a7-87f10abdbad9">
+        <dcterms:identifier xml:lang="en-us">{"id": "376b352c-b6a6-4bf6-9079-1a4cb036b033", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/97722"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="en">{"id": "58f719cc-3186-4ec8-bb9e-762b91d64097", "value": "ASHLAR"}</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">{"id": "77ea838d-b227-4ae1-9bbd-8d88b827e9d2", "value": "A square, hewn or worked, high class freestone which can be 'freely' cut and is laid in horizontal courses with vertical joints."}</skos:scopeNote>
+        <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/747ea715-44c4-397b-a5c4-e057caebd851">
+        <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+        <dcterms:identifier xml:lang="en-us">{"id": "0aad2ea7-bbae-4a0b-9ca6-78a0c0121ad5", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/98089"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="en">{"id": "20e84aa1-5162-4c8d-a939-c33616b82a32", "value": "PEBBLE"}</skos:prefLabel>
+        <skos:related rdf:resource="http://localhost:8000/32000ffe-561e-34b4-b1a4-c81fbf6a7619"/>
+        <skos:scopeNote xml:lang="en">{"id": "20a99390-2ee9-435a-b5ed-c6e30c558356", "value": "Rock fragment (diameter 4-64mm) larger than gravel and smaller than cobble, combined with other material e.g. flint, for decorative effect."}</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/1d4c923f-0ef3-309f-97be-255d5c2f00b2">
+        <skos:related rdf:resource="http://localhost:8000/32000ffe-561e-34b4-b1a4-c81fbf6a7619"/>
+        <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+        <skos:scopeNote xml:lang="en">{"id": "060fc759-e294-4327-b9c3-798a49c69a32", "value": "Naturally occurring glacial rock fragments (diameter 64-256mm) larger than pebble and smaller than boulder."}</skos:scopeNote>
+        <skos:prefLabel xml:lang="en">{"id": "287ea96b-3e49-48ee-9fc7-600e14e9e2d4", "value": "COBBLE"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en-us">{"id": "fe31a6d8-bdbd-42da-837a-966054c3cb39", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/97836"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower rdf:resource="http://localhost:8000/50df3f5a-339b-3406-8da9-334a1a022988"/>
+    <skos:narrower rdf:resource="http://localhost:8000/1216b731-5730-36af-a722-609b585c6194"/>
+    <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/1c93a5a5-b34d-3a0f-86d4-e2c78905ea97">
+        <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+        <skos:scopeNote xml:lang="en">{"id": "84c7dfa5-2ab4-47c1-88b7-ebfb6dfc6e10", "value": "Rough, unhewn, undressed building stones with irregular faces, generally not laid in regular courses. Index with type of stone if specified."}</skos:scopeNote>
+        <skos:prefLabel xml:lang="en">{"id": "07370fd3-70a1-4044-89ae-10f6af95d271", "value": "RUBBLE"}</skos:prefLabel>
+        <skos:related rdf:resource="http://localhost:8000/32000ffe-561e-34b4-b1a4-c81fbf6a7619"/>
+        <dcterms:identifier xml:lang="en-us">{"id": "d38be830-b2bb-48ab-93e0-b676e55c6acc", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/98165"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/3ea138d4-afae-3752-8964-a75b6c54cc11">
+        <skos:related rdf:resource="http://localhost:8000/f9c8820d-a106-3c03-9be4-6c4f4d81f26d"/>
+        <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+        <skos:prefLabel xml:lang="en">{"id": "40f46173-265b-4129-9d3d-5a2a2ef3991c", "value": "THATCH"}</skos:prefLabel>
+        <skos:related rdf:resource="http://localhost:8000/d839da81-3e0f-385e-8b90-a4d0017f0c4c"/>
+        <skos:related rdf:resource="http://localhost:8000/141d72ac-dacf-3b74-9d1f-9db42c225daf"/>
+        <skos:scopeNote xml:lang="en">{"id": "dda23554-7534-4cff-a8fa-ec4bff07132d", "value": "Traditional roof covering consisting of materials such as reed, straw or heather layered and fastened together onto roof to form a run off to prevent water penetration."}</skos:scopeNote>
+        <dcterms:identifier xml:lang="en-us">{"id": "91e88452-8a73-44e0-949b-3dcf51e9c61b", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/98239"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/0fcaaa33-3668-350a-96f1-18a05262372e">
+    <skos:prefLabel xml:lang="en">{"id": "5ed9d1e2-e96d-4053-95c5-0df2691ff5f0", "value": "ELM"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+    <skos:scopeNote xml:lang="en">{"id": "2950091c-cc1b-4856-b92c-84c51c5fc7fe", "value": "Deciduous wood from the native elm tree, commonly used for framing or cladding of lesser timber framed structures due to its poorer weathering qualities as compared to oak."}</skos:scopeNote>
+    <dcterms:identifier xml:lang="en-us">{"id": "d338b5f9-0fbb-4c5a-a376-5fd9aba92662", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/97906"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/f6169c7d-a1c0-3bd2-81b5-f966d0a18dd7">
+    <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+    <skos:scopeNote xml:lang="en">{"id": "9169d417-04bf-43bd-b12a-923127bc60dd", "value": "Any of the pieces of hard tissue consisting largely of calcium phosphate that make up the skeleton of a vertebrate animal."}</skos:scopeNote>
+    <dcterms:identifier xml:lang="en-us">{"id": "2c2a1145-e089-4b9a-9768-fe174d98ad0e", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/97764"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "c156fcb7-a2ab-4c20-ba2e-e9ff51080d30", "value": "BONE"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/63d7914e-2c2a-3288-94c0-f5c715e55124">
+    <skos:related>
+      <skos:Concept rdf:about="http://localhost:8000/64f22747-5d15-3ba4-b50f-628b8d0f9f9e">
+        <skos:scopeNote xml:lang="en">{"id": "5c154c10-932e-4263-a280-08b1f1acf1d4", "value": "Sedimentary rock consisting mainly of calcium carbonate. Varying in grain size, colour and hardness."}</skos:scopeNote>
+        <skos:prefLabel xml:lang="en">{"id": "287ff69e-57bb-4d73-960d-56fa9cced295", "value": "LIMESTONE"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+        <dcterms:identifier xml:lang="en-us">{"id": "c6ba44f9-beaa-4421-9c86-d19bf678b6d4", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/98028"}</dcterms:identifier>
+        <skos:related rdf:resource="http://localhost:8000/63d7914e-2c2a-3288-94c0-f5c715e55124"/>
+        <skos:related rdf:resource="http://localhost:8000/b5dcf6a8-15e1-34c5-863f-44ad2cc42f1c"/>
+      </skos:Concept>
+    </skos:related>
+    <skos:prefLabel xml:lang="en">{"id": "c6cc518d-7a9a-463e-8acf-b1f0a7857dec", "value": "MARBLE"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+    <dcterms:identifier xml:lang="en-us">{"id": "f5bf8bff-be63-4387-9aa2-5d9a6d35bbdd", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/98044"}</dcterms:identifier>
+    <skos:scopeNote xml:lang="en">{"id": "de6f3b72-d7fa-40d8-b73d-2489a74a0bf6", "value": "Collective name for, in a true geological sense, a metamorphosed limestone, eg. Carrara marble."}</skos:scopeNote>
+    <skos:related>
+      <skos:Concept rdf:about="http://localhost:8000/0ff2ad87-4ee2-31a2-b611-dc4853f10716">
+        <dcterms:identifier xml:lang="en-us">{"id": "a9d7961d-bb9b-4446-b1d8-4ed53ceb94ee", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/97704"}</dcterms:identifier>
+        <skos:scopeNote xml:lang="en">{"id": "763f65c5-2112-4a8c-8c9e-eb4f446522ac", "value": "Fine grained, whitish, granular variety of Gypsum. Suitable for carving."}</skos:scopeNote>
+        <skos:prefLabel xml:lang="en">{"id": "3b101558-a3aa-4738-b9f0-7ca44f381d3f", "value": "ALABASTER"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+        <skos:related rdf:resource="http://localhost:8000/63d7914e-2c2a-3288-94c0-f5c715e55124"/>
+      </skos:Concept>
+    </skos:related>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/f4f1577d-5ec9-3012-b256-93e4ec899ef0">
+    <skos:prefLabel xml:lang="en">{"id": "da006297-8c1c-42b3-b55c-b0bd3615f162", "value": "IRONSTONE"}</skos:prefLabel>
+    <skos:related>
+      <skos:Concept rdf:about="http://localhost:8000/771f8270-923a-344d-be17-ca9075611c9d">
+        <skos:related rdf:resource="http://localhost:8000/b5dcf6a8-15e1-34c5-863f-44ad2cc42f1c"/>
+        <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+        <skos:scopeNote xml:lang="en">{"id": "d35127eb-21ee-42bc-9fd7-eff62468cb23", "value": "Geologically sandstone consists of particles of quartz naturally cemented together by either silica, calcium or iron. It is this geological composition that accounts for the varying colours and grain sizes found in the many building sandstones."}</skos:scopeNote>
+        <skos:prefLabel xml:lang="en">{"id": "17c1e309-ce0c-4ff4-9dcb-e33617959622", "value": "SANDSTONE"}</skos:prefLabel>
+        <skos:related rdf:resource="http://localhost:8000/f4f1577d-5ec9-3012-b256-93e4ec899ef0"/>
+        <dcterms:identifier xml:lang="en-us">{"id": "bfb2aee1-9cc8-4c93-a9d1-6b32eb94b2ea", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/98171"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:related>
+    <skos:scopeNote xml:lang="en">{"id": "2ccc9f71-e2e1-4ad5-acf3-9812f1f1a243", "value": "Collective name for any stone that has become impregnated with iron oxide."}</skos:scopeNote>
+    <dcterms:identifier xml:lang="en-us">{"id": "f43cf9f4-4bea-4995-8572-e5144e9b59c7", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/97993"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/32000ffe-561e-34b4-b1a4-c81fbf6a7619">
+    <skos:narrower rdf:resource="http://localhost:8000/64f22747-5d15-3ba4-b50f-628b8d0f9f9e"/>
+    <skos:related rdf:resource="http://localhost:8000/747ea715-44c4-397b-a5c4-e057caebd851"/>
+    <skos:narrower rdf:resource="http://localhost:8000/65afb3fc-de7a-35b8-b57a-d072df0f403e"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/b5dcf6a8-15e1-34c5-863f-44ad2cc42f1c">
+        <skos:related rdf:resource="http://localhost:8000/771f8270-923a-344d-be17-ca9075611c9d"/>
+        <skos:prefLabel xml:lang="en">{"id": "01e90b8f-b3ba-4d3f-9e8e-5b84d40ba01b", "value": "SHALE"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+        <dcterms:identifier xml:lang="en-us">{"id": "8b6e5af5-950e-4f65-8686-afa1f0292830", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/98183"}</dcterms:identifier>
+        <skos:related rdf:resource="http://localhost:8000/b82cc8da-e486-3c4d-9432-3c195d844940"/>
+        <skos:related rdf:resource="http://localhost:8000/c85c37c6-f56e-31c2-abd3-68f4f48fd2e8"/>
+        <skos:related rdf:resource="http://localhost:8000/64f22747-5d15-3ba4-b50f-628b8d0f9f9e"/>
+        <skos:scopeNote xml:lang="en">{"id": "65933c81-670d-4f93-9785-657f3b5e25dd", "value": "Soft, very fine grained, dark coloured, sedimentary rock which splits easily."}</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower rdf:resource="http://localhost:8000/8b3ec9df-a12e-3cce-af24-97d65f97f55e"/>
+    <skos:prefLabel xml:lang="en">{"id": "1818d6bc-428c-45ac-8e32-d7e302383847", "value": "STONE"}</skos:prefLabel>
+    <skos:narrower rdf:resource="http://localhost:8000/f4f1577d-5ec9-3012-b256-93e4ec899ef0"/>
+    <skos:narrower rdf:resource="http://localhost:8000/0ff2ad87-4ee2-31a2-b611-dc4853f10716"/>
+    <skos:narrower rdf:resource="http://localhost:8000/1f6130eb-dc36-3f3a-a9d2-ea81a82b5f6e"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/b82cc8da-e486-3c4d-9432-3c195d844940">
+        <skos:related rdf:resource="http://localhost:8000/b5dcf6a8-15e1-34c5-863f-44ad2cc42f1c"/>
+        <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+        <skos:prefLabel xml:lang="en">{"id": "50921f04-bbbf-4583-8e14-c5be6274c1c1", "value": "SILTSTONE"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en-us">{"id": "acbb28d5-b81f-4ed5-a127-1dfb4e40aa1b", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/98188"}</dcterms:identifier>
+        <skos:scopeNote xml:lang="en">{"id": "29d1af97-0aa9-4cac-a2b3-d358397c9dbf", "value": "Fine grained, yellow/buff to grey/black coloured sedimentary rock."}</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:related rdf:resource="http://localhost:8000/1d4c923f-0ef3-309f-97be-255d5c2f00b2"/>
+    <dcterms:identifier xml:lang="en-us">{"id": "d2cc1390-6d8a-4d03-acf4-6b0ed252c583", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/98216"}</dcterms:identifier>
+    <skos:scopeNote xml:lang="en">{"id": "3acca59d-f21f-4c5c-9242-f969324a73f7", "value": "Rock of definite form and size, usually artificially shaped. See STONE CLass List for narrow terms."}</skos:scopeNote>
+    <skos:narrower rdf:resource="http://localhost:8000/63d7914e-2c2a-3288-94c0-f5c715e55124"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/6bf27d15-6a7a-3cab-a4c3-29e19f4b71f5">
+        <dcterms:identifier xml:lang="en-us">{"id": "877a6b2f-e9f0-46ff-8f8d-19f2de36d568", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/97944"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+        <skos:scopeNote xml:lang="en">{"id": "1c8ed356-6f98-41f6-9270-ffa7bb7feeba", "value": "A hard, coarse grained, durable igneous rock. Can be used decoratively or as a main material."}</skos:scopeNote>
+        <skos:prefLabel xml:lang="en">{"id": "c3797bc6-1aed-4000-8f09-5a56d14d3197", "value": "GRANITE"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower rdf:resource="http://localhost:8000/4264c07d-f565-3cbe-9d5f-6523c05118ee"/>
+    <skos:narrower rdf:resource="http://localhost:8000/771f8270-923a-344d-be17-ca9075611c9d"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/f16d8470-d8d4-30c1-8bc0-db51977f1441">
+        <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+        <skos:prefLabel xml:lang="en">{"id": "c8d98d5d-ea0d-4570-8a73-ab64493ed6f7", "value": "CHERT"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en-us">{"id": "885ddc9c-03ab-4adb-bbb8-b29f0d8df68f", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/97821"}</dcterms:identifier>
+        <skos:narrower rdf:resource="http://localhost:8000/b13303ee-ebb7-37d3-8dae-8310b00137bd"/>
+        <skos:scopeNote xml:lang="en">{"id": "3d017c7e-36d4-46da-92f5-bd55e394d141", "value": "A hard, silica rich rock, black or brown coloured, commonly found in nodular form."}</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:related rdf:resource="http://localhost:8000/1c93a5a5-b34d-3a0f-86d4-e2c78905ea97"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/c9b98273-2795-3c8f-aa0d-3a458b810b9d">
+        <skos:scopeNote xml:lang="en">{"id": "afc110b0-e777-4db1-842c-1685dece6d87", "value": "Medium to coarse grained metamorphic rock, colour being determined by its dominant mineral. Often used for floor and wall cladding."}</skos:scopeNote>
+        <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+        <skos:prefLabel xml:lang="en">{"id": "06447a82-77ed-4565-b413-a86419d9445c", "value": "SCHIST"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en-us">{"id": "12829ac1-b1e3-4a0c-b8be-41f9c6150720", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/98175"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:related rdf:resource="http://localhost:8000/96f326a0-39ac-302f-b93d-9974b632d546"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/c85c37c6-f56e-31c2-abd3-68f4f48fd2e8">
+        <skos:prefLabel xml:lang="en">{"id": "cbe44d28-9863-4aad-a2ed-d0baded06ad2", "value": "SLATE"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+        <skos:scopeNote xml:lang="en">{"id": "32b0ddff-9de0-4a45-97d6-93469516d01b", "value": "Collective term for a hard, fine grained, dark coloured metamorphic rock, which splits easily; hence its common use as a roofing and flooring material, and a functional description for any rectangular, sheet, roofing material."}</skos:scopeNote>
+        <skos:related rdf:resource="http://localhost:8000/b5dcf6a8-15e1-34c5-863f-44ad2cc42f1c"/>
+        <dcterms:identifier xml:lang="en-us">{"id": "712d3cc1-5ff4-4abb-8f68-14eea73ec100", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/98194"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/f520e9ba-43c4-366d-984f-f2395632d920">
+        <skos:prefLabel xml:lang="en">{"id": "619166d3-0de8-4100-ae17-3deb8236f7d6", "value": "PORPHYRY"}</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">{"id": "42e62d32-9195-435b-8bc5-cf3eecff23ca", "value": "Traditional term for any fine to medium grained igneous rock, containing large crystal fragments."}</skos:scopeNote>
+        <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+        <dcterms:identifier xml:lang="en-us">{"id": "f9915de0-3463-4d88-95fd-cfec53793993", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/102688"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/bbd36324-f43b-3064-8db6-7dee0a104e86">
+        <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+        <skos:prefLabel xml:lang="en">{"id": "514e546b-7bad-4c46-80bb-efed518c462c", "value": "DIORITE"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en-us">{"id": "88f49c15-0c3a-4b0e-a78f-75d8658f56ff", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/97889"}</dcterms:identifier>
+        <skos:scopeNote xml:lang="en">{"id": "d506a7d3-fe43-42be-8f25-d1b00e5d4e8d", "value": "Coarse grained, dark coloured, igneous rock."}</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower rdf:resource="http://localhost:8000/cf6eed5d-51eb-38e5-b2f5-f2a96a07c86f"/>
+    <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/1054c9ef-926f-3ef4-9372-833514ef6658">
+        <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+        <skos:prefLabel xml:lang="en">{"id": "db58ca4f-b67b-42d7-8735-04ff49305cf4", "value": "TUFF"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en-us">{"id": "a217d6d0-a14b-4e13-a455-0ade4e83d529", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/140228"}</dcterms:identifier>
+        <skos:scopeNote xml:lang="en">{"id": "c2f648de-3aed-43f9-8f78-de794f5eb8cf", "value": "A light porous cellular rock, consisting of consolidated volcanic ash ejected from vents during a volcanic eruption."}</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower rdf:resource="http://localhost:8000/9c5ba1e5-4db9-353d-be71-9cbbf170bc82"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/1197c870-a6f9-31ea-b230-24084b54be58">
+    <dcterms:identifier xml:lang="en-us">{"id": "78ce873b-a0b4-4a6e-a480-8c6c2e1c8f05", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/97873"}</dcterms:identifier>
+    <skos:related>
+      <skos:Concept rdf:about="http://localhost:8000/7bd3cf9c-4fd9-3279-9916-edf8f382a324">
+        <skos:related rdf:resource="http://localhost:8000/1197c870-a6f9-31ea-b230-24084b54be58"/>
+        <skos:related rdf:resource="http://localhost:8000/9d85fdb2-7290-318e-843d-0372479eb056"/>
+        <skos:narrower rdf:resource="http://localhost:8000/50df3f5a-339b-3406-8da9-334a1a022988"/>
+        <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+        <skos:narrower rdf:resource="http://localhost:8000/b2cc11ea-9a23-31be-bf43-aca4e7806979"/>
+        <skos:scopeNote xml:lang="en">{"id": "9ddd9fe5-00f6-432d-b657-a4f048ef07de", "value": "Lime plaster, consisting of lime and sand, is the oldest type of render. Applied externally to walls or onto laths for infill panels and usually limewashed."}</skos:scopeNote>
+        <dcterms:identifier xml:lang="en-us">{"id": "478d970a-3a8c-4de0-a46f-1f4b85b73560", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/98110"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="en">{"id": "e2c00cd1-203d-4362-a9b5-d28a8de7e1db", "value": "PLASTER"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:related>
+    <skos:prefLabel xml:lang="en">{"id": "7a5f0de4-64ab-4a84-a166-f098eb62ebd8", "value": "DAUB"}</skos:prefLabel>
+    <skos:related rdf:resource="http://localhost:8000/6f572876-7657-3d3f-bdce-ad37212efe69"/>
+    <skos:related>
+      <skos:Concept rdf:about="http://localhost:8000/9d85fdb2-7290-318e-843d-0372479eb056">
+        <skos:scopeNote xml:lang="en">{"id": "bcf1da34-4b0f-4e0c-8ae2-0a9f53e7763a", "value": "Calcium Oxide obtained by heating limestone in a kiln. Used as a constituent of modern mortar, or as slaked (non-hydraulic) lime in lime putty, daub, limewash and traditional lime plaster, mortar and renders."}</skos:scopeNote>
+        <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+        <skos:related rdf:resource="http://localhost:8000/7bd3cf9c-4fd9-3279-9916-edf8f382a324"/>
+        <skos:related rdf:resource="http://localhost:8000/0af4ca76-6d5e-39ab-b43a-c90d87c1d044"/>
+        <skos:related rdf:resource="http://localhost:8000/1197c870-a6f9-31ea-b230-24084b54be58"/>
+        <skos:prefLabel xml:lang="en">{"id": "f002ffdb-8022-48dc-9bf1-61aa140b7223", "value": "LIME"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en-us">{"id": "006b5ea7-9068-4b26-8e96-d525529a7c8b", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/98026"}</dcterms:identifier>
+        <skos:altLabel xml:lang="en">{"id": "2d2bd995-dda7-4919-a813-d12001b37337", "value": "Lime Mortar"}</skos:altLabel>
+        <skos:related rdf:resource="http://localhost:8000/71f419ca-1ab4-3ebe-837a-51e68e5062f8"/>
+      </skos:Concept>
+    </skos:related>
+    <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+    <skos:scopeNote xml:lang="en">{"id": "fbbb1c88-ce79-4bda-a205-72f144cbf480", "value": "Application of earth based plaster to a backing of lath or wattle used in internal or external walls. Composite mixture which may include clay soil, dung, straw, lime putty, sand or horsehair."}</skos:scopeNote>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/9394835c-3da1-38cc-8c36-1db0d5375218">
+    <skos:scopeNote xml:lang="en">{"id": "6b9baf8d-d8f4-4abb-a020-cd483db72f2c", "value": "A general term for the weatherproof coat on the external walls of a building."}</skos:scopeNote>
+    <skos:narrower rdf:resource="http://localhost:8000/a12c2d31-6730-3e32-a872-e87b1ccba039"/>
+    <dcterms:identifier xml:lang="en-us">{"id": "7997b41a-af04-4197-b1c1-3af7a4ed94df", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/98147"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "07b9c792-3d4e-4855-8cc2-3a7661cc0ff9", "value": "RENDER"}</skos:prefLabel>
+    <skos:narrower rdf:resource="http://localhost:8000/7bd3cf9c-4fd9-3279-9916-edf8f382a324"/>
+    <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/d96292bf-8962-3326-b9c7-2bf8d328722b">
+    <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+    <skos:related>
+      <skos:Concept rdf:about="http://localhost:8000/0af4ca76-6d5e-39ab-b43a-c90d87c1d044">
+        <skos:prefLabel xml:lang="en">{"id": "10832814-4ede-41eb-b9e7-1be3d2531258", "value": "CEMENT"}</skos:prefLabel>
+        <skos:altLabel xml:lang="en">{"id": "33967563-c413-4b5a-babb-6b11061a5103", "value": "Cement Render"}</skos:altLabel>
+        <skos:related rdf:resource="http://localhost:8000/9d85fdb2-7290-318e-843d-0372479eb056"/>
+        <skos:related rdf:resource="http://localhost:8000/d96292bf-8962-3326-b9c7-2bf8d328722b"/>
+        <skos:related rdf:resource="http://localhost:8000/71f419ca-1ab4-3ebe-837a-51e68e5062f8"/>
+        <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+        <skos:related rdf:resource="http://localhost:8000/2609c784-1f0b-3c64-9903-76449536abaa"/>
+        <skos:scopeNote xml:lang="en">{"id": "863f5f6e-2fc6-4d7e-96ea-8a441ec9ab62", "value": "Originally obtained by burning limestone to produce quicklime. Now a fine grey powder made from a mixture of limestone and clay used with water and sand to make mortar or with water, sand and aggregate to make concrete."}</skos:scopeNote>
+        <dcterms:identifier xml:lang="en-us">{"id": "e2b7b4fa-223a-4044-bffc-17edce3eb2b9", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/97809"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:related>
+    <skos:prefLabel xml:lang="en">{"id": "b16b0256-dd47-4319-a414-337bf43049cd", "value": "SAND"}</skos:prefLabel>
+    <skos:related rdf:resource="http://localhost:8000/96f326a0-39ac-302f-b93d-9974b632d546"/>
+    <dcterms:identifier xml:lang="en-us">{"id": "b2c4043b-9f7f-4589-bc63-5bba5401151a", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/98170"}</dcterms:identifier>
+    <skos:related>
+      <skos:Concept rdf:about="http://localhost:8000/2609c784-1f0b-3c64-9903-76449536abaa">
+        <skos:related rdf:resource="http://localhost:8000/0af4ca76-6d5e-39ab-b43a-c90d87c1d044"/>
+        <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+        <dcterms:identifier xml:lang="en-us">{"id": "951e09dd-7439-4046-8153-14d9dc23378e", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/97840"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="en">{"id": "7e101bb5-edb2-454b-8156-91dafc6955dd", "value": "CONCRETE"}</skos:prefLabel>
+        <skos:related rdf:resource="http://localhost:8000/d96292bf-8962-3326-b9c7-2bf8d328722b"/>
+        <skos:scopeNote xml:lang="en">{"id": "88089372-1609-4aad-9853-a71026d556cc", "value": "Composed of sand, stones or other aggregate and cement mixed with water which sets in a hard mass."}</skos:scopeNote>
+      </skos:Concept>
+    </skos:related>
+    <skos:scopeNote xml:lang="en">{"id": "5470e902-5a6f-4e76-ad27-382eae046940", "value": "Granular material consisting of small eroded fragments of rock or mineral grains, finer than gravel used as an ingredient in mortar and other traditional building materials."}</skos:scopeNote>
+    <skos:related>
+      <skos:Concept rdf:about="http://localhost:8000/71f419ca-1ab4-3ebe-837a-51e68e5062f8">
+        <skos:related rdf:resource="http://localhost:8000/d96292bf-8962-3326-b9c7-2bf8d328722b"/>
+        <skos:altLabel xml:lang="en">{"id": "e9d367b0-692c-4763-8342-ec4b002c2ba9", "value": "Lime Mortar"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+        <skos:related rdf:resource="http://localhost:8000/0af4ca76-6d5e-39ab-b43a-c90d87c1d044"/>
+        <skos:scopeNote xml:lang="en">{"id": "adba59a5-4913-4def-a03b-89a6c59847bf", "value": "A mixture of lime or more recently cement with sand and water used for bonding stones or bricks."}</skos:scopeNote>
+        <dcterms:identifier xml:lang="en-us">{"id": "56347fb0-8e67-463c-804f-ea371fe05ecb", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/98062"}</dcterms:identifier>
+        <skos:related rdf:resource="http://localhost:8000/9d85fdb2-7290-318e-843d-0372479eb056"/>
+        <skos:prefLabel xml:lang="en">{"id": "fafa05b9-4bc0-4cb4-94f5-0d2b6b2097b3", "value": "MORTAR"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:related>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/bc80f634-f288-3eba-9498-9bd507f76dfb">
+    <skos:prefLabel xml:lang="en">{"id": "cd9e9e59-1d08-4885-be09-e740f841c942", "value": "MAN MADE MATERIAL"}</skos:prefLabel>
+    <skos:narrower rdf:resource="http://localhost:8000/9394835c-3da1-38cc-8c36-1db0d5375218"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/104c8fde-5c99-3c56-802f-0ce647ed8959">
+        <skos:prefLabel xml:lang="en">{"id": "a684587f-86bf-469a-b754-f9bea024ccc2", "value": "CEMENT MIX"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en-us">{"id": "53ada905-4a73-42b3-b272-749d3cdda7dd", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/97810"}</dcterms:identifier>
+        <skos:narrower rdf:resource="http://localhost:8000/0af4ca76-6d5e-39ab-b43a-c90d87c1d044"/>
+        <skos:narrower rdf:resource="http://localhost:8000/71f419ca-1ab4-3ebe-837a-51e68e5062f8"/>
+        <skos:narrower rdf:resource="http://localhost:8000/2609c784-1f0b-3c64-9903-76449536abaa"/>
+        <skos:scopeNote xml:lang="en">{"id": "9874056a-220a-4f7c-bb07-85aeee018982", "value": "A binder combined with various aggregates which sets and holds together into a mass which then hardens and gains strength."}</skos:scopeNote>
+        <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/980d03c2-abcc-356c-9ef4-5fe915051491">
+        <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+        <skos:prefLabel xml:lang="en">{"id": "05fcf475-0bc1-40ca-91db-00b8105ae6de", "value": "GLASS"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en-us">{"id": "9cdb949c-7e27-44e7-a2df-0109a69a18b5", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/97939"}</dcterms:identifier>
+        <skos:scopeNote xml:lang="en">{"id": "95b29bd3-234d-49d5-a25d-e175690ea0d9", "value": "Transparent, hard substance made by fusing soda-silica which solidifies from a molten state."}</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower rdf:resource="http://localhost:8000/2ba00b25-118f-3269-bb4e-792a64ba0024"/>
+    <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+    <skos:narrower rdf:resource="http://localhost:8000/32fe432f-9006-39ca-bcf4-d02f157099ea"/>
+    <skos:scopeNote xml:lang="en">{"id": "8a401ad3-8d89-485c-bdf1-66e9e44a77ab", "value": "A material or combination of materials manufactured by human effort, or fashioned into shape by man or a man made industrial process (excluding metal). See MAN MADE MATERIAL Class List for narrow terms."}</skos:scopeNote>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/6f967f38-8530-31ba-b620-dec750c8705c">
+        <skos:prefLabel xml:lang="en">{"id": "5bc3e731-432f-4d78-b943-70aa71670605", "value": "RESIDUE"}</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">{"id": "49f7531f-0e60-41fd-9847-4c3de10cc36b", "value": "By-product or waste, resulting from an industrial process."}</skos:scopeNote>
+        <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+        <dcterms:identifier xml:lang="en-us">{"id": "03c96987-76e0-4c2b-a720-3dcd58433175", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/98148"}</dcterms:identifier>
+        <skos:altLabel xml:lang="en">{"id": "54d7e7b8-6c41-4c13-838e-68fc1ddc954a", "value": "Industrial Waste"}</skos:altLabel>
+        <skos:narrower rdf:resource="http://localhost:8000/96cd4753-f473-30cc-b81e-3172987ed5a5"/>
+        <skos:narrower rdf:resource="http://localhost:8000/9d85fdb2-7290-318e-843d-0372479eb056"/>
+        <skos:narrower rdf:resource="http://localhost:8000/009461f8-033f-326f-83ec-ec82d5da893f"/>
+      </skos:Concept>
+    </skos:narrower>
+    <dcterms:identifier xml:lang="en-us">{"id": "7c4afecf-e7c0-4f3b-ab95-2af97fe50247", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/98041"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/da72f1d2-c8b7-37d9-b220-08d5c5fa5be6">
+    <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+    <dcterms:identifier xml:lang="en-us">{"id": "c4c393b9-0ccd-4eb6-9561-dcf804b6b992", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/97808"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "bfb75314-f585-416c-a8a8-7544b8e22c9a", "value": "CEDAR"}</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">{"id": "a0f009d2-ee64-48c9-9c71-1b5b1a687b2f", "value": "Durable wood from a non-native, evergreen conifer."}</skos:scopeNote>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/27514107-aa21-36bf-b1d8-1355cc6e2754">
+    <skos:prefLabel xml:lang="en">{"id": "5a1a2dc2-5b19-46f6-995e-4a0221672e38", "value": "PEAT"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+    <dcterms:identifier xml:lang="en-us">{"id": "24b877c5-a3b4-4d49-98ca-aeef2faa9214", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/98087"}</dcterms:identifier>
+    <skos:altLabel xml:lang="en">{"id": "06eb2792-0c2d-4c3f-8074-75a25f76e929", "value": "Peat Brick"}</skos:altLabel>
+    <skos:scopeNote xml:lang="en">{"id": "a816d208-a966-43fd-9268-6e53a6be3b54", "value": "Part-decomposed vegetable matter formed under waterlogged conditions into a firm, brown deposit resembling soil. Used as a brick for infilling in timber framed walls."}</skos:scopeNote>
+    <skos:related rdf:resource="http://localhost:8000/1ccca3f3-4c13-35b5-a7e7-4ccee13a8330"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/6ceec563-828b-37d7-9815-180200b79fcf">
+    <skos:prefLabel xml:lang="en">{"id": "ad317ae0-721c-4e75-950d-36920e827813", "value": "PINE"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+    <skos:scopeNote xml:lang="en">{"id": "dc15a237-edd9-4585-9784-055f86cd5622", "value": "Wood of a coniferous tree."}</skos:scopeNote>
+    <dcterms:identifier xml:lang="en-us">{"id": "f67454b5-3c09-434e-9855-e37f09767264", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/98104"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/a31dd63b-16b0-3e16-b79d-edc4e6fd48c6">
+    <dcterms:identifier xml:lang="en-us">{"id": "e204f17e-2aa0-4cd7-8e0f-991944267144", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/97835"}</dcterms:identifier>
+    <skos:altLabel xml:lang="en">{"id": "0cbee482-ed83-4441-9e52-0a9521c92d35", "value": "Clob"}</skos:altLabel>
+    <skos:prefLabel xml:lang="en">{"id": "0a56071b-a47e-4a94-aa11-93ee9de526a6", "value": "COB"}</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">{"id": "6cf4e364-9c3d-4ca1-849b-f88061967ba4", "value": "Walls composed of clay, earth, straw, lime and sand, mixed with water. Constructed without shutters in layers upon a stone or brick plinth and usually covered with protective limewash."}</skos:scopeNote>
+    <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/128ca560-6173-3c03-bf2a-2eba73bba822">
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/afa324be-2b04-3d6c-9596-18cfecfe07ef">
+        <dcterms:identifier xml:lang="en-us">{"id": "eb7972aa-5a0f-446c-8897-3caefead496d", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/140464"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+        <skos:prefLabel xml:lang="en">{"id": "59322869-7f57-4538-93a0-7e86caac51db", "value": "GRASS"}</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">{"id": "fa5750f4-0bd8-4012-aa4f-0110c0773bdb", "value": "Ground-covering herbage, some varieties of which can be used, especially when dried and in large quantities, as a construction material."}</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/d839da81-3e0f-385e-8b90-a4d0017f0c4c">
+        <skos:scopeNote xml:lang="en">{"id": "9f456a24-2924-47cb-9e2a-97b312e039fc", "value": "Roofing material consisting of stems or stalks of wheat, rye, oats or barley separated from grain and laid flat in 'yealms' which form an overlapping surface which sheds water."}</skos:scopeNote>
+        <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+        <skos:prefLabel xml:lang="en">{"id": "5c673f1b-5d76-4b29-8c84-eee136ce1808", "value": "STRAW"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en-us">{"id": "e9a74ec1-e0d6-4cac-9b0a-027cdd27710a", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/98219"}</dcterms:identifier>
+        <skos:related rdf:resource="http://localhost:8000/3ea138d4-afae-3752-8964-a75b6c54cc11"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/141d72ac-dacf-3b74-9d1f-9db42c225daf">
+        <skos:scopeNote xml:lang="en">{"id": "1fa79a6b-3915-40e3-a0c4-8491e6c06bf2", "value": "A dwarf shrub of the heath family used as an alternative to straw as a roof covering in moorland regions. Cut while in bloom and laid with the roots carefully entwined. The covering turns a characteristic black colour with age."}</skos:scopeNote>
+        <skos:prefLabel xml:lang="en">{"id": "53675e37-bc77-4837-b969-32ff444ba8cc", "value": "HEATHER"}</skos:prefLabel>
+        <skos:related rdf:resource="http://localhost:8000/3ea138d4-afae-3752-8964-a75b6c54cc11"/>
+        <dcterms:identifier xml:lang="en-us">{"id": "6ab23c39-b2a4-41d3-bd7e-2cb40647199f", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/97974"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:scopeNote xml:lang="en">{"id": "16a0429a-b21c-4e53-a3b6-1f3eeb5d6fd1", "value": "Any tree, shrub or herb of cellulose form, normally subsisting in soil and producing its food through photosynthesis."}</skos:scopeNote>
+    <skos:prefLabel xml:lang="en">{"id": "cc3d50bf-f27a-4294-a703-76a114815e1e", "value": "PLANT"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en-us">{"id": "cbcd534a-e7cb-429e-9216-8b89c69b0918", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/98109"}</dcterms:identifier>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/65aea9f7-3d6f-364d-949d-4f4cd4eb5770">
+        <skos:prefLabel xml:lang="en">{"id": "3b5418e8-5297-4711-afc6-bc78ea223e41", "value": "SEAWEED"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+        <skos:scopeNote xml:lang="en">{"id": "36d24a18-a86a-4fad-928b-9a99fc5f5370", "value": "Multicellular marine alga, which grows on the seashore, in salt marshes, in brackish water or submerged in the ocean."}</skos:scopeNote>
+        <dcterms:identifier xml:lang="en-us">{"id": "a1cca22f-83a7-48ef-a1bf-f42b4c9c1b91", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/126913"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/f9c8820d-a106-3c03-9be4-6c4f4d81f26d">
+        <dcterms:identifier xml:lang="en-us">{"id": "c13a880e-7f3f-420f-9684-175c0dc9f769", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/98143"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="en">{"id": "5cb71e15-b8d8-4da4-a7d2-511d09bc3f5b", "value": "REED"}</skos:prefLabel>
+        <skos:related rdf:resource="http://localhost:8000/3ea138d4-afae-3752-8964-a75b6c54cc11"/>
+        <skos:scopeNote xml:lang="en">{"id": "3f6ce180-4ce2-4f3f-9a8e-544620893719", "value": "The tall, straight stalks or stems formed by plants found in the wetland areas, particularly The Fens. Used as a roofing material, the reed is laid with the ends forming the exposed covering surface."}</skos:scopeNote>
+        <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+      </skos:Concept>
+    </skos:narrower>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/6dea39a3-d80a-3636-8c9a-22b95833614f">
+    <skos:narrower rdf:resource="http://localhost:8000/b2a73951-1786-32cd-9750-c12332a1946f"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/89c66029-21e9-35b4-9a9f-dba91178d7a5">
+        <skos:scopeNote xml:lang="en">{"id": "9532291b-82e0-4e2e-ac03-9b79e051981e", "value": "Combination of organic and inorganic material cohered to form a hard solid wall or covering. Use for structures created by the excavation and piling up of earth, such as ice houses. Earth may be used in combination with other materials."}</skos:scopeNote>
+        <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+        <skos:narrower rdf:resource="http://localhost:8000/6a77e6c3-9adb-4ecb-b5ba-b0d6b76430f4"/>
+        <skos:prefLabel xml:lang="en">{"id": "d8257e2c-ba02-40f8-b042-75a76f925e10", "value": "EARTH"}</skos:prefLabel>
+        <skos:narrower rdf:resource="http://localhost:8000/b4db0b56-4e64-4a10-a1a3-e262046de9b3"/>
+        <dcterms:identifier xml:lang="en-us">{"id": "0a882149-2adb-451f-aa3d-bb21a055723e", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/97902"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:prefLabel xml:lang="en">{"id": "186b7c6f-1f04-4e4a-b257-f70415597c7c", "value": "EARTH MIX"}</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">{"id": "12dc61f0-4b33-42aa-a6a9-37a6f00bd405", "value": "Unbaked clays and/or soil material often mixed with, or performing the function of an aggregate or binder."}</skos:scopeNote>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/bfc64419-1e87-3828-9e08-4502132f9938">
+        <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+        <skos:prefLabel xml:lang="en">{"id": "6e0ddae8-535e-452d-bb60-a422c9a3b1af", "value": "MUD"}</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">{"id": "26b192c9-0cfc-434e-ad4b-611586e9f17a", "value": "Wet soil, sand or other earthy matter combined with ballast and bonded with straw or other binding material. Walls are built in the absence of shuttering by the simple process of pitching in layers."}</skos:scopeNote>
+        <dcterms:identifier xml:lang="en-us">{"id": "d0fff35b-ed8e-492f-9cdc-c1e0097c6ddf", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/98069"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower rdf:resource="http://localhost:8000/d96292bf-8962-3326-b9c7-2bf8d328722b"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/3b01621d-3594-389b-9e33-b20f62ef551e">
+        <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+        <skos:scopeNote xml:lang="en">{"id": "8989f94a-a397-4128-9128-fa983438a4de", "value": "Rammed earth or clay of a low moisture content used to make floors or walls, or found between shuttering."}</skos:scopeNote>
+        <skos:prefLabel xml:lang="en">{"id": "e11e7e41-1012-44d9-9977-17cfcfd5f5ae", "value": "PISE"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en-us">{"id": "23d2bed1-a8fc-43d1-8fd0-8079a950fcbe", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/98107"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <dcterms:identifier xml:lang="en-us">{"id": "4f11c82e-072a-4275-8485-cef18da8a2c3", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/97903"}</dcterms:identifier>
+    <skos:narrower rdf:resource="http://localhost:8000/1197c870-a6f9-31ea-b230-24084b54be58"/>
+    <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/8e96db4c-0a73-34ba-8ef3-1e2fa04f31f5">
+        <dcterms:identifier xml:lang="en-us">{"id": "0626e366-0168-4172-8ea0-39714c15f7d6", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/142988"}</dcterms:identifier>
+        <skos:scopeNote xml:lang="en">{"id": "ad37ca4f-3d75-46ec-96fd-754dacd88d01", "value": "An unconsolidated geological deposit sometimes iused as a bonding material in stone walls."}</skos:scopeNote>
+        <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+        <skos:prefLabel xml:lang="en">{"id": "6ba83edf-e909-4218-9125-9924dc0ad53d", "value": "BRICKEARTH"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower rdf:resource="http://localhost:8000/a31dd63b-16b0-3e16-b79d-edc4e6fd48c6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/0868beef-e189-3086-9eaf-2f1d8d3e282f">
+    <dcterms:identifier xml:lang="en-us">{"id": "a8691e26-1fd7-4e19-81ac-dd36fecfbe08", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/98185"}</dcterms:identifier>
+    <skos:scopeNote xml:lang="en">{"id": "659c9ef1-8b39-4c4a-8514-9ca7a6f6b779", "value": "Hard, protective covering made largely of calcium salts secreted by soft bodied invertebrate animals."}</skos:scopeNote>
+    <skos:prefLabel xml:lang="en">{"id": "96435143-f856-46ae-ae31-31569f8393d1", "value": "SHELL"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/009461f8-033f-326f-83ec-ec82d5da893f">
+    <skos:scopeNote xml:lang="en">{"id": "1a75dfa1-8f5f-46c4-b1f6-aa0334e9fa78", "value": "Waste material or dross separated from metals during smelting or refining."}</skos:scopeNote>
+    <skos:prefLabel xml:lang="en">{"id": "a3648905-dee8-48cd-97f5-6faeb140895c", "value": "SLAG"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en-us">{"id": "6ba1defa-ff3b-458c-8be4-a568909e1646", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/98193"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/8325d7b5-53aa-3f80-9035-e94465df1f22">
+    <skos:scopeNote xml:lang="en">{"id": "eca61488-8948-4a0d-8a2e-94012c35be87", "value": "Tropical giant grass with hollow stem used structurally or as a covering material."}</skos:scopeNote>
+    <skos:prefLabel xml:lang="en">{"id": "241eac74-c545-4ac2-bd2f-e1e7b1ce7ac1", "value": "BAMBOO"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en-us">{"id": "b364b478-352d-468a-b560-a2004a72afcd", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/97729"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/96cd4753-f473-30cc-b81e-3172987ed5a5">
+    <skos:scopeNote xml:lang="en">{"id": "36dcd69b-e5ea-4f3f-ae0a-7c76ef870702", "value": "Fused ash from furnaces used as aggregate."}</skos:scopeNote>
+    <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+    <dcterms:identifier xml:lang="en-us">{"id": "35fad6e2-b1af-42db-afef-0e9cf3b7c3d7", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/97830"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "c0dc370d-c4b4-42b0-8342-1b9ccb5bcd70", "value": "CLINKER"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/2668d484-a7d1-38b4-bbcb-bfef762f4383">
+    <skos:scopeNote xml:lang="en">{"id": "0d8e3bf5-a050-4823-82ca-ce65c8b770cb", "value": "A woven or bonded fabric or cloth."}</skos:scopeNote>
+    <dcterms:identifier xml:lang="en-us">{"id": "1987dec3-c139-452b-9df1-38b901daf709", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/98238"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "6e35ccc7-83ab-49b5-8098-197df4ddd149", "value": "TEXTILE"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/5034eccc-5891-3089-b4b7-d49fbe69fa72">
+    <dcterms:identifier xml:lang="en-us">{"id": "4e5c81f8-9452-4dd7-a756-7c2344f6258f", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/97850"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+    <skos:prefLabel xml:lang="en">{"id": "146cb1b1-eac5-4200-adcb-1d2cf47c16d8", "value": "CORK"}</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">{"id": "96ba5df8-f124-4b8f-831d-846baceaae1c", "value": "Buoyant, light material obtained from the cork tree."}</skos:scopeNote>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/e8c3358f-d0aa-3c83-8c39-2e01e33d5abb">
+    <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+    <dcterms:identifier xml:lang="en-us">{"id": "c58331ec-0380-4b59-b49c-2f9b81a07870", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/97712"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "cc7ac3d4-7453-427b-a7a4-1fa8fe17df30", "value": "ANIMAL"}</skos:prefLabel>
+    <skos:narrower rdf:resource="http://localhost:8000/0868beef-e189-3086-9eaf-2f1d8d3e282f"/>
+    <skos:narrower rdf:resource="http://localhost:8000/f6169c7d-a1c0-3bd2-81b5-f966d0a18dd7"/>
+    <skos:narrower rdf:resource="http://localhost:8000/96deaeae-9e6f-3002-9151-257d7ed0a487"/>
+    <skos:scopeNote xml:lang="en">{"id": "c820d84a-30c5-45b2-bccc-6cc2197d9a67", "value": "Pertaining to or deriving from a living organism. See ANIMAL Class list for narrow terms."}</skos:scopeNote>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/b13303ee-ebb7-37d3-8dae-8310b00137bd">
+    <dcterms:identifier xml:lang="en-us">{"id": "a8fa8fa7-7caa-454c-98f9-72c3c745e6ad", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/97921"}</dcterms:identifier>
+    <skos:scopeNote xml:lang="en">{"id": "c60788ba-a8b2-4e3d-a478-db851d32ef1a", "value": "Hard, durable, dark grey stone, the purest native form of silica, which can either be used decoratively or as a main material. Predominantly found in East Anglia and the South East."}</skos:scopeNote>
+    <skos:altLabel xml:lang="en">{"id": "c2279aa2-44ed-440c-9bcb-ea69b7c1d981", "value": "Knapped Flint"}</skos:altLabel>
+    <skos:prefLabel xml:lang="en">{"id": "a99d3fcc-78f1-422f-aa0d-49ae27b1ff0a", "value": "FLINT"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/473c23a9-4d19-338f-87d7-47281f3282f0">
+    <dcterms:identifier xml:lang="en-us">{"id": "634ee59a-2bad-4ffc-ae34-93d4e1113162", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/98262"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+    <skos:prefLabel xml:lang="en">{"id": "c16e4099-7efb-4691-b672-13c23f1d35c8", "value": "TURF"}</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">{"id": "22c9ca12-cfe9-4ef3-8235-b94527fe4d41", "value": "Layer of grass with earth and matted roots cut from the ground and used for earth buildings and as a covering material."}</skos:scopeNote>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/6a77e6c3-9adb-4ecb-b5ba-b0d6b76430f4">
+    <skos:prefLabel xml:lang="en">{"id": "a2100464-cab4-4778-b678-a948b40a8a16", "value": "Pise"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/8f199f69-633a-3822-bd33-4ebc773b1a0f">
+    <skos:scopeNote xml:lang="en">{"id": "6fe96471-e993-48ba-93bc-3109f22b75c4", "value": "Dating from the 15th century, it is a hard alloy of iron and carbon, melted and shaped into various moulded forms."}</skos:scopeNote>
+    <dcterms:identifier xml:lang="en-us">{"id": "e2c71770-c7bf-4c63-a804-131c264ea6a6", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/97805"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+    <skos:prefLabel xml:lang="en">{"id": "4c1c4b0c-f1d1-4088-a936-7602331d9fc0", "value": "CAST IRON"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/2abbce0b-90d4-3d3e-aa0a-0176dd46adb8">
+    <skos:narrower rdf:resource="http://localhost:8000/385b1582-ddb0-3c09-9be3-397a94e34c6c"/>
+    <skos:narrower rdf:resource="http://localhost:8000/473c23a9-4d19-338f-87d7-47281f3282f0"/>
+    <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+    <skos:narrower rdf:resource="http://localhost:8000/128ca560-6173-3c03-bf2a-2eba73bba822"/>
+    <skos:scopeNote xml:lang="en">{"id": "e2d0609d-4669-4012-9ddf-a897c21bada0", "value": "Pertaining to or deriving from a botanical living organism. See VEGETAL Class List for narrow terms."}</skos:scopeNote>
+    <dcterms:identifier xml:lang="en-us">{"id": "69a31202-4e0c-4dcd-abd8-1a7eeda6442e", "value": "http://purl.org/heritagedata/schemes/eh_tbm/concepts/98265"}</dcterms:identifier>
+    <skos:narrower rdf:resource="http://localhost:8000/27514107-aa21-36bf-b1d8-1355cc6e2754"/>
+    <skos:prefLabel xml:lang="en">{"id": "37426f53-dfbd-4205-bdc7-af771618c9d8", "value": "VEGETAL"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/b4db0b56-4e64-4a10-a1a3-e262046de9b3">
+    <skos:inScheme rdf:resource="http://localhost:8000/361c8003-ee41-396e-9302-19671a3d70a9"/>
+    <skos:prefLabel xml:lang="en">{"id": "b92e2356-9424-4bb7-aaa0-de27797a5d90", "value": "Rammed earth"}</skos:prefLabel>
+  </skos:Concept>
+</rdf:RDF>

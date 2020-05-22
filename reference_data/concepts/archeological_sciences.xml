@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+>
+  <skos:Concept rdf:about="http://localhost:8000/b05bf8c5-3473-3db1-a167-37c239cd9cfe">
+    <skos:inScheme>
+      <skos:ConceptScheme rdf:about="http://localhost:8000/182000e5-0e6d-307f-bdaf-d1584aea2fe6">
+        <dcterms:title xml:lang="en">{"id": "6ac1ed5c-1d51-4992-baaa-2958307dfbf6", "value": "ARCHAEOLOGICAL SCIENCES (EH)"}</dcterms:title>
+        <dcterms:identifier xml:lang="en-us">{"id": "ff93a4ad-d63f-49dc-874d-c4a6f46c1644", "value": "http://purl.org/heritagedata/schemes/560"}</dcterms:identifier>
+        <dcterms:description xml:lang="en">{"id": "73875e6f-eadc-44f1-a6f1-1041000500d2", "value": "Used for recording the techniques, recovery methods and materials associated with archaeological sciences."}</dcterms:description>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/7472de63-d240-3955-9f89-bd4920dd505f"/>
+      </skos:ConceptScheme>
+    </skos:inScheme>
+    <dcterms:identifier xml:lang="en-us">{"id": "b7775235-6166-472d-bf7c-4bb06642d40e", "value": "http://purl.org/heritagedata/schemes/560/concepts/142216"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "29068b03-2d5c-4163-9d6a-76771c872b4f", "value": "X-RADIOGRAPHY"}</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">{"id": "218cd139-a461-4825-bc34-0ab6e8097020", "value": "The production of an image on a photographic plate as a result of X-rays (very short wavelength electromagnetic radiation) being passed through an object."}</skos:scopeNote>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/23b75721-d8d0-3218-9d18-8bc08406171f">
+    <skos:inScheme rdf:resource="http://localhost:8000/182000e5-0e6d-307f-bdaf-d1584aea2fe6"/>
+    <dcterms:identifier xml:lang="en-us">{"id": "939d987a-3757-4fa9-b434-ff3aac9e038c", "value": "http://purl.org/heritagedata/schemes/560/concepts/142170"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "a72de013-2339-40bb-8681-646ddf1b675f", "value": "MITOCHONDRIAL DNA"}</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">{"id": "f7e0738d-b136-46bb-a295-414846e9e9c4", "value": "A dating technique for the founding of individual populations based on the assumption of steady rates of mutation in mitochondrial DNA. Sometimes used to produce dates for stratigraphic layers containing fossil specimens of populations."}</skos:scopeNote>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/c75f6b57-a50a-3a8d-a470-87aadb410024">
+    <skos:inScheme rdf:resource="http://localhost:8000/182000e5-0e6d-307f-bdaf-d1584aea2fe6"/>
+    <skos:scopeNote xml:lang="en">{"id": "62c87b11-07c5-4897-bc01-c2d2b3bbc3c5", "value": "The analysis of the amount of phosphorus (P) present in a soil."}</skos:scopeNote>
+    <dcterms:identifier xml:lang="en-us">{"id": "3643bc73-4997-440e-bd0e-56e4e6817f20", "value": "http://purl.org/heritagedata/schemes/560/concepts/142197"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "67cfe5a1-955d-426b-b191-9736a7be57de", "value": "SOIL PHOSPHORUS ANALYSIS"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/c4ba60d0-f73a-33ad-9b25-3d579c559cd3">
+    <skos:prefLabel xml:lang="en">{"id": "cf27132c-2a42-480e-b38d-303542680c13", "value": "TREE-RING ANALYSIS"}</skos:prefLabel>
+    <skos:related>
+      <skos:Concept rdf:about="http://localhost:8000/a984d69a-56af-32ba-9a8a-cf33b7cd352a">
+        <dcterms:identifier xml:lang="en-us">{"id": "1496e0af-fc8c-4720-b301-8ce68c384d65", "value": "http://purl.org/heritagedata/schemes/560/concepts/142131"}</dcterms:identifier>
+        <skos:scopeNote xml:lang="en">{"id": "cf662e04-fc70-4311-bf1b-8cb54c483b37", "value": "The measuring of annual tree-ring growth shown by most tree species in temperated regions. Regional chronoliges are required to date any particular piece of wood, the longest of which, for Germany, works for the present to approximately 14,000 yrs ago."}</skos:scopeNote>
+        <skos:related rdf:resource="http://localhost:8000/c4ba60d0-f73a-33ad-9b25-3d579c559cd3"/>
+        <skos:prefLabel xml:lang="en">{"id": "d279c158-6b5e-47a2-beef-0ea8fd19a7b7", "value": "DENDROCHRONOLOGY"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/182000e5-0e6d-307f-bdaf-d1584aea2fe6"/>
+      </skos:Concept>
+    </skos:related>
+    <dcterms:identifier xml:lang="en-us">{"id": "85b25a2a-0c58-4699-a2c0-0b3479b42007", "value": "http://purl.org/heritagedata/schemes/560/concepts/142209"}</dcterms:identifier>
+    <skos:scopeNote xml:lang="en">{"id": "e7f2d824-c274-46e6-b33d-9fb294a9265f", "value": "The use of annual incremental growth in temperate trees to investigate environmental, especially local, parameters and the history of individual trees."}</skos:scopeNote>
+    <skos:altLabel xml:lang="en">{"id": "ea49397a-efab-4254-a8ff-158ce46c9b55", "value": "Tree-Ring Studies"}</skos:altLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/182000e5-0e6d-307f-bdaf-d1584aea2fe6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/aacdbef5-ba81-39b1-850d-f1ea6e1ba25c">
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/9b2d0d63-ee93-32b4-8278-fe7461fcd6c4">
+        <dcterms:identifier xml:lang="en-us">{"id": "b49687e2-4f64-41bf-8f8c-490deefd30bf", "value": "http://purl.org/heritagedata/schemes/560/concepts/142200"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/182000e5-0e6d-307f-bdaf-d1584aea2fe6"/>
+        <skos:prefLabel xml:lang="en">{"id": "7f6cdb16-168f-4db2-8fff-a074b40194c7", "value": "STABLE ISOTOPE ANALYSIS"}</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">{"id": "796d30fb-0291-4082-a587-e659e33b1020", "value": "Comparison of different proportions of natural occurring isotopes of lead (Pb), strontium (Sr), oxygen (O), carbon (C) and nitrogen (N)."}</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+    <dcterms:identifier xml:lang="en-us">{"id": "8d833127-d9ac-4735-90da-e9be3428849c", "value": "http://purl.org/heritagedata/schemes/560/concepts/142119"}</dcterms:identifier>
+    <skos:scopeNote xml:lang="en">{"id": "d8689ae2-6885-44c1-81b5-daf0ffb82979", "value": "Examination of a material using chemical means."}</skos:scopeNote>
+    <skos:narrower rdf:resource="http://localhost:8000/c75f6b57-a50a-3a8d-a470-87aadb410024"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/49c081b3-6411-3b3d-81bf-40446432ea4f">
+        <skos:scopeNote xml:lang="en">{"id": "c3e10dfd-8732-46fc-b011-a806c49302a8", "value": "Techniques investigating more than one element at a time."}</skos:scopeNote>
+        <skos:narrower rdf:resource="http://localhost:8000/26ad879c-16ad-3cc2-abd7-00423d4b171d"/>
+        <skos:inScheme rdf:resource="http://localhost:8000/182000e5-0e6d-307f-bdaf-d1584aea2fe6"/>
+        <skos:prefLabel xml:lang="en">{"id": "8f06ac03-59bd-426d-b4e9-c9fb661fd881", "value": "MULTI-ELEMENT ANALYSIS"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en-us">{"id": "6e3421af-8885-404a-9672-2c598150764c", "value": "http://purl.org/heritagedata/schemes/560/concepts/142172"}</dcterms:identifier>
+        <skos:narrower rdf:resource="http://localhost:8000/97ca9a2b-70cc-3c19-8ba8-de9a264474b1"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:inScheme rdf:resource="http://localhost:8000/182000e5-0e6d-307f-bdaf-d1584aea2fe6"/>
+    <skos:prefLabel xml:lang="en">{"id": "cff3fb05-de9a-4fc9-97bf-145c170acf8b", "value": "CHEMICAL TECHNIQUES"}</skos:prefLabel>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/b1dc06c3-91fa-35f8-ba63-d89c3a6e8499">
+        <skos:scopeNote xml:lang="en">{"id": "7ff13581-9f4d-4114-9fd4-48866073752a", "value": "The degree of acidity or alkalinity of a material."}</skos:scopeNote>
+        <skos:prefLabel xml:lang="en">{"id": "009cec42-0fb2-4666-930b-ad63905da83d", "value": "PH DETERMINATION"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/182000e5-0e6d-307f-bdaf-d1584aea2fe6"/>
+        <dcterms:identifier xml:lang="en-us">{"id": "be77c1ca-e368-465b-865a-7eba3ebcdde5", "value": "http://purl.org/heritagedata/schemes/560/concepts/142181"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/cd660bf5-5035-3302-9224-63d9503a404c">
+        <dcterms:identifier xml:lang="en-us">{"id": "f9d08910-d917-47fe-839d-a402464e76c0", "value": "http://purl.org/heritagedata/schemes/560/concepts/142101"}</dcterms:identifier>
+        <skos:scopeNote xml:lang="en">{"id": "e12fe35f-6a93-44fe-a67c-a912e281ad26", "value": "Characterisation of organic molecules extracted from fossil or sub-fossil materials, including lipids, DNA etc."}</skos:scopeNote>
+        <skos:prefLabel xml:lang="en">{"id": "e3c66df1-63be-4861-99de-4d00ed9ac3c8", "value": "ANCIENT BIOMOLECULAR ANALYSIS"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/182000e5-0e6d-307f-bdaf-d1584aea2fe6"/>
+      </skos:Concept>
+    </skos:narrower>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/4d450525-0f50-3bb0-943f-55d5afde7720">
+    <dcterms:identifier xml:lang="en-us">{"id": "2a0df304-1916-4518-abc7-0c55471929bc", "value": "http://purl.org/heritagedata/schemes/560/concepts/142176"}</dcterms:identifier>
+    <skos:scopeNote xml:lang="en">{"id": "6ed76d99-00ed-4164-8bd2-3446cf65957e", "value": "A technique used to date obsidian (volcanic glass) of all ages and is thus not commonly used in the UK."}</skos:scopeNote>
+    <skos:prefLabel xml:lang="en">{"id": "87186982-236c-477f-975d-ea42b76fdadb", "value": "OBSIDIAN HYDRATION"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/182000e5-0e6d-307f-bdaf-d1584aea2fe6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/927bc27d-9967-380e-80f0-d0b441277945">
+    <skos:altLabel xml:lang="en">{"id": "56cd590c-3537-4fc5-9868-b825e1179d5c", "value": "Osl"}</skos:altLabel>
+    <skos:altLabel xml:lang="en">{"id": "df229949-f28c-4f0a-b070-bd38ab5c28f6", "value": "Osl Dating"}</skos:altLabel>
+    <dcterms:identifier xml:lang="en-us">{"id": "e46b1611-1a9a-45f8-9d87-ff3712ab906f", "value": "http://purl.org/heritagedata/schemes/560/concepts/142177"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/182000e5-0e6d-307f-bdaf-d1584aea2fe6"/>
+    <skos:scopeNote xml:lang="en">{"id": "77afc2f4-087c-4d6c-91f3-56c46afc3b89", "value": "The light emitted from sedimentary minerals or mineral inclusions in bricks when stimulated in the laboratory by light of a different wavelength. Used to date samples up to 250,000 years old; especially appropriate for geological sediments."}</skos:scopeNote>
+    <skos:prefLabel xml:lang="en">{"id": "68ee9053-538a-41b4-8ea3-66db03181e9c", "value": "OPTICALLY STIMULATED LUMINESCENCE"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/05d9b89c-fe8b-3025-8475-c93c013e06b5">
+    <dcterms:identifier xml:lang="en-us">{"id": "a6d83668-fda6-4493-a50c-2d7f44ef3cde", "value": "http://purl.org/heritagedata/schemes/560/concepts/142187"}</dcterms:identifier>
+    <skos:scopeNote xml:lang="en">{"id": "e6c8ebad-82e7-4029-b116-310d9138ca42", "value": "The measurement of the ratio of a radioactive potassium (K) isotope and the argon (Ar) gas produced as a by-product of its decay. Useful for dating volcanic material older than 1,000 years."}</skos:scopeNote>
+    <skos:inScheme rdf:resource="http://localhost:8000/182000e5-0e6d-307f-bdaf-d1584aea2fe6"/>
+    <skos:prefLabel xml:lang="en">{"id": "6892482f-c803-4892-9398-0e70e3b2f550", "value": "POTASSIUM ARGON DATING"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/d7a0bc1e-e5ea-3870-aad0-dbec694abba8">
+    <skos:scopeNote xml:lang="en">{"id": "64016a11-c062-4c17-a534-13fdb9ce2968", "value": "The use of oxygen (O) isotope ratios in ice or ocean sediment cores to date global environmental change."}</skos:scopeNote>
+    <dcterms:identifier xml:lang="en-us">{"id": "b5ef7ba8-1665-4bd6-a9b4-6a9ad0434de3", "value": "http://purl.org/heritagedata/schemes/560/concepts/142178"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/182000e5-0e6d-307f-bdaf-d1584aea2fe6"/>
+    <skos:prefLabel xml:lang="en">{"id": "3c0f3627-2676-4cf6-a448-175efc4be152", "value": "OXYGEN ISOTOPE ANALYSIS"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/5ed697a7-54cf-3a7d-8b13-1d8248e0a4fe">
+    <skos:scopeNote xml:lang="en">{"id": "2e89c4ce-890b-4244-9cd6-496fb9bde5aa", "value": "The degree to which a material will become magnetised when placed in a magnetic field."}</skos:scopeNote>
+    <dcterms:identifier xml:lang="en-us">{"id": "7913b368-a94c-412c-8077-1eb684c187c0", "value": "http://purl.org/heritagedata/schemes/560/concepts/142158"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/182000e5-0e6d-307f-bdaf-d1584aea2fe6"/>
+    <skos:prefLabel xml:lang="en">{"id": "8aa95286-7ac9-49f8-a4b3-d3584ce28b7d", "value": "MAGNETIC SUSCEPTIBILITY"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/26ad879c-16ad-3cc2-abd7-00423d4b171d">
+    <skos:scopeNote xml:lang="en">{"id": "210dcbdb-4c21-40cf-ba83-c563684bc48e", "value": "A surface technique of spectroscopic analysis which relies on the interaction of primary X-rays with the sample to generate a range of secondary X-rays. These have energies characteristic of the elements present in the sample."}</skos:scopeNote>
+    <skos:inScheme rdf:resource="http://localhost:8000/182000e5-0e6d-307f-bdaf-d1584aea2fe6"/>
+    <skos:altLabel xml:lang="en">{"id": "eb2e9718-80b6-4829-b8b4-2f8567343e5c", "value": "Xrf"}</skos:altLabel>
+    <dcterms:identifier xml:lang="en-us">{"id": "4abe2fed-41a1-4b28-9bfe-c2d767799700", "value": "http://purl.org/heritagedata/schemes/560/concepts/142218"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "87ccdf60-ff1c-4662-a2b3-b49a4a80b4fd", "value": "X-RAY FLUORESCENCE SPECTROMETRY"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/ac88a21a-aa09-3ff7-b8f3-b63603cf22c5">
+    <skos:inScheme rdf:resource="http://localhost:8000/182000e5-0e6d-307f-bdaf-d1584aea2fe6"/>
+    <skos:scopeNote xml:lang="en">{"id": "324642b6-445c-457f-82ee-80255d46df25", "value": "Light microscopy in which vibration directions of the light are constrained into single planes."}</skos:scopeNote>
+    <dcterms:identifier xml:lang="en-us">{"id": "27c12801-eafc-42f9-8cfe-da839e3a4190", "value": "http://purl.org/heritagedata/schemes/560/concepts/142185"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "1e556598-5367-48b9-a36d-cd4fca65c87f", "value": "POLARISED LIGHT MICROSCOPY"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/97ca9a2b-70cc-3c19-8ba8-de9a264474b1">
+    <dcterms:identifier xml:lang="en-us">{"id": "e03c167b-de33-4c1d-8fe6-d2d1b8e2a920", "value": "http://purl.org/heritagedata/schemes/560/concepts/142217"}</dcterms:identifier>
+    <skos:scopeNote xml:lang="en">{"id": "b7015fc5-95b0-47be-aeec-a74c55e23bc3", "value": "A surface technique that uses the diffraction of X-rays to examine the mineral composition of a sample. Useful for identifying corrosion products, pigments etc. but of little use with organic compounds which consist largely of carbon, oxygen and hydrogen."}</skos:scopeNote>
+    <skos:prefLabel xml:lang="en">{"id": "ee797bcc-8a40-425e-96ee-65b8f6d27ea3", "value": "X-RAY DIFFRACTION"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/182000e5-0e6d-307f-bdaf-d1584aea2fe6"/>
+    <skos:altLabel xml:lang="en">{"id": "a28c5348-0f00-4cff-9fa9-37f77285ff81", "value": "Xrd"}</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/12cd9c8f-dd07-3fbe-af8b-bd64da5daeb8">
+    <skos:scopeNote xml:lang="en">{"id": "ac1b625e-e82b-4bd8-8a67-5e8254661ab6", "value": "A technique for the dating of damage tracks in volcanic materials caused by the fissioning of decaying radioactive uranium (U) isotopes. Useful in samples more than 50,000 years old."}</skos:scopeNote>
+    <skos:inScheme rdf:resource="http://localhost:8000/182000e5-0e6d-307f-bdaf-d1584aea2fe6"/>
+    <skos:prefLabel xml:lang="en">{"id": "71cedcc3-c576-4d7c-b93b-8b8a5bb4cf50", "value": "FISSION TRACK ANALYSIS"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en-us">{"id": "f8ab2d0b-2156-4efb-a85e-1388b3868622", "value": "http://purl.org/heritagedata/schemes/560/concepts/142140"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/41d7b865-b0de-3be2-9910-554ab738a853">
+    <dcterms:identifier xml:lang="en-us">{"id": "6ceb3972-d45b-4516-b3eb-2dc0669bb50f", "value": "http://purl.org/heritagedata/schemes/560/concepts/144511"}</dcterms:identifier>
+    <skos:scopeNote xml:lang="en">{"id": "32f680de-8a04-4b47-952d-5bd860110960", "value": "A range of techniques that use the build up of charge stored within a crystalline material to estimate its age"}</skos:scopeNote>
+    <skos:inScheme rdf:resource="http://localhost:8000/182000e5-0e6d-307f-bdaf-d1584aea2fe6"/>
+    <skos:prefLabel xml:lang="en">{"id": "c0708cd2-8b61-4e7b-8a27-04b35fb94255", "value": "LUMINESCENCE DATING"}</skos:prefLabel>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/837b39b7-2ea7-3bc8-8bb1-1c955f057349">
+        <skos:inScheme rdf:resource="http://localhost:8000/182000e5-0e6d-307f-bdaf-d1584aea2fe6"/>
+        <skos:altLabel xml:lang="en">{"id": "3abf294b-3999-43e0-affd-9d3457e6de7b", "value": "Tl"}</skos:altLabel>
+        <skos:scopeNote xml:lang="en">{"id": "f6e8f4c7-a1c1-41dd-bfe4-d951de90e2b0", "value": "The measurement of the light emitted from sedimentary minerals, mineral inclusions in bricks, burnt flint or unburnt calcite when they are heated. The signal relates to their prior exposure to radioactivity. Used to date samples up to 500,000 years old."}</skos:scopeNote>
+        <dcterms:identifier xml:lang="en-us">{"id": "3d5ecfc1-a3ab-4226-acb3-eb4a7027a088", "value": "http://purl.org/heritagedata/schemes/560/concepts/142203"}</dcterms:identifier>
+        <skos:altLabel xml:lang="en">{"id": "461963bb-ee0a-45be-a563-5522508640f7", "value": "Tl Dating"}</skos:altLabel>
+        <skos:prefLabel xml:lang="en">{"id": "969a079d-15b4-446a-b054-653b68f6e528", "value": "THERMOLUMINESCENCE"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/d95b55e7-28e2-3be4-9d5e-f806e038d740">
+        <skos:prefLabel xml:lang="en">{"id": "d73f24cd-eee1-4dcf-af2a-6deb91bb8a54", "value": "INFRA-RED STIMULATED LUMINESCENCE"}</skos:prefLabel>
+        <skos:altLabel xml:lang="en">{"id": "03b44af6-9dbe-47fb-94fb-a9564e1dd54c", "value": "Irsl"}</skos:altLabel>
+        <skos:altLabel xml:lang="en">{"id": "e6f57b70-d5e1-406d-8a15-5b80abf67f9a", "value": "Irsl Dating"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en-us">{"id": "ae87dd9a-7370-410e-a81e-bc1e0a62df7e", "value": "http://purl.org/heritagedata/schemes/560/concepts/142151"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/182000e5-0e6d-307f-bdaf-d1584aea2fe6"/>
+        <skos:scopeNote xml:lang="en">{"id": "86fd4db2-fb19-4496-abc9-573918e074b3", "value": "The light emitted from sedimentary minerals or mineral inclusions in bricks when stimulated in the laboratory by infrared light. Used to date samples up to 250,000 years old; especially appropriate for geological sediments containing feldspars"}</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower rdf:resource="http://localhost:8000/927bc27d-9967-380e-80f0-d0b441277945"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/6341dc06-3549-3667-b8e8-52964d2df579">
+    <dcterms:identifier xml:lang="en-us">{"id": "354e91b6-ec23-4ecc-a9ad-f21034e66d73", "value": "http://purl.org/heritagedata/schemes/560/concepts/142164"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "5ce7ee4b-d939-4bed-9588-e032269adddd", "value": "MICROMORPHOLOGY"}</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">{"id": "d73ecfa4-deef-4458-98e0-032984cb5a19", "value": "The microscopic analysis of thin sections of resin impregnated stratigraphy."}</skos:scopeNote>
+    <skos:inScheme rdf:resource="http://localhost:8000/182000e5-0e6d-307f-bdaf-d1584aea2fe6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/0318d711-e08b-3a21-9569-002ecbecf2fa">
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/102c1641-be8e-3da9-869f-8430d9604424">
+        <dcterms:identifier xml:lang="en-us">{"id": "f611d113-4277-4e5f-b822-2b6ffcda6dfd", "value": "http://purl.org/heritagedata/schemes/560/concepts/142179"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/182000e5-0e6d-307f-bdaf-d1584aea2fe6"/>
+        <skos:scopeNote xml:lang="en">{"id": "0164802b-dea9-4f8e-86c1-1ba7e8d1f2b3", "value": "The analysis of the distribution and proportion of sand, silt and clay in a deposit."}</skos:scopeNote>
+        <skos:prefLabel xml:lang="en">{"id": "b68f3bc3-39fb-4d1c-b52f-ec86954184db", "value": "PARTICLE SIZE ANALYSIS"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/109d47bf-a13c-3fe8-af4d-82aaf16f9ffa">
+        <skos:narrower rdf:resource="http://localhost:8000/ac88a21a-aa09-3ff7-b8f3-b63603cf22c5"/>
+        <skos:inScheme rdf:resource="http://localhost:8000/182000e5-0e6d-307f-bdaf-d1584aea2fe6"/>
+        <skos:narrower rdf:resource="http://localhost:8000/004d88c8-1936-3e25-919e-333dd3baca70"/>
+        <skos:prefLabel xml:lang="en">{"id": "8bb373e0-94a4-42ea-8129-73de05f09c17", "value": "MICROSCOPY"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en-us">{"id": "33664a9f-c4f6-430b-a207-1ace79087f6d", "value": "http://purl.org/heritagedata/schemes/560/concepts/142165"}</dcterms:identifier>
+        <skos:scopeNote xml:lang="en">{"id": "f64883ed-9871-40a0-a998-9755dd16d341", "value": "The use of magnifying equipment to examine materials not visible to the naked eye."}</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower rdf:resource="http://localhost:8000/5ed697a7-54cf-3a7d-8b13-1d8248e0a4fe"/>
+    <skos:narrower rdf:resource="http://localhost:8000/6341dc06-3549-3667-b8e8-52964d2df579"/>
+    <skos:scopeNote xml:lang="en">{"id": "5ea0377c-143a-4eb9-99e4-9d1256cdddb6", "value": "The examination of material by physical means, including detailed observation."}</skos:scopeNote>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/4b156bcf-054b-330c-982b-cda5ea87f00a">
+        <skos:inScheme rdf:resource="http://localhost:8000/182000e5-0e6d-307f-bdaf-d1584aea2fe6"/>
+        <skos:scopeNote xml:lang="en">{"id": "8e145a96-1974-4fc3-a61b-7bfa41a9e371", "value": "The study of minerals."}</skos:scopeNote>
+        <skos:prefLabel xml:lang="en">{"id": "f8f69286-49a3-4891-b444-670a5a197e02", "value": "MINERALOGY"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en-us">{"id": "1203996e-baa2-4da0-8d3a-9b7ab831fe9b", "value": "http://purl.org/heritagedata/schemes/560/concepts/142169"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/6be84a04-ff91-367b-a979-821929d68ee2">
+        <skos:inScheme rdf:resource="http://localhost:8000/182000e5-0e6d-307f-bdaf-d1584aea2fe6"/>
+        <dcterms:identifier xml:lang="en-us">{"id": "29c7c226-3c02-4c8b-8415-b61ee644bcb9", "value": "http://purl.org/heritagedata/schemes/560/concepts/142201"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="en">{"id": "5904e7b3-8f3b-49c6-885b-bef6416eb877", "value": "STRATIGRAPHIC DESCRIPTION"}</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">{"id": "b88363ef-5907-4d8e-b798-9f0149825d44", "value": "The careful observation and written description of the physical characteristics of stratigraphy. It will normally include information on texture, colour and the nature of the different components."}</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+    <dcterms:identifier xml:lang="en-us">{"id": "fb84fd5e-a416-417d-9064-44c288277536", "value": "http://purl.org/heritagedata/schemes/560/concepts/142182"}</dcterms:identifier>
+    <skos:narrower rdf:resource="http://localhost:8000/c4ba60d0-f73a-33ad-9b25-3d579c559cd3"/>
+    <skos:inScheme rdf:resource="http://localhost:8000/182000e5-0e6d-307f-bdaf-d1584aea2fe6"/>
+    <skos:narrower rdf:resource="http://localhost:8000/b05bf8c5-3473-3db1-a167-37c239cd9cfe"/>
+    <skos:prefLabel xml:lang="en">{"id": "7d494315-628b-413e-98ed-8760c5fb5e3a", "value": "PHYSICAL TECHNIQUES"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/ec02896f-5114-3ce3-bed5-2c44622e0732">
+    <skos:prefLabel xml:lang="en">{"id": "b823a238-b4f4-4d53-9e92-5d4ca68a905f", "value": "RADIOCARBON DATING"}</skos:prefLabel>
+    <skos:altLabel xml:lang="en">{"id": "970c45cf-808f-4227-a582-95881a157cdf", "value": "C14 Dating"}</skos:altLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/182000e5-0e6d-307f-bdaf-d1584aea2fe6"/>
+    <skos:altLabel xml:lang="en">{"id": "80e3d1db-899b-4874-ac8a-f5b1a2fbb70e", "value": "Carbon 14 Dating"}</skos:altLabel>
+    <dcterms:identifier xml:lang="en-us">{"id": "5284dba5-61dc-4539-94e3-870d08dcf9ea", "value": "http://purl.org/heritagedata/schemes/560/concepts/142188"}</dcterms:identifier>
+    <skos:scopeNote xml:lang="en">{"id": "6ec64d1c-61f9-473e-8b5b-31922a778ec0", "value": "The measurement of the ratio of the radioactive Carbon 14 (C-14) isotope and non-radioactive carbon isotopes. Useful for dating organic materials such as wood and bone between 500 and 45,000 years old."}</skos:scopeNote>
+    <skos:altLabel xml:lang="en">{"id": "5c24c27d-91fb-46cf-8dbb-ebea90361e90", "value": "Carbon Dating"}</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/1c931cfd-a931-3477-95ba-8fd822b78c7b">
+    <skos:scopeNote xml:lang="en">{"id": "8c9983b6-2928-4226-84c4-98ab7f6de449", "value": "A relative dating technique for assessing bones from the same deposit. Often used to check for contemporaneity of bones selected for radiocarbon dating or to check for hoaxes such as the Piltdown Man."}</skos:scopeNote>
+    <skos:inScheme rdf:resource="http://localhost:8000/182000e5-0e6d-307f-bdaf-d1584aea2fe6"/>
+    <dcterms:identifier xml:lang="en-us">{"id": "e3bbdf53-081f-47b7-b82d-9ec098d5e837", "value": "http://purl.org/heritagedata/schemes/560/concepts/142142"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "151d016c-0815-4db1-bd0f-61208a0bd44d", "value": "FLUORINE, URANIUM AND NITROGEN TESTS"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/ac99c0d8-8b9f-3e23-a6a1-5410a59b5613">
+    <skos:inScheme rdf:resource="http://localhost:8000/182000e5-0e6d-307f-bdaf-d1584aea2fe6"/>
+    <skos:prefLabel xml:lang="en">{"id": "0222e651-fd26-408c-87a1-c5a882b2cdce", "value": "ARCHAEOMAGNETISM"}</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">{"id": "6d875898-0e39-45c7-be10-0d13eaeec74a", "value": "Measures the remanent magnetisation direction of magnetic minerals. Useful for dating fired structures, in-situ since their last firing, and for sediments settling from non turbulent water bodies. In the UK, calibration data extends back to 1000BC."}</skos:scopeNote>
+    <dcterms:identifier xml:lang="en-us">{"id": "2992d172-d877-4575-b825-98e7d6c317eb", "value": "http://purl.org/heritagedata/schemes/560/concepts/142104"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/004d88c8-1936-3e25-919e-333dd3baca70">
+    <dcterms:identifier xml:lang="en-us">{"id": "cb109ba5-97cf-493a-95b0-b9309e390fe1", "value": "http://purl.org/heritagedata/schemes/560/concepts/142191"}</dcterms:identifier>
+    <skos:altLabel xml:lang="en">{"id": "34d9c128-b7e4-4e13-a09b-9b3fee3c6f20", "value": "Sem"}</skos:altLabel>
+    <skos:prefLabel xml:lang="en">{"id": "8650418c-4a7b-4bbd-99f0-d9387d790c32", "value": "SCANNING ELECTRON MICROSCOPY"}</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">{"id": "07c833cf-7601-439d-a01a-e30490a5995f", "value": "A process using an electron microscope in which the surface of the specimen is scanned by a beam of electrons which are reflected to form an image. Very high magnification is possible."}</skos:scopeNote>
+    <skos:inScheme rdf:resource="http://localhost:8000/182000e5-0e6d-307f-bdaf-d1584aea2fe6"/>
+    <skos:altLabel xml:lang="en">{"id": "af40970b-3d3e-4583-9d6c-b75f2a1d14e2", "value": "S.E.M."}</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/6a2acb0f-46e6-3d19-a7e3-b3abfa672d11">
+    <skos:narrower rdf:resource="http://localhost:8000/1c931cfd-a931-3477-95ba-8fd822b78c7b"/>
+    <skos:narrower rdf:resource="http://localhost:8000/41d7b865-b0de-3be2-9910-554ab738a853"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/a4710f73-fb38-348d-a592-a0b80dffdd5f">
+        <skos:inScheme rdf:resource="http://localhost:8000/182000e5-0e6d-307f-bdaf-d1584aea2fe6"/>
+        <skos:scopeNote xml:lang="en">{"id": "ea4d00b5-66f8-447e-9bc1-1e45fd6c82f2", "value": "The measurement of the decay of radioactive uranium (U) isotopes. Particularly useful for dating calcite and sometimes bone, tooth and shell up to 70,000 years old."}</skos:scopeNote>
+        <dcterms:identifier xml:lang="en-us">{"id": "bbf9335e-7993-47e0-a1c6-e4dcf933928e", "value": "http://purl.org/heritagedata/schemes/560/concepts/142212"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="en">{"id": "f1379f1f-7d82-4d67-b308-f968eae3ffca", "value": "URANIUM SERIES DATING"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower rdf:resource="http://localhost:8000/23b75721-d8d0-3218-9d18-8bc08406171f"/>
+    <skos:narrower rdf:resource="http://localhost:8000/d7a0bc1e-e5ea-3870-aad0-dbec694abba8"/>
+    <skos:narrower rdf:resource="http://localhost:8000/ac99c0d8-8b9f-3e23-a6a1-5410a59b5613"/>
+    <skos:narrower rdf:resource="http://localhost:8000/4d450525-0f50-3bb0-943f-55d5afde7720"/>
+    <skos:inScheme rdf:resource="http://localhost:8000/182000e5-0e6d-307f-bdaf-d1584aea2fe6"/>
+    <skos:narrower rdf:resource="http://localhost:8000/05d9b89c-fe8b-3025-8475-c93c013e06b5"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/6a78572d-b496-361a-afcd-f7f84ed21f89">
+        <skos:inScheme rdf:resource="http://localhost:8000/182000e5-0e6d-307f-bdaf-d1584aea2fe6"/>
+        <skos:prefLabel xml:lang="en">{"id": "0b3e9c30-d668-4200-bfbc-aedb6a8fdb17", "value": "LEAD ISOTOPE DATING"}</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">{"id": "ca2ba793-1c89-46f5-a82b-94b0f88b97b8", "value": "A technique which uses the measurement of decay in radioactive lead (Pb) isotopes to determine a date. Useful for sediments and lead-based paints between 1 and 400 years old."}</skos:scopeNote>
+        <dcterms:identifier xml:lang="en-us">{"id": "15209812-1af9-4f60-8244-092d096a7dc9", "value": "http://purl.org/heritagedata/schemes/560/concepts/142155"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower rdf:resource="http://localhost:8000/a984d69a-56af-32ba-9a8a-cf33b7cd352a"/>
+    <skos:narrower rdf:resource="http://localhost:8000/12cd9c8f-dd07-3fbe-af8b-bd64da5daeb8"/>
+    <skos:narrower rdf:resource="http://localhost:8000/ec02896f-5114-3ce3-bed5-2c44622e0732"/>
+    <skos:scopeNote xml:lang="en">{"id": "bf5872bf-a6ef-4c32-a8d8-0c4ad8582f59", "value": "Techniques applied to a material in order to date it or material associated with it. Use more specific terms."}</skos:scopeNote>
+    <skos:prefLabel xml:lang="en">{"id": "bba58aae-7095-477e-83be-c7412061ddca", "value": "DATING TECHNIQUES"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en-us">{"id": "9c22e5a3-44c3-44f6-a965-c20323a16668", "value": "http://purl.org/heritagedata/schemes/560/concepts/142128"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/7472de63-d240-3955-9f89-bd4920dd505f">
+    <skos:narrower rdf:resource="http://localhost:8000/6a2acb0f-46e6-3d19-a7e3-b3abfa672d11"/>
+    <skos:narrower rdf:resource="http://localhost:8000/aacdbef5-ba81-39b1-850d-f1ea6e1ba25c"/>
+    <skos:inScheme rdf:resource="http://localhost:8000/182000e5-0e6d-307f-bdaf-d1584aea2fe6"/>
+    <skos:narrower rdf:resource="http://localhost:8000/0318d711-e08b-3a21-9569-002ecbecf2fa"/>
+    <dcterms:identifier xml:lang="en-us">{"id": "0208d8a4-612b-4b2d-b061-595f6708cc43", "value": "http://purl.org/heritagedata/schemes/560/concepts/142153"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "37adaec9-4a72-42a1-bf7b-9e62c76cc87b", "value": "INVESTIGATIVE TECHNIQUES"}</skos:prefLabel>
+  </skos:Concept>
+</rdf:RDF>

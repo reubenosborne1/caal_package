@@ -1,0 +1,1732 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+>
+  <skos:Concept rdf:about="http://localhost:8000/807a790b-92b4-4463-a3b5-3bb38e8aac88">
+    <skos:prefLabel xml:lang="ru">{"id": "85c4db42-7f50-4145-9509-a61361b54866", "value": "\u041a\u0430\u0440\u0430\u0432\u0430\u043d-\u0441\u0430\u0440\u0430\u0439"}</skos:prefLabel>
+    <skos:closeMatch>
+      <skos:Concept rdf:about="http://localhost:8000/07307ab3-82f3-468e-8621-9e72a60caf5e">
+        <skos:scopeNote xml:lang="ru">{"id": "8f2e244b-90ff-412a-ad30-2ca89041af4f", "value": "\u0412\u044b\u0434\u0435\u043b\u0435\u043d\u043d\u0430\u044f \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0430, \u043e\u0431\u044b\u0447\u043d\u043e \u0432 \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0438\u0445 \u0440\u0430\u0439\u043e\u043d\u0430\u0445, \u0441 \u043a\u0440\u0430\u0442\u043a\u043e\u0441\u0440\u043e\u0447\u043d\u044b\u043c \u0436\u0438\u043b\u044c\u0435\u043c \u0434\u043b\u044f \u043a\u043e\u043c\u043c\u0435\u0440\u0447\u0435\u0441\u043a\u0438\u0445 \u043f\u0443\u0442\u0435\u0448\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u0438\u043a\u043e\u0432, \u0445\u0440\u0430\u043d\u0435\u043d\u0438\u0435\u043c / \u0441\u043a\u043b\u0430\u0434\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435\u043c, \u0430 \u0438\u043d\u043e\u0433\u0434\u0430 \u0438 \u043a\u043e\u043d\u044e\u0448\u043d\u0435\u0439 \u0434\u043b\u044f \u0431\u043e\u043b\u044c\u0448\u043e\u0433\u043e \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u0430 \u0438\u0445 \u0441\u0435\u0434\u0435\u043b\u044c\u043d\u044b\u0445 / \u0442\u044f\u0433\u043b\u043e\u0432\u044b\u0445 / \u0432\u044c\u044e\u0447\u043d\u044b\u0445 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445"}</skos:scopeNote>
+        <skos:scopeNote xml:lang="zh">{"id": "a7bcaf0a-7815-4b78-88b4-c094f78260b8", "value": "\u901a\u5e38\u5750\u843d\u4e8e\u57ce\u533a\u8303\u56f4\u5185\uff0c\u4e13\u4e3a\u5546\u4e1a\u548c\u975e\u5546\u4e1a\u65c5\u5ba2\u63d0\u4f9b\u77ed\u671f\u4f4f\u5bbf\u7684\u573a\u6240\uff0c\u914d\u6709\u4ed3\u50a8/\u4ed3\u5e93\uff0c\u6709\u65f6\u6709\u755c\u820d\uff0c\u53ef\u5b89\u7f6e\u5927\u91cf\u5f79\u517d/\u9a6e\u517d\u3002"}</skos:scopeNote>
+        <skos:prefLabel xml:lang="zh">{"id": "d9b30ab8-adae-42bb-815e-6813b3e26d45", "value": "\u5546\u961f\u5ba2\u5e97"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="ru">{"id": "a1626cae-a231-4584-a78e-e90cc59f7861", "value": "\u0425\u0430\u043d"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:scopeNote xml:lang="en">{"id": "dc376cce-fc11-46fc-a6e6-a34dfdaefa63", "value": "Dedicated structure, normally within urban areas, with short-term lodging for commercial travellers, storage/warehousing, and sometimes stabling for a large number of their saddle/draft/pack-animals."}</skos:scopeNote>
+        <skos:closeMatch rdf:resource="http://localhost:8000/84171803-17e7-467e-b732-2b0484e84a22"/>
+        <skos:closeMatch rdf:resource="http://localhost:8000/807a790b-92b4-4463-a3b5-3bb38e8aac88"/>
+        <skos:prefLabel xml:lang="en">{"id": "44a12a89-527f-422a-90a0-a3a11e1807f1", "value": "Khan"}</skos:prefLabel>
+        <skos:altLabel xml:lang="zh">{"id": "910a4ce4-a6e9-4b75-a999-ac0f23e0e5c0", "value": "\u5c0f\u5ba2\u6808"}</skos:altLabel>
+      </skos:Concept>
+    </skos:closeMatch>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/fa9608f1-e9fe-455e-87b0-0942b3a1e2b1">
+        <skos:prefLabel xml:lang="ru">{"id": "d2490035-2687-4adf-a45f-4f714499e227", "value": "\u041a\u0430\u0440\u0430\u0432\u0430\u043d-\u0441\u0430\u0440\u0430\u0439 \u0441 \u0434\u0432\u0443\u043c\u044f \u0434\u0432\u043e\u0440\u0430\u043c\u0438"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="zh">{"id": "a36a4bd9-a94c-4144-b328-881ee7774325", "value": "\u4e8c\u8fdb\u9662\u9a7f\u7ad9"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="en">{"id": "773321e0-9557-4608-a9fe-f14a4957ac7c", "value": "Double courtyard caravanserai"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:broadMatch>
+      <skos:Concept rdf:about="http://localhost:8000/62b28db6-16e4-49f3-af60-18dbaa3cae0a">
+        <skos:prefLabel xml:lang="zh">{"id": "88f441a7-ef8b-4555-9106-990d69b99a62", "value": "\u5ba2\u6808"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:scopeNote xml:lang="en">{"id": "ea07db9e-93ed-4e0f-a3bf-18a9fb837c3d", "value": "Structures with short-term lodging for both commercial and non-commercial travellers, and stabling for a small number of their saddle/draft/pack-animals."}</skos:scopeNote>
+        <skos:scopeNote xml:lang="zh">{"id": "3ba45f90-e208-4ae8-83fa-5bf61d018c52", "value": "\u4e3a\u5546\u4e1a\u548c\u975e\u5546\u4e1a\u65c5\u5ba2\u63d0\u4f9b\u77ed\u671f\u4f4f\u5bbf\u7684\u573a\u6240\uff0c\u914d\u6709\u755c\u820d\uff0c\u53ef\u5b89\u7f6e\u5c11\u91cf\u5f79\u517d/\u9a6e\u517d\u3002"}</skos:scopeNote>
+        <skos:prefLabel xml:lang="en">{"id": "2ffbf981-c557-4b20-bf84-f1ffd0f9afca", "value": "Inn"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="ru">{"id": "1f1eb466-ee42-40cb-a69d-592cf18d3fc1", "value": "\u0413\u043e\u0441\u0442\u0438\u043d\u0438\u0446\u0430"}</skos:prefLabel>
+        <skos:scopeNote xml:lang="ru">{"id": "c61fae3f-107c-4b1e-b7a5-d25fead3de4e", "value": "\u0421\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u044b \u0441 \u043a\u0440\u0430\u0442\u043a\u043e\u0441\u0440\u043e\u0447\u043d\u044b\u043c \u0436\u0438\u043b\u044c\u0435\u043c \u043a\u0430\u043a \u0434\u043b\u044f \u043a\u043e\u043c\u043c\u0435\u0440\u0447\u0435\u0441\u043a\u0438\u0445, \u0442\u0430\u043a \u0438 \u0434\u043b\u044f \u043d\u0435\u043a\u043e\u043c\u043c\u0435\u0440\u0447\u0435\u0441\u043a\u0438\u0445 \u043f\u0443\u0442\u0435\u0448\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u0438\u043a\u043e\u0432, \u0438 \u043a\u043e\u043d\u044e\u0448\u043d\u044f \u0434\u043b\u044f \u043d\u0435\u0431\u043e\u043b\u044c\u0448\u043e\u0433\u043e \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u0430 \u0438\u0445 \u0441\u0435\u0434\u0435\u043b\u044c\u043d\u044b\u0445 / \u0442\u044f\u0433\u043b\u043e\u0432\u044b\u0445 / \u0432\u044c\u044e\u0447\u043d\u044b\u0445 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445."}</skos:scopeNote>
+        <skos:altLabel xml:lang="zh">{"id": "cf138f2a-f535-4389-a192-76e482ef0a85", "value": "\u65c5\u9986"}</skos:altLabel>
+        <skos:broadMatch rdf:resource="http://localhost:8000/807a790b-92b4-4463-a3b5-3bb38e8aac88"/>
+      </skos:Concept>
+    </skos:broadMatch>
+    <skos:altLabel xml:lang="zh">{"id": "6c79bea4-83a9-490f-aa96-58ed6cd21ccc", "value": "\u9a7f\u7ad9"}</skos:altLabel>
+    <skos:altLabel xml:lang="zh">{"id": "a6b420ab-ed38-4c4a-a542-432716250c43", "value": "\u5ba2\u6808"}</skos:altLabel>
+    <skos:closeMatch>
+      <skos:Concept rdf:about="http://localhost:8000/84171803-17e7-467e-b732-2b0484e84a22">
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="zh">{"id": "9d6dbf52-805f-499a-b0a3-aa1994504f39", "value": "\u9a7f\u7ad9"}</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">{"id": "f6223f40-f9e4-4c7d-adf8-5c5eb82481d1", "value": "Another term for caravanserai or inn"}</skos:scopeNote>
+        <skos:prefLabel xml:lang="en">{"id": "5b5d642a-f21a-44e9-b529-29c53b7255b8", "value": "Funduq"}</skos:prefLabel>
+        <skos:scopeNote xml:lang="zh">{"id": "61e862f6-67ad-4d9c-9e78-9077e14d8e96", "value": "\u9a7f\u7ad9\u6216\u65c5\u9986\u7684\u53e6\u4e00\u79cd\u53eb\u6cd5"}</skos:scopeNote>
+        <skos:prefLabel xml:lang="ru">{"id": "fcaac02e-7c7b-42fa-aa9a-78353ebeb342", "value": "\u0424\u0443\u043d\u0434\u0443\u043a"}</skos:prefLabel>
+        <skos:altLabel xml:lang="zh">{"id": "ad498196-1b7b-486c-bef4-7337b4642d96", "value": "\u65c5\u9986"}</skos:altLabel>
+        <skos:closeMatch rdf:resource="http://localhost:8000/07307ab3-82f3-468e-8621-9e72a60caf5e"/>
+        <skos:closeMatch rdf:resource="http://localhost:8000/807a790b-92b4-4463-a3b5-3bb38e8aac88"/>
+        <skos:scopeNote xml:lang="ru">{"id": "b5d9dda7-71f9-4bfc-bd53-b29606e69250", "value": "\u0414\u0440\u0443\u0433\u043e\u0439 \u0442\u0435\u0440\u043c\u0438\u043d \u0434\u043b\u044f \u043a\u0430\u0440\u0430\u0432\u0430\u043d-\u0441\u0430\u0440\u0430\u044f \u0438\u043b\u0438 \u0433\u043e\u0441\u0442\u0438\u043d\u0438\u0446\u044b"}</skos:scopeNote>
+      </skos:Concept>
+    </skos:closeMatch>
+    <skos:scopeNote xml:lang="zh">{"id": "9de9796f-8d79-401f-9132-c971a2c6a018", "value": "\u4e13\u4e3a\u5546\u4e1a\u548c\u975e\u5546\u4e1a\u65c5\u5ba2\u63d0\u4f9b\u77ed\u671f\u4f4f\u5bbf\u7684\u573a\u6240\uff0c\u914d\u6709\u755c\u820d\uff0c\u53ef\u5b89\u7f6e\u5927\u91cf\u5f79\u517d/\u9a6e\u517d\u3002"}</skos:scopeNote>
+    <skos:scopeNote xml:lang="ru">{"id": "1596f75a-89be-4f6f-9a2f-aea380956124", "value": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0435 \u0441\u043e\u043e\u0440\u0443\u0436\u0435\u043d\u0438\u044f \u0441 \u043a\u0440\u0430\u0442\u043a\u043e\u0441\u0440\u043e\u0447\u043d\u044b\u043c \u0436\u0438\u043b\u044c\u0435\u043c \u043a\u0430\u043a \u0434\u043b\u044f \u043a\u043e\u043c\u043c\u0435\u0440\u0447\u0435\u0441\u043a\u0438\u0445, \u0442\u0430\u043a \u0438 \u0434\u043b\u044f \u043d\u0435\u043a\u043e\u043c\u043c\u0435\u0440\u0447\u0435\u0441\u043a\u0438\u0445 \u043f\u0443\u0442\u0435\u0448\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u0438\u043a\u043e\u0432, \u0430 \u0442\u0430\u043a\u0436\u0435 \u043a\u043e\u043d\u044e\u0448\u043d\u044f \u0434\u043b\u044f \u0431\u043e\u043b\u044c\u0448\u043e\u0433\u043e \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u0430 \u0438\u0445 \u0441\u0435\u0434\u0435\u043b\u044c\u043d\u044b\u0445 / \u0442\u044f\u0433\u043b\u043e\u0432\u044b\u0445 / \u0432\u044c\u044e\u0447\u043d\u044b\u0445 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445."}</skos:scopeNote>
+    <skos:prefLabel xml:lang="en">{"id": "1b13d9ca-b766-4770-bb4f-e9749a6b4413", "value": "Caravanserai"}</skos:prefLabel>
+    <skos:inScheme>
+      <skos:ConceptScheme rdf:about="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294">
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/e396052b-2a9c-43c4-8223-67b6860e0e26"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/c74b8544-463f-4560-8ff0-7dd3c4fed003"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/65051d7b-fbb6-46c6-a8df-a12fce0eaf4a"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/3fd4bc8d-2546-4c02-a42f-f7d331ce589c"/>
+        <dcterms:description xml:lang="en">{"id": "4982aa31-e3d0-463d-9304-4b29d341cea7", "value": "Monument, site and landscape types for CAAL"}</dcterms:description>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/6db29eb1-ed6e-43f6-a5c8-b392e84dca76"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/aa29045a-18ee-4ed3-bb9d-24f354180dc0"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/e92086ba-907a-4350-8fff-36c2aa3611d6"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/37d83406-3c37-4bc4-a04d-3a547db00de0"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/3706b56d-a078-4267-a56e-3d5aff22155e"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/17009348-0957-4136-a010-b25d68d19aa2"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/0687d75b-e0a0-446f-8d06-7851684afa79"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/0e36cc30-666d-464b-9f87-368b45dd8240"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/8b412321-1ff0-4f41-bfeb-0c08d7da97a9"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/104ddc6a-5f89-4ea5-b7c5-f4326bcbc835"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/30942c2a-44be-42e0-bc9a-a4a67dc489b7"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/98dc354d-0268-47a4-b123-88774b54c9be"/>
+        <dcterms:title xml:lang="en">{"id": "3178519f-bfac-4f3a-be62-ce45132086b1", "value": "Site_type_CAAL"}</dcterms:title>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/ad3fa89d-2beb-44e4-acde-90aa1ca0ee26"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/b32fd84a-4b78-4d6e-b164-5a232491225d"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/6b54bcf5-4fa0-4afc-a4c9-7da88907fc13"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/9975a677-2547-4fe8-bc1f-468405625240"/>
+        <dcterms:description xml:lang="zh">{"id": "111b04f9-5d65-42a7-ab87-bde2e71ae6d5", "value": "CAAL\u53e4\u8ff9\u3001\u9057\u5740\u53ca\u666f\u89c2\u7c7b\u578b"}</dcterms:description>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/bfc667a5-959b-482f-9534-d8850e1fc8aa"/>
+        <dcterms:title xml:lang="zh">{"id": "ddc257e5-ecb0-453f-8718-7b4c766fe303", "value": "\u9057\u5740\u7c7b\u522b"}</dcterms:title>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/85bb3549-97a9-4096-8162-aa8a9d0ac763"/>
+      </skos:ConceptScheme>
+    </skos:inScheme>
+    <skos:prefLabel xml:lang="zh">{"id": "a5708ea3-4518-42ba-b80e-0383fc0545d7", "value": "\u5546\u961f\u65c5\u9986"}</skos:prefLabel>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/6c16ab8f-af5d-4b31-a138-86a8bdb2496d">
+        <skos:prefLabel xml:lang="en">{"id": "fa7ceb70-184c-43fb-9074-bf3b820b9bcb", "value": "Single courtyard caravanserai"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="ru">{"id": "9b9364db-960d-4ede-8af7-fd13b828181c", "value": "\u041a\u0430\u0440\u0430\u0432\u0430\u043d-\u0441\u0430\u0440\u0430\u0439 \u0441 \u043e\u0434\u043d\u0438\u043c \u0434\u0432\u043e\u0440\u043e\u043c"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="zh">{"id": "03dec33a-2500-4bdb-8eff-a971376dfb89", "value": "\u4e00\u8fdb\u9662\u9a7f\u7ad9/\u72ec\u9662\u9a7f\u7ad9"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:scopeNote xml:lang="en">{"id": "64c037bf-2c6f-4d30-ad66-1dc3a49a6ea9", "value": "Dedicated structures with short-term lodging for both commercial and non-commercial travellers, and stabling for a large number of their saddle/draft/pack-animals."}</skos:scopeNote>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/efec2620-ae42-4aa8-bfaa-8b3c1e1185a0">
+    <skos:scopeNote xml:lang="ru">{"id": "f4784d19-0c61-4af4-b7b3-cdfb90ba7d8f", "value": "\u0417\u0434\u0430\u043d\u0438\u0435 \u0434\u043b\u044f \u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u0438 \u043f\u0435\u0440\u0435\u0440\u0430\u0431\u043e\u0442\u043a\u0438 \u0441\u0435\u043b\u044c\u0441\u043a\u043e\u0445\u043e\u0437\u044f\u0439\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0445 \u043a\u0443\u043b\u044c\u0442\u0443\u0440, \u0430 \u0442\u0430\u043a\u0436\u0435 \u0434\u043b\u044f \u0440\u0430\u0437\u043c\u0435\u0449\u0435\u043d\u0438\u044f \u0441\u043e\u043b\u043e\u043c\u044b, \u0441\u0435\u043b\u044c\u0441\u043a\u043e\u0445\u043e\u0437\u044f\u0439\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f, \u0430 \u0438\u043d\u043e\u0433\u0434\u0430 \u0438 \u0434\u043e\u043c\u0430\u0448\u043d\u0435\u0433\u043e \u0441\u043a\u043e\u0442\u0430 \u0438 \u0435\u0433\u043e \u043a\u043e\u0440\u043c\u043e\u0432."}</skos:scopeNote>
+    <skos:scopeNote xml:lang="zh">{"id": "1ab6605c-f763-43a8-9e3f-f81479344842", "value": "\u7528\u4f5c\u5b58\u50a8\u548c\u52a0\u5de5\u5e84\u7a3c\u3001\u5b58\u653e\u7a3b\u8349\u3001\u519c\u5177\u7684\u5efa\u7b51\uff0c\u6709\u65f6\u4e5f\u4f1a\u7528\u4e8e\u5b89\u7f6e\u7272\u755c\u548c\u9972\u6599\u3002"}</skos:scopeNote>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="en">{"id": "ea3b7a9a-e229-4667-8967-43873291cf4c", "value": "Barn"}</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">{"id": "448bfcc5-8950-4042-af60-13b77d9de29c", "value": "A building for the storage and processing of crops and for housing straw, farm equipment, and occasionally livestock and their fodder. "}</skos:scopeNote>
+    <skos:prefLabel xml:lang="ru">{"id": "4af7d198-b7cc-4d66-9a0d-fb66c09480a0", "value": "\u0410\u043c\u0431\u0430\u0440"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="zh">{"id": "8eb58d63-30c9-4096-9a33-8686cd5abd41", "value": "\u8c37\u4ed3"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/af5a0a7f-68a1-42e1-a26f-f5e58c94c40c">
+    <skos:scopeNote xml:lang="en">{"id": "23e36d5d-fe52-489a-a22b-f2b7b490753e", "value": "A structure with a roof to provide shelter from the weather for occupants or contents. Use specific type where known."}</skos:scopeNote>
+    <skos:scopeNote xml:lang="ru">{"id": "7c60117c-1410-4fdc-87a9-c4b7526da361", "value": "\u0421\u0442\u0440\u043e\u0435\u043d\u0438\u0435 \u0441 \u043a\u0440\u044b\u0448\u0435\u0439, \u043c\u043e\u0433\u0443\u0449\u0435\u0435 \u0441\u043b\u0443\u0436\u0438\u0442\u044c \u0443\u043a\u0440\u044b\u0442\u0438\u0435\u043c \u043e\u0442 \u043d\u0435\u043f\u043e\u0433\u043e\u0434\u044b \u0434\u043b\u044f \u043e\u0431\u0438\u0442\u0430\u0442\u0435\u043b\u0435\u0439 \u0438\u043b\u0438 \u0434\u043b\u044f \u043d\u0430\u0445\u043e\u0434\u044f\u0449\u0435\u0433\u043e\u0441\u044f \u0432\u043d\u0443\u0442\u0440\u0438 \u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u0430. \u0418\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0439\u0442\u0435 \u0434\u0430\u043d\u043d\u043e\u0435 \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u0438\u0435, \u0435\u0441\u043b\u0438 \u0441\u043f\u0435\u0446\u0438\u0444\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0442\u0438\u043f \u0441\u0442\u0440\u043e\u0435\u043d\u0438\u044f \u043d\u0435\u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043d. "}</skos:scopeNote>
+    <skos:prefLabel xml:lang="ru">{"id": "987977f3-9dd6-4ec4-9e3e-32ac46fcdfd7", "value": "\u041f\u043e\u0441\u0442\u0440\u043e\u0439\u043a\u0430"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="zh">{"id": "3a5492b4-8ec6-4b39-83e6-edeb3fb9f377", "value": "\u5efa\u7b51"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">{"id": "91dc5cff-a0b7-425c-b888-e8eac9701ade", "value": "Building"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/68752f62-fd6a-4402-b050-db885c207bb1">
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="en">{"id": "5683c3eb-7420-45ec-9b87-ac460dcc4fbd", "value": "Inhumation burial"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="ru">{"id": "7d82ea35-6539-4fbf-b4a3-059f060b9016", "value": "\u0418\u043d\u0433\u0443\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u043e\u0435 \u0437\u0430\u0445\u043e\u0440\u043e\u043d\u0435\u043d\u0438\u0435"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="zh">{"id": "4bf4b6d9-7cd9-457b-9643-d0bf5e6877f7", "value": "\u571f\u846c\u5893"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/aa29045a-18ee-4ed3-bb9d-24f354180dc0">
+    <skos:prefLabel xml:lang="en">{"id": "3b05cbfa-4375-4d6a-8b75-6bdbc22bf65e", "value": "Garden"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="zh">{"id": "cd44f063-3282-49a5-b9c3-0e9775b177e1", "value": "\u82b1\u56ed"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/37d83406-3c37-4bc4-a04d-3a547db00de0">
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/c28c2e37-e291-463c-bbf5-376bb15a4d8f">
+        <skos:prefLabel xml:lang="zh">{"id": "6c96bf2b-0623-4776-b740-db307f45f71b", "value": "\u524d\u54e8/\u7ad9\u70b9"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="en">{"id": "f766b980-5906-4352-85ea-7c6311d65bb3", "value": "Outpost/station"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="ru">{"id": "e6fbd354-e5c0-440b-8eb2-b232c311ea5b", "value": "\u0410\u0432\u0430\u043d\u043f\u043e\u0441\u0442/\u0441\u0442\u0430\u043d\u0446\u0438\u044f"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/53190ac3-dc38-4075-add9-cd684a75e35e">
+        <skos:prefLabel xml:lang="en">{"id": "475783f9-3298-40ee-892a-8fc9d9b89a9f", "value": "City/town gate"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="zh">{"id": "a26746e8-51e8-409b-9443-24ad7f5006e5", "value": "\u57ce\u95e8"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="ru">{"id": "ffe21678-31f1-4784-bc44-01888c790fdd", "value": "\u0413\u043e\u0440\u043e\u0434\u0441\u043a\u0438\u0435 \u0432\u043e\u0440\u043e\u0442\u0430"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:prefLabel xml:lang="en">{"id": "dcc2e093-2e6f-4f3d-8a02-033a7db07e32", "value": "Defence"}</skos:prefLabel>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/d484a3a4-96d7-44bd-b41e-a16a4d7c5c59">
+        <skos:prefLabel xml:lang="ru">{"id": "8b61f146-fad1-42f0-86eb-002af3b3985b", "value": "\u0411\u0430\u0440\u0431\u0438\u043a\u0430\u043d"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="en">{"id": "0aefe59e-aa67-4035-8b3b-56160ead22fa", "value": "Barbican"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="zh">{"id": "76fc2ba5-c26b-4b4b-936a-0d63bea62447", "value": "\u74ee\u57ce"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/851e0a2c-458c-4db0-9cb0-c713ae28266c">
+        <skos:prefLabel xml:lang="zh">{"id": "667e976a-79bc-49f3-95ee-987b0aec5942", "value": "\u9632\u5fa1\u5de5\u4e8b"}</skos:prefLabel>
+        <skos:narrower rdf:resource="http://localhost:8000/9d27a4c3-eb9f-4251-aed9-eba0bf291baa"/>
+        <skos:prefLabel xml:lang="ru">{"id": "1c23fc23-205a-41db-8e75-4b792aca2db4", "value": "\u0424\u043e\u0440\u0442\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u044f"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="en">{"id": "cd4f6c94-3a72-4dc3-ae6e-64503e205996", "value": "Fortification"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/edcca88a-0963-4368-82eb-112ddbed8dca">
+        <skos:prefLabel xml:lang="en">{"id": "25e89ff5-c39a-4fa0-b026-c379adbd089c", "value": "Watchtower"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="zh">{"id": "07fd13ee-98e9-42ff-9e35-30072adba0a4", "value": "\u66b8\u671b\u5854"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="ru">{"id": "e3e6a045-c05a-4d7c-bb89-737d06876e80", "value": "\u0421\u0442\u043e\u0440\u043e\u0436\u0435\u0432\u0430\u044f \u0431\u0430\u0448\u043d\u044f"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/d1bfa847-5c55-4407-b253-ef8613e8b399">
+        <skos:prefLabel xml:lang="ru">{"id": "1f98b9ca-73bf-4a25-a65b-0201ee6feb6f", "value": "\u0417\u0430\u043c\u043e\u043a"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="zh">{"id": "6985adb5-00dc-4abc-ad8a-b169d0abc7f6", "value": "\u57ce\u5821"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">{"id": "89e8fa3d-3a5e-4fbd-8cfe-0838192faccf", "value": "Castle"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/578321d2-8b81-4fbb-99d1-b1ad6c91623d">
+        <skos:prefLabel xml:lang="zh">{"id": "410433df-e3ce-4bb9-a4ca-f07576cce7b6", "value": "\u5821\u5792/\u8981\u585e"}</skos:prefLabel>
+        <skos:closeMatch rdf:resource="http://localhost:8000/24fc4713-fa9b-4e0a-9398-9b220c6faf3a"/>
+        <skos:prefLabel xml:lang="en">{"id": "6daca3bf-2d2c-4c15-af97-870a195cd6d5", "value": "Fortress"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="ru">{"id": "6114cd30-1e04-48f6-8564-85c8231e982c", "value": "\u041a\u0440\u0435\u043f\u043e\u0441\u0442\u044c"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:prefLabel xml:lang="ru">{"id": "66c91659-d6b3-4fae-a9c6-3b7d62fa385c", "value": "\u041e\u0431\u043e\u0440\u043e\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u0441\u043e\u043e\u0440\u0443\u0436\u0435\u043d\u0438\u044f"}</skos:prefLabel>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/78d59c08-bb40-4e4a-9ae1-47e5bd33bec1">
+        <skos:prefLabel xml:lang="zh">{"id": "f5191ee6-a9e2-4be5-ace1-0239488f9613", "value": "\u68f1\u5821"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="ru">{"id": "ec0ed03a-d347-49a2-a4b4-95b5c47427e4", "value": "\u0413\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u0431\u0430\u0441\u0442\u0438\u043e\u043d"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="en">{"id": "cd549f17-b573-4702-9aa4-d0792b8c2894", "value": "City/town bastion"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/24fc4713-fa9b-4e0a-9398-9b220c6faf3a">
+        <skos:prefLabel xml:lang="zh">{"id": "ed1ecbaf-6cb7-42d3-ab9c-5581515439ab", "value": "\u5821\u5792/\u8981\u585e"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="ru">{"id": "2fc70b07-dde8-48e8-9efc-cd9836afb59b", "value": "\u0424\u043e\u0440\u0442"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:closeMatch rdf:resource="http://localhost:8000/578321d2-8b81-4fbb-99d1-b1ad6c91623d"/>
+        <skos:prefLabel xml:lang="en">{"id": "fb6ad0f8-c7fa-4d2e-b5a7-d2c4b196ac17", "value": "Fort"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/257beb80-93a3-4eaa-8167-045ff124bee9">
+        <skos:prefLabel xml:lang="zh">{"id": "0a35345a-538d-49f2-a2fe-2849e1578ed5", "value": "\u89d2\u697c"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">{"id": "b4b5ed5c-bfbd-413a-9c41-484a91fecae5", "value": "Turret"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="ru">{"id": "fbd390b4-48b4-4cff-a50a-7d09711c7e78", "value": "\u041e\u0440\u0443\u0434\u0438\u0439\u043d\u0430\u044f \u0431\u0430\u0448\u043d\u044f"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/0bbb4dda-b85e-486a-84c6-557c88b134c1">
+        <skos:prefLabel xml:lang="en">{"id": "5e7111ad-a2cc-43f6-aa21-58046be0325e", "value": "Military installation"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/26064b0b-1f2d-4052-b401-874ec7fcae72">
+        <skos:prefLabel xml:lang="en">{"id": "b0fc7d00-a273-4671-a449-6b487cb2f730", "value": "Moat"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="ru">{"id": "747854cd-4d1a-4400-8e18-11e2b6bbb5b4", "value": "\u0420\u043e\u0432"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="zh">{"id": "552f7744-5d31-4cf9-a759-5a42dc581df1", "value": "\u62a4\u57ce\u6cb3/\u58d5\u6c9f"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:prefLabel xml:lang="zh">{"id": "6a5b77c6-d5c1-4f9c-9a2b-73e0e3f581f6", "value": "\u9632\u5fa1"}</skos:prefLabel>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/c3bb9491-635a-42a5-a9a0-cd3e54bbfbde">
+        <skos:prefLabel xml:lang="en">{"id": "dae4d6ca-fc96-4268-a410-2e87c1a300cc", "value": "City/town wall"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="zh">{"id": "d0891de9-69ca-4942-9e5f-93dbfa66ddd0", "value": "\u57ce\u5899"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="ru">{"id": "56a47632-0c2a-4afe-a062-1c3a81335003", "value": "\u0413\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f \u0441\u0442\u0435\u043d\u0430"}</skos:prefLabel>
+        <skos:narrower rdf:resource="http://localhost:8000/5ba82147-b82b-4b65-923b-c8deba99f753"/>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:narrower rdf:resource="http://localhost:8000/f4f5d9fa-fa94-48a8-89b4-72910c5682ce"/>
+      </skos:Concept>
+    </skos:narrower>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/cbf96bd2-7e98-4986-88c8-d1f73aff2876">
+    <skos:prefLabel xml:lang="zh">{"id": "b99e4a4e-3fed-4627-b416-fb3e6876de1e", "value": "\u6c34\u6e90"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">{"id": "350b926f-c99b-441f-8d32-b8fffff4ed86", "value": "Water source"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="ru">{"id": "3800d29a-cf06-4123-b48a-7e2dd9de3c0c", "value": "\u0418\u0441\u0442\u043e\u0447\u043d\u0438\u043a \u0432\u043e\u0434\u044b"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/3fd4bc8d-2546-4c02-a42f-f7d331ce589c">
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/3a46fb6e-af0c-4053-bc36-c4e00b6eedd7">
+        <skos:prefLabel xml:lang="en">{"id": "baa17ee3-3416-4b24-8622-b81ee297ac08", "value": "Low mound"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/50557e4a-22f6-4e07-a6d0-8af05840561b">
+        <skos:prefLabel xml:lang="ru">{"id": "8b089de6-3636-46ec-b3ac-2c71be2e922c", "value": "\u041f\u043e\u0432\u0435\u0440\u0445\u043d\u043e\u0441\u0442\u043d\u044b\u0439 \u0440\u0430\u0437\u0431\u0440\u043e\u0441"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">{"id": "1463238c-fb49-48a6-b92b-fffd0ed9f967", "value": "Surface scatter"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="zh">{"id": "aa0e24e1-d016-4238-bab4-edad807ca729", "value": "\u8868\u5c42\u6563\u5e03"}</skos:prefLabel>
+        <skos:narrower rdf:resource="http://localhost:8000/0b031489-7c30-41b4-b56c-b42b8e483d7e"/>
+        <skos:narrower rdf:resource="http://localhost:8000/7a9f11b7-ebf5-4d69-a189-dc822c449863"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/9e538129-6c55-4bca-a8e9-b7acf243dbb7">
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="zh">{"id": "0f196208-14dc-424b-897f-d88a55233b62", "value": "\u96f6\u6563\u53d1\u73b0"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="ru">{"id": "efd51a8e-dccf-44ba-b326-331083a08b14", "value": "\u0421\u043b\u0443\u0447\u0430\u0439\u043d\u0430\u044f \u043d\u0430\u0445\u043e\u0434\u043a\u0430"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">{"id": "a5525a39-cbda-4118-b195-9a337add6500", "value": "Stray find"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:prefLabel xml:lang="zh">{"id": "dc75b281-04d7-42e7-a829-caa959cf1120", "value": "\u8003\u53e4\u7279\u5f81"}</skos:prefLabel>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/9582d37a-435f-4b11-b2fa-45d673bf7662">
+        <skos:prefLabel xml:lang="en">{"id": "8bfbb3b8-8913-4aee-9ae2-51a59497ec48", "value": "Flat"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/2d9dc54e-e012-4ebf-8bd9-75d0b7801ab7">
+        <skos:prefLabel xml:lang="ru">{"id": "fdc6f95d-b4a2-42fa-8a90-9fa30d60024c", "value": "\u042f\u043c\u0430"}</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">{"id": "fc7b0d7e-6c11-4394-b8c7-54e69965b648", "value": "A hollow or indentation in a surface."}</skos:scopeNote>
+        <skos:prefLabel xml:lang="zh">{"id": "0785a5eb-4946-47cf-ac84-f33ee4b1ffe1", "value": "\u7070\u5751"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="en">{"id": "631a697d-3ed4-4926-9581-471caf0aaa91", "value": "Pit"}</skos:prefLabel>
+        <skos:scopeNote xml:lang="ru">{"id": "4737b641-faa0-4758-a754-8747b4aa8ebc", "value": "\u041f\u043e\u043b\u043e\u0441\u0442\u044c \u0438\u043b\u0438 \u0443\u0433\u043b\u0443\u0431\u043b\u0435\u043d\u0438\u0435 \u043d\u0430 \u043f\u043e\u0432\u0435\u0440\u0445\u043d\u043e\u0441\u0442\u0438. "}</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower rdf:resource="http://localhost:8000/af5a0a7f-68a1-42e1-a26f-f5e58c94c40c"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/9582a3fe-b08c-4402-a865-81dd2dcf73ba">
+        <skos:scopeNote xml:lang="en">{"id": "366710c0-7c83-4ab5-ba4e-41c7240128a8", "value": "A place on which a fire is made."}</skos:scopeNote>
+        <skos:prefLabel xml:lang="en">{"id": "549bedfd-2afc-4e3e-bf1b-3856da2d2b75", "value": "Hearth"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:scopeNote xml:lang="ru">{"id": "00449cee-6b02-4ed6-b7a0-683e96da4188", "value": "\u041c\u0435\u0441\u0442\u043e, \u043d\u0430/\u0432 \u043a\u043e\u0442\u043e\u0440\u043e\u043c \u0440\u0430\u0437\u0432\u043e\u0434\u0438\u0442\u0441\u044f \u043e\u0433\u043e\u043d\u044c."}</skos:scopeNote>
+        <skos:prefLabel xml:lang="ru">{"id": "3a6761a1-d2f9-45d9-bbe4-fefe4da68df6", "value": "\u041e\u0447\u0430\u0433"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="zh">{"id": "133af9c3-7384-4bf8-9bf7-25c3f606fc00", "value": "\u7076\u53f0"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/5890c6f8-88fb-4e42-a56f-b99c294949d1">
+        <skos:scopeNote xml:lang="ru">{"id": "12433869-226f-4df3-96c2-f7e499101a1c", "value": "\u041a\u0438\u0440\u043f\u0438\u0447\u043d\u0430\u044f, \u0437\u0435\u043c\u043b\u044f\u043d\u0430\u044f, \u043a\u0430\u043c\u0435\u043d\u043d\u0430\u044f \u0438\u043b\u0438 \u0436\u0435\u043b\u0435\u0437\u043d\u0430\u044f \u043d\u0438\u0448\u0430, \u043f\u0440\u0435\u0434\u043d\u0430\u0437\u043d\u0430\u0447\u0435\u043d\u043d\u0430\u044f \u0434\u043b\u044f \u0432\u044b\u043f\u0435\u0447\u043a\u0438 \u0445\u043b\u0435\u0431\u0430 \u0438\u043b\u0438 \u0434\u0440\u0443\u0433\u043e\u0439 \u0435\u0434\u044b \u0432\u043d\u0443\u0442\u0440\u0438 \u043d\u0435\u0435. "}</skos:scopeNote>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="zh">{"id": "8adb8358-d0ce-44ee-b8e2-0b1bbb491e77", "value": "\u7089/\u7076/\u70d8\u7bb1"}</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">{"id": "f610ce8d-459a-4ee8-9c42-60d7cffce599", "value": "A brick, earth, stone or iron receptacle for baking bread or other food in."}</skos:scopeNote>
+        <skos:prefLabel xml:lang="en">{"id": "2eb7e46d-b035-4b3f-b46c-49b8b222dbd8", "value": "Oven"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="ru">{"id": "59a67e2e-236f-44db-8067-8d5cf10aab01", "value": "\u041f\u0435\u0447\u044c"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/c4c07cae-544f-4471-9921-e93a7158fd60">
+        <skos:prefLabel xml:lang="ru">{"id": "e3633190-8c1a-444f-b2c7-39ea148c4d2e", "value": "\u0417\u0430\u0445\u043e\u0440\u043e\u043d\u0435\u043d\u043d\u0430\u044f \u043f\u043e\u0447\u0432\u0430"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="zh">{"id": "c47a1861-3847-4f87-af4c-928b7023bf0c", "value": "\u57cb\u85cf\u571f"}</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">{"id": "f971c7ee-0a4f-423a-aa8e-ed6e7d56b7cc", "value": "A soil profile buried beneath later deposits. A relict land surface."}</skos:scopeNote>
+        <skos:prefLabel xml:lang="en">{"id": "43b1c705-2859-44b3-ac0f-3d6bdb7c3ca3", "value": "Buried soil"}</skos:prefLabel>
+        <skos:scopeNote xml:lang="ru">{"id": "ef58de19-4e6f-49ea-ad1f-627deccaa60b", "value": "\u0413\u043e\u0440\u0438\u0437\u043e\u043d\u0442 \u043f\u043e\u0447\u0432\u044b, \u043f\u043e\u0445\u043e\u0440\u043e\u043d\u0435\u043d\u043d\u044b\u0439 \u043f\u043e\u0434 \u0431\u043e\u043b\u0435\u0435 \u043f\u043e\u0437\u0434\u043d\u0438\u043c\u0438 \u043e\u0442\u043b\u043e\u0436\u0435\u043d\u0438\u044f\u043c\u0438. \u0420\u0435\u043b\u0438\u043a\u0442\u043e\u0432\u0430\u044f \u043f\u043e\u0432\u0435\u0440\u0445\u043d\u043e\u0441\u0442\u044c \u0437\u0435\u043c\u043b\u0438 (\u043f\u0430\u043b\u0435\u043e\u043f\u043e\u0447\u0432\u0430). "}</skos:scopeNote>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/40675f0c-3041-4336-990f-9551a30a56af">
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="en">{"id": "3e210b76-4afa-48c5-8f6b-1ee5a8cca49a", "value": "Wall"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:prefLabel xml:lang="ru">{"id": "6de33a26-4a6b-439c-8cb2-cf8a04079f2f", "value": "\u0410\u0440\u0445\u0435\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0447\u0435\u0440\u0442\u0430"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">{"id": "5137170a-f598-4eb5-a640-42643c35977e", "value": "Archaeological feature"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/7a311099-91a6-435c-861b-a6d7555d1bf4">
+    <skos:prefLabel xml:lang="zh">{"id": "3b7e95d1-fe4f-4892-b32d-ec2979075a7e", "value": "\u78e8\u574a"}</skos:prefLabel>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/0cd04e82-5163-4956-91f0-8d85f54c2a07">
+        <skos:prefLabel xml:lang="en">{"id": "c440fced-dd48-44ed-a028-19d21e333e3b", "value": "Watermill"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="zh">{"id": "36963bd8-51fc-48b4-b198-dc7056a271ff", "value": "\u6c34\u78e8\u574a"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="ru">{"id": "6fdc56c8-0eb2-4f36-bbb6-2ba3a44c240b", "value": "\u0412\u043e\u0434\u044f\u043d\u0430\u044f \u041c\u0435\u043b\u044c\u043d\u0438\u0446\u0430"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:prefLabel xml:lang="ru">{"id": "c4df62f4-acc3-41cc-917a-f6b829c0dfd6", "value": "\u041c\u0435\u043b\u044c\u043d\u0438\u0446\u0430"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">{"id": "33c20c6d-0de8-41ec-ae3f-1c96c7c3f04d", "value": "Mill"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/b8cce5d7-1240-4b56-809f-9d9afd528541">
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="zh">{"id": "5dc0731e-6c7d-4f8a-a259-c448d35c78e5", "value": "\u94ed\u6587\u77f3\u67f1"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">{"id": "65babac1-e0f0-414d-82af-251dd017e770", "value": "Stele inscription "}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/bf442219-1b10-4541-a4be-8e2172362fa1">
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:altLabel xml:lang="zh">{"id": "cab265ae-1307-4bbc-8c38-f03ff01ddd53", "value": "\u7caa\u51fc"}</skos:altLabel>
+    <skos:prefLabel xml:lang="ru">{"id": "8625aa67-56fa-4486-9d41-2257a67dc31f", "value": "\u0412\u044b\u0433\u0440\u0435\u0431\u043d\u0430\u044f \u044f\u043c\u0430"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">{"id": "769a5661-6046-4f3b-a423-870a53027cdf", "value": "Cess pit"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="zh">{"id": "ff354864-3352-4eef-ad32-dd0441cb4809", "value": "\u6c61\u6c34\u5751"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/e556b173-1b47-4bb2-9fb2-fd3c9704625f">
+    <skos:prefLabel xml:lang="zh">{"id": "c335c2de-9cb1-4fff-a6ad-f456047ca9a5", "value": "\u8f66\uff08\u9a6c\uff09\u5751"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="ru">{"id": "d6e1bc4d-a611-4e22-a8b3-52e14fdc7bf7", "value": "\u0417\u0430\u0445\u043e\u0440\u043e\u043d\u0435\u043d\u0438\u0435 \u0441 \u041a\u043e\u043b\u0435\u0441\u043d\u0438\u0446\u043e\u0439 "}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="en">{"id": "e1c39453-28bf-4120-89f5-8b9205932f66", "value": "Chariot burial"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/bfdccc90-acda-4909-a364-11dfee243a98">
+    <skos:prefLabel xml:lang="zh">{"id": "31a0cb6c-c1a7-4253-a1d2-7406b5987287", "value": "\u5893\u5730\u9057\u5740"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">{"id": "5a29c879-5512-44df-aaf2-f4d0e5c6d52b", "value": "Burial site"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="ru">{"id": "a9e9ac99-1d32-4669-b193-3d26426b53b5", "value": "\u041c\u0435\u0441\u0442\u043e \u0437\u0430\u0445\u043e\u0440\u043e\u043d\u0435\u043d\u0438\u044f"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/44fd3146-21cc-43e0-9664-0146a16826c8">
+    <skos:prefLabel xml:lang="zh">{"id": "612a05e0-25cb-45fe-aa77-6fe58b62b3e4", "value": "\u4e0b\u6c34\u9053"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="en">{"id": "8dd54d1b-d51a-42fe-8e05-cabfb083dfa7", "value": "Sewer"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="ru">{"id": "44bb1edc-dc55-4643-98dd-ab1d787e46e5", "value": "\u041a\u0430\u043d\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/a5ed5f39-cf7c-49ab-af62-c7d2fe77e2ed">
+    <skos:prefLabel xml:lang="ru">{"id": "5f718048-4f55-464e-b91d-a834013968ef", "value": "\u0426\u0438\u0441\u0442\u0430"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="zh">{"id": "f2f539ee-e87c-4dac-bc46-62b19d83a7d7", "value": "\u77f3\u68fa"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="en">{"id": "1a2889ec-4749-440d-ba9d-c1f8b0f1d859", "value": "Cist"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/13634d1b-8434-46b7-9294-4c24fdd968dd">
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="ru">{"id": "590cca2d-0a1f-49bc-9a6d-49e5a2fe8383", "value": "\u041c\u0438\u043d\u0430\u0440\u0435\u0442"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">{"id": "9bcb7c7a-7756-4a24-983c-9f45ba45844f", "value": "Minaret"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="zh">{"id": "0fbab6f4-362c-4041-a22f-442d1f1be787", "value": "\u5ba3\u793c\u5854"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/f6b726ad-134f-4582-9d27-ee5df392b1ef">
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:altLabel xml:lang="zh">{"id": "fb5fce3f-c3b5-4cd4-8c08-c3bbf9267a62", "value": "\u516c\u5893"}</skos:altLabel>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/5eb760b7-46bd-4139-a51e-d59134b4e405">
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="en">{"id": "176bb1a1-60bb-4381-ba68-280e5ef0ace7", "value": "Burial ground"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="ru">{"id": "907237ec-6eb2-44c4-ad21-923cbce687f9", "value": "\u041c\u043e\u0433\u0438\u043b\u044c\u043d\u0438\u043a"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="zh">{"id": "10305a3e-6f63-496d-95f3-52bf708c06a0", "value": "\u5893\u5730"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/f6215179-1ab6-49a3-a74a-69dbf53d8746">
+        <skos:prefLabel xml:lang="zh">{"id": "05752e4a-9e34-491c-ba6b-583828d3c7f0", "value": "\u5893\u56ed"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">{"id": "5b63b59c-644f-47b8-9f19-847700d7cedf", "value": "Burial cemetery"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="ru">{"id": "1945f33b-9639-47a7-a0ea-06b983f2e8f1", "value": "\u041a\u043b\u0430\u0434\u0431\u0438\u0449\u0435 \u043f\u043e\u0433\u0440\u0435\u0431\u0435\u043d\u0438\u0439"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower rdf:resource="http://localhost:8000/bfdccc90-acda-4909-a364-11dfee243a98"/>
+    <skos:prefLabel xml:lang="zh">{"id": "ea98d601-4bcb-4581-b931-6bffd7cde61b", "value": "\u5893\u5730"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">{"id": "57c165cc-1c9f-494d-a4c1-18e787c88a15", "value": "Cemetery"}</skos:prefLabel>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/760a0c82-4f86-48d0-9a7f-7de3bfc08fe6">
+        <skos:prefLabel xml:lang="en">{"id": "fc885680-346d-4270-9b51-d9023552c482", "value": "Cremation cemetery"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="ru">{"id": "2944a028-8be0-4212-b73d-514e75aa1388", "value": "\u041a\u043b\u0430\u0434\u0431\u0438\u0449\u0435 \u043a\u0440\u0435\u043c\u0430\u0446\u0438\u0438"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="zh">{"id": "2e38e0f3-b687-4cab-a583-9d04e1366150", "value": "\u706b\u846c\u573a"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:prefLabel xml:lang="ru">{"id": "af2ae574-bd58-4386-ad76-9276ac2ae6b2", "value": "\u041a\u043b\u0430\u0434\u0431\u0438\u0449\u0435"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/c451e477-50ee-4a99-a93a-99e6871731cd">
+    <skos:prefLabel xml:lang="ru">{"id": "689607bb-8cdf-4e8b-98eb-754304bfcfd0", "value": "\u041a\u043b\u0430\u0434\u0431\u0438\u0449\u0435 / \u041c\u043e\u0433\u0438\u043b\u044c\u043d\u0438\u043a"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">{"id": "ec419248-fb38-48c7-a3f7-8a4f18ca55f4", "value": "Graveyard"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="zh">{"id": "b92425be-ffaf-4fd8-8d8c-fd0abc5e5e91", "value": "\u5893\u5730"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/3706b56d-a078-4267-a56e-3d5aff22155e">
+    <skos:prefLabel xml:lang="ru">{"id": "c2eed958-a87d-4f36-b45c-fcbc4183aca1", "value": "\u041f\u043e\u043b\u0435 \u0431\u0438\u0442\u0432\u044b"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="en">{"id": "67f4acd3-35b8-4a6e-92d3-52f26054f205", "value": "Battlefield"}</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">{"id": "d7fc6261-05d7-4bcd-a1bf-23e783e35c1e", "value": "An area of ground on which a battle or skirmish was fought."}</skos:scopeNote>
+    <skos:scopeNote xml:lang="zh">{"id": "11fb5d25-a0d4-4233-b590-501d74b4fbfb", "value": "\u53d1\u751f\u8fc7\u6b66\u529b\u51b2\u7a81\u3001\u6218\u6597\u7684\u4e00\u7247\u533a\u57df\u3002"}</skos:scopeNote>
+    <skos:scopeNote xml:lang="ru">{"id": "f1e4a5dd-86b9-479d-bf56-6fc152bd6fb3", "value": "\u0422\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u044f, \u043d\u0430 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u0435\u043b\u0430\u0441\u044c \u0431\u0438\u0442\u0432\u0430 \u0438\u043b\u0438 \u043f\u0440\u043e\u0438\u0437\u043e\u0448\u043b\u0430 \u0441\u0442\u044b\u0447\u043a\u0430."}</skos:scopeNote>
+    <skos:prefLabel xml:lang="zh">{"id": "6fa40c5c-6044-4c18-81ed-94642e6b7f28", "value": "\u6218\u573a"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/083149ea-b37d-4832-9d73-3359c58a0059">
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="ru">{"id": "406279aa-35ec-407b-821d-eb26e89fdbbd", "value": "\u041c\u0435\u0441\u0442\u043e \u043e\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0438"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="zh">{"id": "66996818-e808-45e1-bc48-efcf2169dcc8", "value": "\u9a7b\u811a\u70b9"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">{"id": "fd7f9d7d-903e-4c46-b592-0ea6d5356143", "value": "Stopping place"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/bfc667a5-959b-482f-9534-d8850e1fc8aa">
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/43167a7f-1802-43f1-8045-7d00eee12833">
+        <skos:prefLabel xml:lang="zh">{"id": "40de2b71-00ec-43a1-a45f-6af872a9af4c", "value": "\u5723\u6240"}</skos:prefLabel>
+        <skos:altLabel xml:lang="zh">{"id": "fb15714c-de9b-416f-adbc-c606bef5925a", "value": "\u907f\u96be\u6240"}</skos:altLabel>
+        <skos:prefLabel xml:lang="ru">{"id": "deb56511-be89-434c-a31d-c62eb7e7e201", "value": "\u0421\u0432\u044f\u0442\u0438\u043b\u0438\u0449\u0435"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="en">{"id": "36b47c67-64d4-4e04-acc4-f4ff1b1073ab", "value": "Sanctuary"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/c0bd1b3c-81d8-4703-98b3-91a570a9b59a">
+        <skos:scopeNote xml:lang="ru">{"id": "53c7ef79-5129-4011-a42a-4a47b82d6065", "value": "\u041a\u0440\u0443\u0433\u043b\u043e\u0435 \u0438\u043b\u0438 \u043f\u043e\u0434\u043a\u0440\u0443\u0433\u043b\u043e\u0435 \u043e\u0433\u0440\u0430\u0436\u0434\u0435\u043d\u0438\u0435, \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u044f\u0435\u043c\u043e\u0435 \u0432\u0430\u043b\u043e\u043c \u0438 (\u043e\u0431\u044b\u0447\u043d\u043e \u0432\u043d\u0443\u0442\u0440\u0435\u043d\u043d\u0438\u043c) \u0440\u0432\u043e\u043c, \u0441 \u043e\u0434\u043d\u0438\u043c \u0438\u043b\u0438 \u0434\u0432\u0443\u043c\u044f (\u0440\u0435\u0434\u043a\u043e \u0431\u043e\u043b\u044c\u0448\u0435) \u0432\u0445\u043e\u0434\u0430\u043c\u0438. \u0418\u0441\u0445\u043e\u0434\u044f \u0438\u0437 \u0446\u0435\u0440\u0435\u043c\u043e\u043d\u0438\u0430\u043b\u044c\u043d\u043e\u0439 / \u0440\u0438\u0442\u0443\u0430\u043b\u044c\u043d\u043e\u0439 \u0444\u0443\u043d\u043a\u0446\u0438\u0438, \u043e\u043d\u0438 \u0441\u043e\u0434\u0435\u0440\u0436\u0430\u0442 \u043c\u043d\u043e\u0436\u0435\u0441\u0442\u0432\u043e \u0432\u043d\u0443\u0442\u0440\u0435\u043d\u043d\u0438\u0445 \u043e\u0441\u043e\u0431\u0435\u043d\u043d\u043e\u0441\u0442\u0435\u0439, \u0432\u043a\u043b\u044e\u0447\u0430\u044f \u0434\u0435\u0440\u0435\u0432\u044f\u043d\u043d\u044b\u0435 \u0438\u043b\u0438 \u043a\u0430\u043c\u0435\u043d\u043d\u044b\u0435 \u043a\u0440\u0443\u0433\u0438"}</skos:scopeNote>
+        <skos:prefLabel xml:lang="en">{"id": "b68100c8-bbce-431c-976a-1e57231855aa", "value": "Henge"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:scopeNote xml:lang="zh">{"id": "897fc6d4-98a7-4bd3-8f40-5d8e9f326315", "value": "\u4ee5\u5824\u9632\u548c\u58d5\u6c9f\uff08\u591a\u5728\u5185\u90e8\uff09\u4e3a\u754c\u7ebf\u7684\u5706\u6216\u8fd1\u4f3c\u5706\u5f62\u533a\u57df\uff0c\u6709\u4e00\u5230\u4e24\u5904\u5165\u53e3\uff08\u5f88\u5c11\u8d85\u8fc7\u4e24\u5904\uff09\u3002\u73af\u9635\u5177\u6709\u796d\u7940/\u793c\u4eea\u529f\u80fd\uff0c\u5185\u90e8\u62e5\u6709\u5185\u6db5\u4e30\u5bcc\u8981\u7d20\uff0c\u5305\u62ec\u6728\u6750\u6216\u77f3\u73af\u3002"}</skos:scopeNote>
+        <skos:prefLabel xml:lang="zh">{"id": "613fcb2c-ca7c-49ad-a503-2361f8e4784f", "value": "\u73af\u9635"}</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">{"id": "45f6a844-ec6c-48b4-9efe-ea3a7390f89d", "value": "Circular or sub-circular enclosure defined by a bank and (usually internal) ditch, with one or two (rarely more) entrances. Of ceremonial/ritual function, they contain a variety of internal features including timber or stone circles"}</skos:scopeNote>
+        <skos:prefLabel xml:lang="ru">{"id": "15b7465b-5e8b-4051-81e2-39b37976e363", "value": "\u0425\u0435\u043d\u0434\u0436"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower rdf:resource="http://localhost:8000/13634d1b-8434-46b7-9294-4c24fdd968dd"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/633524eb-6954-4e8a-ac99-dff306cacba8">
+        <skos:prefLabel xml:lang="ru">{"id": "7287ce32-c9c1-4104-9241-78ec1b5e4a8b", "value": "\u041d\u0430\u0434\u043f\u0438\u0441\u044c"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="zh">{"id": "f995bab6-076f-4f51-b6a0-097523104d1a", "value": "\u9898\u523b"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">{"id": "ea3400af-e759-446c-88ec-be7fe5fad109", "value": "Inscription"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/f30b364c-acf5-4603-bbed-1b0cceaa6d4b">
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="ru">{"id": "8a3c9b57-f80d-4976-8e60-5393429f1485", "value": "\u041f\u0430\u0433\u043e\u0434\u0430"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">{"id": "a56afed5-8adc-49b8-b324-1c21c153b54d", "value": "Pagoda"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="zh">{"id": "e7726eee-43a3-4207-a142-27885a0bf37c", "value": "\uff08\u4f5b\uff09\u5854"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/0d8adcf5-e1ee-4b7a-8885-32a779909238">
+        <skos:prefLabel xml:lang="en">{"id": "db58f3d0-e84c-4907-8b4f-5c90b06d239a", "value": "Stone circle"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="zh">{"id": "fcae9e58-6050-46f7-a6ac-5b8db6341240", "value": "\u77f3\u5708"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="ru">{"id": "856100e1-d07c-4db8-b070-2f61e4764b63", "value": "\u041a\u0430\u043c\u0435\u043d\u043d\u044b\u0439 \u043a\u0440\u0443\u0433"}</skos:prefLabel>
+        <skos:altLabel xml:lang="zh">{"id": "67d5c211-01dc-4d9d-9208-766fd83e52a9", "value": "\u77f3\u73af"}</skos:altLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/85da19e3-6ea1-43e8-aa38-fb9d0b45829b">
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="en">{"id": "7532a89b-2740-4d0b-987b-e618c98b5c3c", "value": "War memorial"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="zh">{"id": "84bc12a6-bd78-4083-afad-4ef63aee8ac0", "value": "\u6218\u4e89\u7eaa\u5ff5"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/07b49f91-0b0b-4f18-a6d7-75937018d34f">
+        <skos:prefLabel xml:lang="ru">{"id": "cc1d2a94-7176-43f8-ba58-84f7558975fb", "value": "\u0421\u0442\u0443\u043f\u0430"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="zh">{"id": "2e530ec6-ef66-4f06-b7c8-9190e545b948", "value": "\u4f5b\u5854"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">{"id": "8d359ea0-470a-48f1-a160-da17fa7314de", "value": "Stupa"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/1e06fa4b-3008-4cdc-b94d-8b18b9a81f5a">
+        <skos:prefLabel xml:lang="en">{"id": "b0051b91-7dfd-46ac-bbfd-a81050796cf5", "value": "Grotto complex/temple"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:narrower rdf:resource="http://localhost:8000/9281431e-9e30-427c-9c52-72348e6bd1cb"/>
+        <skos:narrower rdf:resource="http://localhost:8000/9f4da484-e797-40ee-8ab5-6ea7d102372a"/>
+        <skos:narrower rdf:resource="http://localhost:8000/5d1b4d67-6bd6-45b7-bb55-5af4ff12d62f"/>
+        <skos:prefLabel xml:lang="zh">{"id": "30859376-1289-415a-89b5-bdeb73338fcc", "value": "\u77f3\u7a9f\u5bfa"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="ru">{"id": "01e6b9fd-9044-4587-a035-303fd0896c12", "value": "\u0413\u0440\u043e\u0442 \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0441 / \u0445\u0440\u0430\u043c"}</skos:prefLabel>
+        <skos:narrower rdf:resource="http://localhost:8000/cb26b851-a0e4-4037-9a6f-bd818024ac2d"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/69d19c89-fae0-4159-930d-f1f1fe14346f">
+        <skos:prefLabel xml:lang="zh">{"id": "5cb33c54-f218-49fc-8d49-64fc1e468397", "value": "\u5b97\u7960"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="en">{"id": "4550ee22-6d52-4bd4-9978-26555f7a897a", "value": "Ancestral hall  "}</skos:prefLabel>
+        <skos:altLabel xml:lang="zh">{"id": "4860d619-efa5-4d9b-9148-e29dd78eb78d", "value": "\u7960\u5802"}</skos:altLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/f7b676d5-276c-4378-a5c5-2fec63fbde22">
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="en">{"id": "97e02cd0-c7ad-4a0d-a117-b1ea8368ec9f", "value": "Mausoleum"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="zh">{"id": "af232c5e-1cad-4e28-8a0f-1daa6d91670b", "value": "\u9675\u5893"}</skos:prefLabel>
+        <skos:narrower rdf:resource="http://localhost:8000/7329807c-c406-4dfd-9f35-9d47527993de"/>
+        <skos:prefLabel xml:lang="ru">{"id": "e3e0ff05-9edd-4159-98f3-e477d9b7e94d", "value": "\u041c\u0430\u0432\u0437\u043e\u043b\u0435\u0439"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/7653f1be-6044-46d7-9bb4-7e8418b9055c">
+        <skos:prefLabel xml:lang="ru">{"id": "54b05a29-3bd6-409e-92d9-2337c08b5c78", "value": "\u041a\u0443\u043b\u044c\u0442\u043e\u0432\u044b\u0439 \u043f\u0430\u043c\u044f\u0442\u043d\u0438\u043a "}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="zh">{"id": "ee63b6c9-ab9c-438f-8518-d20388534560", "value": "\u796d\u62dc\u9057\u5740"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">{"id": "e763d54e-cd3d-4e09-b3bc-e8013db3f5a1", "value": "Cult site"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/7b36c05b-4464-4a59-87bf-01d7be64561d">
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "860b9a16-6a5e-452e-bea0-17e4c93f5b67", "value": "Shrine"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="zh">{"id": "73ad022c-4e2d-4d10-bd41-f88c369ed110", "value": "\u795e\u6bbf"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/d6ea2c22-9615-4c5c-8daa-78b290799803">
+        <skos:prefLabel xml:lang="ru">{"id": "32bdda36-421b-4e3c-a138-cd9714837795", "value": "\u0420\u0435\u0437\u044c\u0431\u0430; \u0440\u0435\u0437\u043d\u043e\u0435 \u0438\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0435"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">{"id": "fae64da0-2c46-4710-b2d6-7962fb053c1e", "value": "Carving"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="zh">{"id": "946a5f1c-45bd-46dc-94d3-6ab59ed8589f", "value": "\u96d5\u523b"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/9b24c62c-a9f6-4ee6-9648-eaaabd1eddd9">
+        <skos:prefLabel xml:lang="en">{"id": "c995f020-00a5-4995-b9de-2802437d44bf", "value": "Burial"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="ru">{"id": "0ccebe88-f782-4ad8-8b0c-8039444e2b9a", "value": "\u0417\u0430\u0445\u043e\u0440\u043e\u043d\u0435\u043d\u0438\u0435"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:narrower rdf:resource="http://localhost:8000/262e10ef-288b-4468-8bf7-02b5d176093e"/>
+        <skos:narrower rdf:resource="http://localhost:8000/f6b726ad-134f-4582-9d27-ee5df392b1ef"/>
+        <skos:narrower rdf:resource="http://localhost:8000/80d562e4-fb7c-49f6-84ff-2ab4b6f1c8f7"/>
+        <skos:narrower rdf:resource="http://localhost:8000/e9e7f357-6eda-47f9-9719-64ce0278f7c5"/>
+        <skos:narrower rdf:resource="http://localhost:8000/388c4f93-72e8-4877-b85f-1ef74822b4c5"/>
+        <skos:narrower rdf:resource="http://localhost:8000/210e351b-a507-49a5-bd13-5b6e5b342261"/>
+        <skos:narrower rdf:resource="http://localhost:8000/82690b23-df25-46c8-b6d4-5056da3a4424"/>
+        <skos:prefLabel xml:lang="zh">{"id": "57d49069-b1cc-4102-b12d-2a3f0d0c85fe", "value": "\u5893\u846c"}</skos:prefLabel>
+        <skos:narrower rdf:resource="http://localhost:8000/8dda52ea-799b-4067-9076-e520915bcf59"/>
+        <skos:narrower rdf:resource="http://localhost:8000/5f0d452f-4669-47f5-a819-42e0b12fca93"/>
+        <skos:narrower rdf:resource="http://localhost:8000/634007c8-2305-456e-b84b-b3f456a1da80"/>
+        <skos:narrower rdf:resource="http://localhost:8000/c451e477-50ee-4a99-a93a-99e6871731cd"/>
+        <skos:narrower rdf:resource="http://localhost:8000/9807e58b-db92-44f6-9a2e-2b67e6fc946e"/>
+        <skos:narrower rdf:resource="http://localhost:8000/512eef5d-d100-4e84-a70f-d41f24b89cd0"/>
+        <skos:narrower rdf:resource="http://localhost:8000/701c688f-4736-4ea8-a09a-77432747d79c"/>
+        <skos:narrower rdf:resource="http://localhost:8000/e7ade950-8576-4ec0-a369-aec6114788fc"/>
+        <skos:narrower rdf:resource="http://localhost:8000/adbccdb8-b31c-4569-be54-2f7b65e5a8af"/>
+        <skos:narrower rdf:resource="http://localhost:8000/deea1edb-8a4b-4d7d-941d-878b8f1413ca"/>
+        <skos:narrower rdf:resource="http://localhost:8000/3af64a5d-b890-47a7-b568-948a736c2844"/>
+        <skos:narrower rdf:resource="http://localhost:8000/e556b173-1b47-4bb2-9fb2-fd3c9704625f"/>
+        <skos:narrower rdf:resource="http://localhost:8000/68752f62-fd6a-4402-b050-db885c207bb1"/>
+        <skos:narrower rdf:resource="http://localhost:8000/a5ed5f39-cf7c-49ab-af62-c7d2fe77e2ed"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower rdf:resource="http://localhost:8000/b8cce5d7-1240-4b56-809f-9d9afd528541"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/d47f905e-20d9-4cea-a73c-c1ea3c159ede">
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:narrower rdf:resource="http://localhost:8000/0e716378-11f0-439a-9403-ebe936a8988e"/>
+        <skos:prefLabel xml:lang="zh">{"id": "1b6cc2bd-2421-424a-9f1c-d525d555aebf", "value": "\u77f3\u523b\u3001\u9898\u523b"}</skos:prefLabel>
+        <skos:narrower rdf:resource="http://localhost:8000/95d65b92-aa88-4884-96b0-c6cd6b06c6d0"/>
+        <skos:narrower rdf:resource="http://localhost:8000/278c14b7-8510-4145-bd78-d95f95d154dc"/>
+        <skos:prefLabel xml:lang="en">{"id": "b04092ea-63d7-4cfb-9b35-83987aedf062", "value": "Rock carving / cliff inscriptions "}</skos:prefLabel>
+        <skos:prefLabel xml:lang="ru">{"id": "7407522a-a45f-48bb-ab92-8ae949c7084c", "value": "\u041d\u0430\u0441\u043a\u0430\u043b\u044c\u043d\u044b\u0435 \u0440\u0438\u0441\u0443\u043d\u043a\u0438 / \u043d\u0430\u0434\u043f\u0438\u0441\u0438 \u043d\u0430 \u0441\u043a\u0430\u043b\u0430\u0445"}</skos:prefLabel>
+        <skos:narrower rdf:resource="http://localhost:8000/0df53aaa-95a6-4878-a2a0-e43c7570351b"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/463390f6-867b-4b26-a7e6-4e8cf35e8c0f">
+        <skos:prefLabel xml:lang="zh">{"id": "55a8e05f-0aaa-47f1-ad17-bc346677a916", "value": "\u5b97\u6559\u573a\u6240"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="ru">{"id": "96dc2402-a1bd-417e-a38a-e8a80da944d9", "value": "\u0420\u0435\u043b\u0438\u0433\u0438\u043e\u0437\u043d\u044b\u0439 \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0441"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">{"id": "4ff1016d-91d5-47b2-a259-29e244d3784d", "value": "Religious complex"}</skos:prefLabel>
+        <skos:narrower rdf:resource="http://localhost:8000/8ffdb8a6-ffb8-448b-8189-86e97cea5291"/>
+        <skos:narrower rdf:resource="http://localhost:8000/fe12bcdb-7e0b-4d07-97b7-95047acab1ee"/>
+        <skos:narrower rdf:resource="http://localhost:8000/8edc885c-cf4f-40ff-ba25-58dfc08f5fe5"/>
+        <skos:narrower rdf:resource="http://localhost:8000/4cad05c2-2e95-419f-862a-d9cba85f3bc5"/>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/196cfbdc-e41d-49e2-9edf-181174edd45f">
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="ru">{"id": "c14f6954-6011-44b0-b665-07a6a15361c0", "value": "\u0411\u0430\u0440\u0435\u043b\u044c\u0435\u0444"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="zh">{"id": "ea00bd8e-5f14-4b14-b85a-9002efcd5abe", "value": "\u6d45\u6d6e\u96d5"}</skos:prefLabel>
+        <skos:scopeNote xml:lang="ru">{"id": "39cec909-df5b-4368-8729-b8f3013b95ff", "value": "\u0411\u0430\u0440\u0435\u043b\u044c\u0435\u0444 - \u044d\u0442\u043e \u0442\u0438\u043f \u0440\u0435\u043b\u044c\u0435\u0444\u0430 (\u0441\u043a\u0443\u043b\u044c\u043f\u0442\u0443\u0440\u0430), \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0438\u043c\u0435\u0435\u0442 \u043c\u0435\u043d\u044c\u0448\u0443\u044e \u0433\u043b\u0443\u0431\u0438\u043d\u0443 \u0433\u0440\u0430\u043d\u0435\u0439 \u0438 \u0444\u0438\u0433\u0443\u0440, \u0447\u0435\u043c \u043d\u0430 \u0441\u0430\u043c\u043e\u043c \u0434\u0435\u043b\u0435, \u043f\u0440\u0438 \u0438\u0437\u043c\u0435\u0440\u0435\u043d\u0438\u0438 \u043f\u0440\u043e\u043f\u043e\u0440\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e (\u0432 \u043c\u0430\u0441\u0448\u0442\u0430\u0431\u0435). \u042d\u0442\u043e\u0442 \u043c\u0435\u0442\u043e\u0434 \u0441\u043e\u0445\u0440\u0430\u043d\u044f\u0435\u0442 \u0435\u0441\u0442\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0435 \u043a\u043e\u043d\u0442\u0443\u0440\u044b \u0444\u0438\u0433\u0443\u0440 \u0438 \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u043f\u0440\u043e\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u0442\u044c \u0440\u0430\u0431\u043e\u0442\u0443 \u043f\u043e\u0434 \u0440\u0430\u0437\u043d\u044b\u043c\u0438 \u0443\u0433\u043b\u0430\u043c\u0438 \u0431\u0435\u0437 \u0438\u0441\u043a\u0430\u0436\u0435\u043d\u0438\u044f \u0441\u0430\u043c\u0438\u0445 \u0444\u0438\u0433\u0443\u0440."}</skos:scopeNote>
+        <skos:scopeNote xml:lang="zh">{"id": "47383163-fe31-4512-b00b-891b7fdd0742", "value": "\u6d45\u6d6e\u96d5\u662f\u6d6e\u96d5\uff08\u96d5\u523b\uff09\u7684\u4e00\u79cd\uff0c\u5e95\u9762\u5230\u56fe\u6848\u7684\u6df1\u5ea6\u6bd4\u771f\u5b9e\u6bd4\u4f8b\u60c5\u51b5\u4e0b\u8981\u6d45\u5f88\u591a\u3002\u6d45\u6d6e\u96d5\u5de5\u827a\u4fdd\u6301\u4e86\u56fe\u6848\u7684\u81ea\u7136\u8f6e\u5ed3\uff0c\u4ece\u800c\u53ef\u4f7f\u591a\u89d2\u5ea6\u89c2\u8d4f\u4f5c\u54c1\u65f6\u56fe\u6848\u4e0d\u5931\u771f\u3002"}</skos:scopeNote>
+        <skos:prefLabel xml:lang="en">{"id": "fbe9bd93-4507-45d1-8db8-438928732ad1", "value": "Bas-relief"}</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">{"id": "7a8988a6-28be-4676-94b5-d2cbe14262e4", "value": "Bas-relief is a type of relief (sculpture) that has less depth to the faces and figures than they actually have, when measured proportionately (to scale). This technique retains the natural contours of the figures, and allows the work to be viewed from many angles without distortion of the figures themselves."}</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/9341e020-6954-4dc6-80b2-b0830d49fe93">
+        <skos:prefLabel xml:lang="ru">{"id": "d1dfc379-8506-4198-9725-69a772af6702", "value": "\u0421\u0442\u043e\u044f\u0449\u0438\u0439 \u043a\u0430\u043c\u0435\u043d\u044c"}</skos:prefLabel>
+        <skos:altLabel xml:lang="zh">{"id": "f8f2e93e-6f95-4ea9-bf0a-1e590c6347d8", "value": "\u5b64\u8d4f\u77f3"}</skos:altLabel>
+        <skos:prefLabel xml:lang="zh">{"id": "e677c7ef-8a72-4d37-9a05-0790759ff652", "value": "\u7acb\u77f3"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="en">{"id": "41ebbed9-065d-4127-bd9b-0c84be4933b1", "value": "Standing stone"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/735ecfb8-bf60-4741-b59e-df582cf5cb31">
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="ru">{"id": "aaecd89f-7e99-4bf2-8f89-d3524026480f", "value": "\u0428\u043a\u043e\u043b\u0430 \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u041f\u0438\u0441\u0430\u043d\u0438\u044f"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">{"id": "d7cd4bb1-8544-4a3a-b8f9-09d1605e428f", "value": "Sacred scripture school"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="zh">{"id": "09c5438a-831f-47c2-9718-6178e7aaca56", "value": "\u7ecf\u6587\u5b66\u5802"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/18e7f3b4-c0e9-43b8-8f38-8e55f683e195">
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="zh">{"id": "876c9fc5-c8c7-444e-95e0-03297215342b", "value": "\u6d82\u9e26"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="ru">{"id": "1e0d7a63-b4c3-44d4-a97f-2898947a6dce", "value": "\u0413\u0440\u0430\u0444\u0444\u0438\u0442\u0438"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">{"id": "5e0b7f5a-d4d9-4946-9a15-e0fc50868351", "value": "Graffiti"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:prefLabel xml:lang="zh">{"id": "3b49f07e-1f73-4a19-a981-7669cde92861", "value": "\u793c\u4eea\u3001\u5b97\u6559\u548c\u4e27\u846c"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">{"id": "c710d4b0-3d71-4ed1-93e0-68662fa0224c", "value": "Ritual, religion and funerary"}</skos:prefLabel>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/b50d6f01-d25e-49e3-ab94-7c759639a583">
+        <skos:prefLabel xml:lang="ru">{"id": "438ed11b-8844-47e7-a208-bba005e85cb6", "value": "\u0421\u0442\u0430\u0442\u0443\u044f"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">{"id": "56a9f760-5984-4e78-ab73-e3619357cd20", "value": "Statue"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="zh">{"id": "cecd9e92-c89d-48ea-b10d-ff17a909b6c4", "value": "\u96d5\u50cf"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:prefLabel xml:lang="ru">{"id": "323d563c-ada6-49f2-8f50-d04d12940677", "value": "\u0420\u0438\u0442\u0443\u0430\u043b, \u0440\u0435\u043b\u0438\u0433\u0438\u044f \u0438 \u043f\u043e\u0433\u0440\u0435\u0431\u0435\u043d\u0438\u0435"}</skos:prefLabel>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/8e7bb8a4-901d-4a9f-a9ad-676da5a824c5">
+        <skos:prefLabel xml:lang="zh">{"id": "a683cbb9-80a7-4584-9e88-6fdb7c990ccb", "value": "\u796d\u7940\u5806"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="ru">{"id": "4fa7ba4a-3ed3-4d23-8cf2-590f03a965fd", "value": "C\u0442\u043e\u0433 \u0436\u0435\u0440\u0442\u0432\u043e\u043f\u0440\u0438\u043d\u043e\u0448\u0435\u043d\u0438\u0439"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">{"id": "6df8508a-6b46-464a-b9c6-fee9467c865d", "value": "Sacrificial stack"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/794ec982-2640-42f6-971c-904ea4aa49cf">
+        <skos:prefLabel xml:lang="en">{"id": "c33862bf-ece3-4ffd-9e3e-2c8c3d719479", "value": "Memorial arch/screen"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="zh">{"id": "8b712b05-3fbe-4b23-9218-a490d9cdae52", "value": "\u7eaa\u5ff5\u62f1\u95e8"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/37ef733c-640d-462c-af0c-82d5becb3e5f">
+        <skos:prefLabel xml:lang="ru">{"id": "e9d43743-bf85-4675-8c9c-0d7b7774a922", "value": "\u0413\u0440\u043e\u0442"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="zh">{"id": "ade2f22d-6fbb-4e45-9364-77061b0bc374", "value": "\u77f3\u7a9f"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="en">{"id": "7e5d4585-633c-4609-955b-fa93db54d3d6", "value": "Grotto"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/9a80f382-c0a3-4fb0-a30b-e455ef6e9d0c">
+        <skos:prefLabel xml:lang="en">{"id": "e78c305d-4180-4c03-af6d-45a95b71e2da", "value": "Petroglyph"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="ru">{"id": "acc5892b-023b-4180-a8df-be0dc744e723", "value": "\u041f\u0435\u0442\u0440\u043e\u0433\u043b\u0438\u0444"}</skos:prefLabel>
+        <skos:scopeNote xml:lang="ru">{"id": "faa61c28-246d-4b8d-a554-5993233f3466", "value": "\u0414\u0435\u043a\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u0434\u0438\u0437\u0430\u0439\u043d \u0438\u043b\u0438 \u0438\u043b\u043b\u044e\u0441\u0442\u0440\u0430\u0446\u0438\u044f, \u0447\u0430\u0441\u0442\u043e \u0430\u043d\u0442\u0440\u043e\u043f\u043e\u043c\u043e\u0440\u0444\u043d\u043e\u0435 \u0438\u043b\u0438 \u0433\u0435\u043e\u043c\u0435\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u0438\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0435, \u0432\u044b\u0440\u0435\u0437\u0430\u043d\u043d\u043e\u0435 \u043d\u0430 \u043a\u0430\u043c\u0435\u043d\u043d\u043e\u0439 \u043f\u043e\u0432\u0435\u0440\u0445\u043d\u043e\u0441\u0442\u0438, \u0442\u0430\u043a\u043e\u0439 \u043a\u0430\u043a \u0441\u0442\u0435\u043d\u0430 \u043f\u0435\u0449\u0435\u0440\u044b \u0438\u043b\u0438 \u043e\u0442\u0434\u0435\u043b\u044c\u043d\u043e \u0441\u0442\u043e\u044f\u0449\u0438\u0439 \u043a\u0430\u043c\u0435\u043d\u044c. \u041e\u0431\u044b\u0447\u043d\u043e, \u0445\u043e\u0442\u044f \u0438 \u043d\u0435 \u0432\u0441\u0435\u0433\u0434\u0430, \u0434\u043e\u0438\u0441\u0442\u043e\u0440\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u0434\u0430\u0442\u044b."}</skos:scopeNote>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="zh">{"id": "8241e58a-68f9-49bb-ba25-e9a40f450955", "value": "\u5ca9\u523b"}</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">{"id": "cf7bd6cd-6d50-4d56-b263-b335f8984454", "value": "A decorative design or illustration, often an anthropomorphic or geometrical image, carved into a stone surface, such as a cave wall or free-standing stone. Usually, though not always, of Prehistoric date. "}</skos:scopeNote>
+        <skos:altLabel xml:lang="zh">{"id": "046834bd-cb79-4e81-9bc5-1f16e087f1ed", "value": "\u5ca9\u753b"}</skos:altLabel>
+        <skos:scopeNote xml:lang="en-us">{"id": "84172be0-abe4-4c85-b526-eb1a281884aa", "value": "\u4ee5\u4eba\u7269\u548c\u51e0\u4f55\u56fe\u5f62\u4e3a\u4e3b\uff0c\u523b\u5728\u5982\u6d1e\u7a74\u5ca9\u58c1\u6216\u7acb\u77f3\u8868\u9762\u7684\u88c5\u9970\u6027\u8bbe\u8ba1\u6216\u5448\u73b0\u3002\u5927\u591a\u4e3a\u53f2\u524d\u9057\u8ff9\uff0c\u4f46\u4e0d\u7edd\u5bf9\u3002"}</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/9c37370e-e0ba-4116-90c6-f437c4eeb4dc">
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="en">{"id": "57508eb4-04c8-4db4-87a6-747d64b844a8", "value": "Madrasa"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="ru">{"id": "71084ac0-317d-4d23-8557-6e65685045dd", "value": "\u041c\u0435\u0434\u0440\u0435\u0441\u0435"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="zh">{"id": "3ba45bd2-26fe-40ca-97d8-4872416961d2", "value": "\u4f0a\u65af\u5170\u5b97\u6559\u5b66\u6821"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/eff4caa2-6b36-454f-b973-ca3ff73920d9">
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:scopeNote xml:lang="en">{"id": "fb88abf4-a07a-4bdd-ba01-4b4a91f5916a", "value": "A monument featuring a bank or mound constructed primarily of stone."}</skos:scopeNote>
+        <skos:scopeNote xml:lang="zh">{"id": "d3db9ab8-4a07-4d10-990a-bedea468599d", "value": "\u4ee5\u77f3\u5757\u4e3a\u4e3b\u6210\u5806\u7684\u9057\u8ff9"}</skos:scopeNote>
+        <skos:prefLabel xml:lang="en">{"id": "c4a4538d-cf02-4b13-9277-096db4e7449f", "value": "Cairn"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="zh">{"id": "e6909401-127d-4461-a408-f9fe5a6edc6d", "value": "\u5806\u77f3"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="ru">{"id": "dbb61bb5-9c24-4ef6-872b-787c9c636f16", "value": "\u041a\u0430\u0438\u0440\u043d"}</skos:prefLabel>
+        <skos:scopeNote xml:lang="ru">{"id": "355a5c58-b3b6-48b2-b178-d3e224a34538", "value": "\u041f\u0430\u043c\u044f\u0442\u043d\u0438\u043a \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0441\u043e\u0434\u0435\u0440\u0436\u0438\u0442 \u0432\u0430\u043b \u0438\u043b\u0438 \u043d\u0430\u0441\u044b\u043f\u044c, \u043f\u043e\u0441\u0442\u0440\u043e\u0435\u043d\u043d\u044b\u0439 \u0432 \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u043c \u0438\u0437 \u043a\u0430\u043c\u043d\u044f."}</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/2eb554af-e511-4aab-9606-0b37917fb15c">
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="zh">{"id": "c218b7aa-4539-46b2-bb46-42a603afb217", "value": "\u6d77\u5173\u90ae\u653f"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">{"id": "95a8b688-221e-40ba-808f-1b1f88ca7f56", "value": "Customs post"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/6b54bcf5-4fa0-4afc-a4c9-7da88907fc13">
+    <skos:narrower rdf:resource="http://localhost:8000/083149ea-b37d-4832-9d73-3359c58a0059"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/3b9ea160-d732-4fe8-bcae-b48035d8ea9b">
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="en">{"id": "ec4edc97-a8fe-4805-89dc-41ea695deb3f", "value": "Gate"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="zh">{"id": "728c1b09-b4a5-46a9-af85-8cdd27ff8a1d", "value": "\u5927\u95e8"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="ru">{"id": "2c55f49b-b87b-4070-afc0-adde7ad77b7b", "value": "\u0412\u043e\u0440\u043e\u0442\u0430"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/b862760d-1fa6-460f-b16e-3d82412680d0">
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="zh">{"id": "998701b0-b48f-44ab-aec5-7b4aad0c0e83", "value": "\u6c99\u6f20\u9a7b\u811a\u70b9"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="ru">{"id": "ce92d1da-bbbd-4a73-8929-4f7e7c39e252", "value": "\u041c\u0435\u0441\u0442\u043e \u043e\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0438 \u0432 \u043f\u0443\u0441\u0442\u044b\u043d\u0438"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">{"id": "c84c71be-e227-4382-9152-0beaff86fabe", "value": "Desert stopping place"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/378db72e-6326-49fe-b8d5-0e20d1f9e46f">
+        <skos:prefLabel xml:lang="zh">{"id": "bc91303a-8e72-4f7c-af8c-ff24e1c2feb7", "value": "\u6c99\u6f20\u8425\u5730"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">{"id": "1beb1a81-b925-458b-bd28-4256471d2b7c", "value": "Desert camp"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="ru">{"id": "dc7128cf-8593-4228-9b5b-a4f79d824c7c", "value": "\u041f\u0443\u0441\u0442\u044b\u043d\u043d\u044b\u0439 \u043b\u0430\u0433\u0435\u0440\u044c"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/c4d60ea1-5c28-4461-b538-55e8db448eb6">
+        <skos:prefLabel xml:lang="zh">{"id": "2a14f8cd-7fe4-4bb3-a78a-77359ae38506", "value": "\u7801\u5934"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">{"id": "372a2652-a771-429a-a7a0-660ced0bcee4", "value": "Wharf"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="ru">{"id": "9b76a64c-45d0-4868-be99-27eadb10cc2e", "value": "\u041f\u0440\u0438\u0441\u0442\u0430\u043d\u044c"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/e5ee7a0f-2f5f-4717-a9b3-ec1da314cfe7">
+        <skos:prefLabel xml:lang="en">{"id": "f76a5331-2c99-49c9-b275-748c2f6d0a35", "value": "Hospice"}</skos:prefLabel>
+        <skos:scopeNote xml:lang="ru">{"id": "55d4df4b-9907-4776-86cf-a9cda0675f5a", "value": "\u0416\u0438\u043b\u044c\u0435 \u0434\u043b\u044f \u043f\u0443\u0442\u0435\u0448\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u0438\u043a\u043e\u0432, \u043e\u0441\u043e\u0431\u0435\u043d\u043d\u043e \u0442\u043e, \u043a\u043e\u0442\u043e\u0440\u043e\u0435 \u0443\u043f\u0440\u0430\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0440\u0435\u043b\u0438\u0433\u0438\u043e\u0437\u043d\u044b\u043c \u043e\u0440\u0434\u0435\u043d\u043e\u043c."}</skos:scopeNote>
+        <skos:scopeNote xml:lang="en">{"id": "29ce3c32-9b4c-4944-ad07-92e9fceaaba6", "value": "A lodging for travellers, especially one run by a religious order."}</skos:scopeNote>
+        <skos:scopeNote xml:lang="zh">{"id": "7a403cd8-b513-4034-8bc8-3e18908b8598", "value": "\u65c5\u5ba2\u4f4f\u5bbf\u7684\u5730\u65b9\uff0c\u5c24\u6307\u7531\u4fee\u9053\u4f1a\u7ba1\u7406\u7684\u90a3\u4e9b\u3002"}</skos:scopeNote>
+        <skos:prefLabel xml:lang="ru">{"id": "94489a97-1e5a-4e60-90d4-ba764905a452", "value": "\u0425\u043e\u0441\u043f\u0438\u0441"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="zh">{"id": "986c44b9-47fd-4749-93d9-0757069e5b25", "value": "\u6551\u6d4e\u9662"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/4f86f23f-46be-42b1-a254-5f80d151cd3a">
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="en">{"id": "694adb33-021d-4f2d-8625-d7208c8af2b0", "value": "Waystation"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="ru">{"id": "e2d792d6-a03f-46fb-8f8b-3e03e7059c51", "value": "\u041f\u0440\u043e\u043c\u0435\u0436\u0443\u0442\u043e\u0447\u043d\u0430\u044f \u0441\u0442\u0430\u043d\u0446\u0438\u044f"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="zh">{"id": "9c2acc4c-402b-41c5-9289-62a66f6421ac", "value": "\u5c0f\u7ad9"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/a6ccf105-819d-4d1f-aa17-25c69bbb8464">
+        <skos:prefLabel xml:lang="en">{"id": "d93f88b1-f415-4c68-bea3-9c7eeebd10fe", "value": "Shop"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/09e007f7-d22a-476c-9f6d-538ab9b2a6d8">
+        <skos:prefLabel xml:lang="en">{"id": "70968234-66ba-471b-836c-48231e9e9c7c", "value": "Path/Track"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="zh">{"id": "f69c9120-6f9d-4e33-b670-81e31879aa8c", "value": "\u901a\u9053\u3001\u8def\u5f84"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="ru">{"id": "6177bd3b-e2f8-4603-9167-75eb149c19b1", "value": "\u041f\u0443\u0442\u044c / \u0422\u0440\u043e\u043f\u0430"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/9c94566a-3de1-4dee-b491-fc2f7b20f22f">
+        <skos:prefLabel xml:lang="ru">{"id": "1bc846bb-7a71-42dc-868d-de5d6cff6aff", "value": "\u0421\u043a\u043b\u0430\u0434"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="zh">{"id": "14e2966f-ae61-41df-a1e2-08f1067120d4", "value": "\u4ed3\u5e93"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">{"id": "6a7b36f2-aa59-4287-abb6-c92f78a50a83", "value": "Warehouse"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower rdf:resource="http://localhost:8000/07307ab3-82f3-468e-8621-9e72a60caf5e"/>
+    <skos:prefLabel xml:lang="en">{"id": "a23b6ef6-55b8-47af-9d6f-8df2f8f60a2a", "value": "Trade/commerce"}</skos:prefLabel>
+    <skos:narrower rdf:resource="http://localhost:8000/84171803-17e7-467e-b732-2b0484e84a22"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/138a926b-bcbc-44c3-affa-5b5c411bcaf6">
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:altLabel xml:lang="zh">{"id": "b7dcb107-70bd-4b7f-9c4a-52eba07cdb2d", "value": "\u8def"}</skos:altLabel>
+        <skos:prefLabel xml:lang="ru">{"id": "b8690325-3067-47cb-bc58-1b31608a79ad", "value": "\u0414\u043e\u0440\u043e\u0433\u0430"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="zh">{"id": "0c57f1e4-a297-4fed-b436-22f3460f5719", "value": "\u9053\u8def"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">{"id": "e48a978d-469a-472b-9a4d-b6be5d31a481", "value": "Road"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/7d8c4aa6-8a9a-48d1-955e-d9e6c0ea4e9e">
+        <skos:prefLabel xml:lang="zh">{"id": "23adc8fd-cbf6-441d-b913-d3ef65bfcd96", "value": "\u5361\u4f26"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="ru">{"id": "d2018522-f362-4560-8f48-f8eec7da89c7", "value": "\u041a\u0430\u0440\u0443\u043d"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">{"id": "451bbd6c-4acc-45bb-a419-0093516cf1e8", "value": "Karun"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/052f53a3-b351-4450-b01d-f95578818ca2">
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "af77b053-044f-4620-bb2f-3f594e88880a", "value": "Ancient route"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="zh">{"id": "45b1f14d-ade3-422f-8685-deffecbeedb9", "value": "\u53e4\u9053"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">{"id": "7e7fdd08-1556-4775-83ae-c7c85304ac5c", "value": "\u0414\u0440\u0435\u0432\u043d\u0438\u0439 \u043c\u0430\u0440\u0448\u0440\u0443\u0442"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="zh">{"id": "810c0127-464e-4192-8168-249750f704e8", "value": "\u8d38\u6613\u3001\u5546\u4e1a"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="ru">{"id": "47ae851a-036d-4abf-bbaf-6506a12aaa71", "value": "\u0422\u043e\u0440\u0433\u043e\u0432\u043b\u044f / \u043a\u043e\u043c\u043c\u0435\u0440\u0446\u0438\u044f"}</skos:prefLabel>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/70b44259-5183-471d-beb6-6f81170fb526">
+        <skos:prefLabel xml:lang="zh">{"id": "3f9c5e64-10e1-4c08-85f6-67649442c0a6", "value": "\u4f5c\u574a"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="en">{"id": "19608bcf-70db-45e2-8566-9dfd43e340f3", "value": "Workshop"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="ru">{"id": "8ff46ab2-623f-4391-a46f-ccf6238e5fdd", "value": "\u041c\u0430\u0441\u0442\u0435\u0440\u0441\u043a\u0430\u044f"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower rdf:resource="http://localhost:8000/807a790b-92b4-4463-a3b5-3bb38e8aac88"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/65b36d42-2fdc-42e2-a798-4f612ad6b64b">
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="en">{"id": "ca3a6c9f-3bee-484e-bb37-f0cb7b7aad84", "value": "Bridge"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="zh">{"id": "c072913f-caa8-48b3-b6c1-506145ee21ad", "value": "\u6865\u6881"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="ru">{"id": "3ba6eed5-5605-4bfc-9be3-4044dcda6751", "value": "\u041c\u043e\u0441\u0442"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/3cb972c0-174b-474d-b2ec-06e7ea996e50">
+        <skos:prefLabel xml:lang="en">{"id": "3ecfea4c-7d95-4559-b9f6-79bd39478df2", "value": "Beacon tower"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="zh">{"id": "44f5a7b8-66f2-4f97-854a-8e3d86b90f70", "value": "\u70fd\u71e7"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="ru">{"id": "ded89d71-92b1-4032-9e0e-dd4d0728f5a5", "value": "\u0411\u0430\u0448\u043d\u044f \u043c\u0430\u044f\u043a\u0430"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower rdf:resource="http://localhost:8000/62b28db6-16e4-49f3-af60-18dbaa3cae0a"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/ed051745-9bfc-4197-8e1a-feec31aefc6b">
+        <skos:prefLabel xml:lang="ru">{"id": "1ece3850-ef36-4998-9998-99816a4f2648", "value": "\u0420\u044b\u043d\u043e\u043a"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="zh">{"id": "d0cead2c-d750-44fb-86ba-687ad11e5eec", "value": "\u5e02\u573a"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">{"id": "2cc4d890-8c1d-4fff-9a5d-c1d10a0b7526", "value": "Market"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:narrower rdf:resource="http://localhost:8000/7f6a271f-c0d5-4707-ba55-b4d8618c9e08"/>
+      </skos:Concept>
+    </skos:narrower>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/445314eb-b8dc-4521-bd28-196bf3bf82ec">
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="en">{"id": "17db23cb-a80f-4660-956c-fdcd85d8fbe5", "value": "Canal"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="ru">{"id": "6e4e6959-7fed-46af-83d0-15f67dde7884", "value": "\u041a\u0430\u043d\u0430\u043b"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="zh">{"id": "6cde3218-11a9-4225-bcb2-414ff6370eec", "value": "\u8fd0\u6cb3"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/8b412321-1ff0-4f41-bfeb-0c08d7da97a9">
+    <skos:prefLabel xml:lang="en">{"id": "6ddd88b7-9ee0-4994-8cf6-1a764e01b7ff", "value": "Historical school/academy"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="zh">{"id": "a90aafef-12db-492c-b642-6401cdc141a1", "value": "\u5386\u53f2\u5b66\u6821\u3001\u5b66\u9662"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/83461df5-fe13-4616-8d36-e9154d6ece69">
+    <skos:prefLabel xml:lang="ru">{"id": "69499937-d060-4c8b-8948-76a1e22e4918", "value": "\u041f\u0435\u0447\u044c"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="zh">{"id": "22b6d713-312c-46a0-a163-1ac5202aea71", "value": "\u7a91"}</skos:prefLabel>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/d595c010-d995-42ff-a833-b91fec541d84">
+        <skos:prefLabel xml:lang="zh">{"id": "bcfc41f8-3ffb-4b90-839a-9448e8a04d5e", "value": "\u7816\u7a91"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">{"id": "fa08cd87-e7ac-4695-bb0b-9ef904cd3ef3", "value": "Brick kiln"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="ru">{"id": "31384bab-aac3-46d5-8ce4-4a66b06cd38c", "value": "\u041a\u0438\u0440\u043f\u0438\u0447\u043d\u0430\u044f \u043f\u0435\u0447\u044c"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:prefLabel xml:lang="en">{"id": "9f948b5b-2268-490d-97e2-978482437801", "value": "Kiln"}</skos:prefLabel>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/b4c119d5-77c0-45ca-a34f-f57b7a7e9530">
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="zh">{"id": "7cd4163a-bedb-4b42-a08c-4b75a73c75e3", "value": "\u74e6\u7a91"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="ru">{"id": "4b61e939-2932-49c3-afc2-38ae28d6a4c3", "value": "\u041a\u0430\u0444\u0435\u043b\u044c\u043d\u0430\u044f \u043f\u0435\u0447\u044c"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">{"id": "c64560f4-83e5-42a7-8662-7642ab27c92e", "value": "Tile kiln"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/d7bfeae2-eadf-4ca4-83ce-c61c81940858">
+        <skos:prefLabel xml:lang="ru">{"id": "319c7aae-0167-418d-8c60-cf7c776eeb2a", "value": "\u041a\u0435\u0440\u0430\u043c\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u043f\u0435\u0447\u044c"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="zh">{"id": "51167024-d633-4cf6-afc1-1f78fa41b44b", "value": "\u9676\u7a91"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="en">{"id": "356443fb-85ee-4610-998c-cb88be2e0bce", "value": "Pottery kiln"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/008b6e5b-bbc5-4e3b-9072-6404e410d1f0">
+    <skos:prefLabel xml:lang="en">{"id": "11ef5a24-95bd-4bf3-b9a2-8607cf5da60d", "value": "Ding"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:scopeNote xml:lang="en">{"id": "99202c15-4e52-4e63-8567-2d687d0e5f11", "value": "A multi-storey fortified tower, similar to a k\u00f6shk, but smaller with only one or two rooms in each storey; a refuge and lookout"}</skos:scopeNote>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/9975a677-2547-4fe8-bc1f-468405625240">
+    <skos:prefLabel xml:lang="en">{"id": "bfba467e-21f7-4883-9843-2745dc6f3190", "value": "Administrative"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="zh">{"id": "94214a30-62d9-4bfb-bef7-5ec832eb01f1", "value": "\u7ba1\u7406\u673a\u6784"}</skos:prefLabel>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/0cbb6f81-91c7-4a10-8274-17f0418e2b00">
+        <skos:prefLabel xml:lang="zh">{"id": "e9d550f0-461a-4409-a6eb-c92bacea9f29", "value": "\u653f\u5e9c\u529e\u516c\u5ba4"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">{"id": "d1f31472-b7fe-4dfa-87bb-35f8f0a177a5", "value": "Government offices"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:narrower rdf:resource="http://localhost:8000/2eb554af-e511-4aab-9606-0b37917fb15c"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/10890833-7a7b-4769-9b5c-b7698cffc2f9">
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="zh">{"id": "8c1e109b-1ad6-4a0f-a79b-1bb728fee459", "value": "\u5b98\u90b8"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">{"id": "553654a4-c47a-4ade-bc2a-0f16e8a09812", "value": "Official residence  "}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/0afa0ba2-bb6f-45e9-91da-dbd4d1f21ed8">
+    <skos:prefLabel xml:lang="en">{"id": "410027fd-7235-4fef-9cc7-e484838cba42", "value": "Drain"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="zh">{"id": "56cc5cdf-fd5f-468a-8635-c9740e21e9db", "value": "\u6392\u6c34\u7ba1"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="ru">{"id": "c848882a-2b04-4426-8ad5-68a16aed0696", "value": "\u0414\u0440\u0435\u043d\u0430\u0436"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/10532912-acf2-438b-9461-0962b9be9864">
+    <skos:prefLabel xml:lang="en">{"id": "1d33c234-a1e9-4503-8dbe-0fd5da1c4f55", "value": "Industrial heritage"}</skos:prefLabel>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/12fc614b-b739-4bf8-9a12-fc3c7274ac31">
+        <skos:prefLabel xml:lang="zh">{"id": "b18a903c-e1ae-4925-bf56-54204b990563", "value": "\u751f\u4ea7\u5efa\u8bbe\u5175\u56e2\u6587\u7269"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="ru">{"id": "1056f003-ccd2-434a-b865-d3675cb9ea00", "value": "\u041a\u0443\u043b\u044c\u0442\u0443\u0440\u043d\u044b\u0435 \u0440\u0435\u043b\u0438\u043a\u0432\u0438\u0438 \u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u043e-\u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043a\u043e\u0440\u043f\u0443\u0441\u0430"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="en">{"id": "1fc4d077-2656-4fd0-a73d-1723716f3a21", "value": "Cultural relics of the Production and Construction Corps"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:prefLabel xml:lang="zh">{"id": "f1cb9ef2-0130-40b2-9790-8c83cdeca118", "value": "\u5de5\u4e1a\u9057\u4ea7"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="ru">{"id": "c1811bdf-59a2-4044-b2d9-b9cd4b2fc1aa", "value": "\u0418\u043d\u0434\u0443\u0441\u0442\u0440\u0438\u0430\u043b\u044c\u043d\u043e\u0435 \u043d\u0430\u0441\u043b\u0435\u0434\u0438\u0435"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/f4cf3297-56e9-4ece-a7c3-8ae381782695">
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="ru">{"id": "141668e7-1be2-4697-8677-ac99af912dca", "value": "\u041a\u0430\u043c\u0435\u043d\u043d\u0430\u044f \u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0430 / \u0437\u0434\u0430\u043d\u0438\u0435"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">{"id": "cdf294f2-7bdb-4694-97af-b1708b7615a9", "value": "Stone platform /building"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="zh">{"id": "93aea296-b03d-408d-8bce-e895041b0b69", "value": "\u4e2d\u5fc3\u77f3\u6784\u9ad8\u53f0\u5efa\u7b51"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/634007c8-2305-456e-b84b-b3f456a1da80">
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="zh">{"id": "42c7695f-ec43-4750-9105-f21105910eb8", "value": "\u968f\u846c\u54c1"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">{"id": "2822d682-7140-40c8-8e2e-1e62884337bf", "value": "Grave goods"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="ru">{"id": "655ec263-3569-498f-b05e-6289e7984449", "value": "\u041f\u043e\u0433\u0440\u0435\u0431\u0430\u043b\u044c\u043d\u044b\u0439 \u0438\u043d\u0432\u0435\u043d\u0442\u0430\u0440\u044c"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/30942c2a-44be-42e0-bc9a-a4a67dc489b7">
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/1121daab-6830-470d-8bcc-13182f73c37f">
+        <skos:prefLabel xml:lang="zh">{"id": "a98a2724-9f3a-4fa7-ae47-d8735364c432", "value": "\u9057\u8ff9"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:altLabel xml:lang="zh">{"id": "bb9246ed-4586-4c0e-91d9-eb44391dd4ae", "value": "\u5e9f\u589f"}</skos:altLabel>
+        <skos:prefLabel xml:lang="en">{"id": "e50ae864-ec35-4725-8074-1bafd764feaa", "value": "Ruin"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="ru">{"id": "ff748346-8892-4d4b-94ed-c7d211c42d9d", "value": "\u0420\u0443\u0438\u043d\u044b"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:scopeNote xml:lang="zh">{"id": "3376663a-09e7-4782-9cf4-b41df8c1215c", "value": "\u672a\u6307\u660e\u7684\u8003\u53e4\u9057\u5740"}</skos:scopeNote>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/319a5743-a16b-4b62-8947-7a06f9bff84e">
+        <skos:prefLabel xml:lang="zh">{"id": "45eaf5c2-df7b-492d-beb8-5c0fd7430fbe", "value": "\u6784\u4ef6"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="ru">{"id": "49ebed66-eddb-4889-812c-c157057824de", "value": "\u0421\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0430"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">{"id": "a78cd315-da5a-4d29-8a8b-88e3cb1603fe", "value": "Structure"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/a86cf32d-632b-4c18-a7fb-a636540191f0">
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="zh">{"id": "6146efee-329f-4843-be25-0c43292bfac2", "value": "\u5efa\u7b51"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">{"id": "24c82035-329d-4fbe-a3d9-aa2628e5fb0c", "value": "Building"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="ru">{"id": "d88ae008-941e-441c-8b83-e24f9cdc7082", "value": "\u0417\u0434\u0430\u043d\u0438\u0435"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:prefLabel xml:lang="zh">{"id": "b2cbaf0e-e417-4ec8-9bcc-aa9836133763", "value": "\u9057\u5740"}</skos:prefLabel>
+    <skos:scopeNote xml:lang="ru">{"id": "5c075715-7b64-4941-9857-faa8188cb725", "value": "\u041d\u0435\u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0451\u043d\u043d\u044b\u0439 \u0430\u0440\u0445\u0435\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043f\u0430\u043c\u044f\u0442\u043d\u0438\u043a"}</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">{"id": "b3cf93c4-e253-4b64-8a4d-4931abf33deb", "value": "Unspecified archaeological site"}</skos:scopeNote>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="en">{"id": "3154028a-fb90-4bd9-8728-51c93a941442", "value": "Site"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="ru">{"id": "132ec6e1-b2db-4f2c-9cc4-e83c259939bd", "value": "\u041e\u0431\u044a\u0435\u043a\u0442"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/438e583e-c1f2-4a92-afbb-f4327c874051">
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="zh">{"id": "5d438727-50b9-4580-b9de-19320c60d04e", "value": "\u91c7\u77f3\u573a"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="ru">{"id": "c76170a9-af32-427e-862c-d0fa35f11791", "value": "\u041a\u0430\u0440\u044c\u0435\u0440"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">{"id": "9af22e55-7e17-4fa2-99ee-871c6d7c6a4c", "value": "Quarry"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/e92086ba-907a-4350-8fff-36c2aa3611d6">
+    <skos:prefLabel xml:lang="zh">{"id": "10511727-2ee2-4259-a4dd-6d436539d18e", "value": "\u9601"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="en">{"id": "26a7cdca-08b2-43ff-bff8-bea18a6a4d89", "value": "Pavilion "}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/9ba92468-db6d-45d7-91d7-1bc2793d3a0d">
+    <skos:scopeNote xml:lang="en">{"id": "bec7ab29-5c1f-4c3a-baaf-bf32b5fa7bc4", "value": "The limits of a field."}</skos:scopeNote>
+    <skos:prefLabel xml:lang="en-us">{"id": "1db34d39-b984-42f5-80e0-99648dc3114e", "value": "Field boundary"}</skos:prefLabel>
+    <skos:scopeNote xml:lang="ru">{"id": "dac3d7ae-10c4-4b39-9b6c-95cc4b8f8c8d", "value": "\u0413\u0440\u0430\u043d\u0438\u0446\u044b \u043f\u043e\u043b\u044f."}</skos:scopeNote>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="zh">{"id": "668f5bc2-2063-4fb7-9654-8ee379ac3f60", "value": "\u519c\u7530\u8fb9\u754c"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="ru">{"id": "aa535bba-19ca-4190-9a1c-da068da23e1f", "value": "\u0413\u0440\u0430\u043d\u0438\u0446\u0430 \u043f\u043e\u043b\u044f"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/b62f2412-dee8-4808-948b-7bb5abac1e1b">
+    <skos:prefLabel xml:lang="ru">{"id": "7bd2bc4b-e883-4123-aa17-1b2ae0b382c9", "value": "\u0423\u0433\u043b\u0443\u0431\u043b\u0435\u043d\u043d\u043e\u0435 \u043e\u0433\u0440\u0430\u0436\u0434\u0435\u043d\u0438\u0435"}</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">{"id": "1d8a3146-9666-48e4-a59b-03609f153b79", "value": "An area of land enclosed by one or several boundary ditches. "}</skos:scopeNote>
+    <skos:scopeNote xml:lang="ru">{"id": "60835631-5f4a-453a-93f6-1bdf713b004e", "value": "\u0423\u0447\u0430\u0441\u0442\u043e\u043a \u0437\u0435\u043c\u043b\u0438, \u043e\u043a\u0440\u0443\u0436\u0435\u043d\u043d\u044b\u0439 \u043e\u0434\u043d\u0438\u043c \u0438\u043b\u0438 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u0438\u043c\u0438 \u043f\u043e\u0433\u0440\u0430\u043d\u0438\u0447\u043d\u044b\u043c\u0438 \u043a\u0430\u043d\u0430\u0432\u0430\u043c\u0438."}</skos:scopeNote>
+    <skos:prefLabel xml:lang="zh">{"id": "55bf653d-68bc-44ab-b3d0-cde96e28b772", "value": "\u6c9f\u6e20\u56f4\u573a"}</skos:prefLabel>
+    <skos:scopeNote xml:lang="en-us">{"id": "f38aafe4-61ec-4933-98dd-d34c94711e65", "value": "\u4ee5\u4e00\u4e2a\u6216\u591a\u4e2a\u6c9f\u6e20\u4e3a\u8fb9\u754c\uff0c\u88ab\u5305\u56f4\u5728\u5185\u7684\u533a\u57df\u3002"}</skos:scopeNote>
+    <skos:prefLabel xml:lang="en">{"id": "f5836f5a-aa2b-49be-88d2-4b12b23912c1", "value": "Ditched enclosure"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/0e716378-11f0-439a-9403-ebe936a8988e">
+    <skos:prefLabel xml:lang="en">{"id": "6a1384c8-095b-41ca-a2fd-56b570295fcf", "value": "Deer stone"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="ru">{"id": "c72bc1d4-7540-4fa3-9343-6fb1c8a3fac2", "value": "\u041e\u043b\u0435\u043d\u043d\u044b\u0435 \u043a\u0430\u043c\u043d\u0438 "}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="zh">{"id": "c3acea40-3d08-41b9-94bb-1019322b54a6", "value": "\u9e7f\u77f3"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/9807e58b-db92-44f6-9a2e-2b67e6fc946e">
+    <skos:closeMatch>
+      <skos:Concept rdf:about="http://localhost:8000/5f0d452f-4669-47f5-a819-42e0b12fca93">
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="zh">{"id": "662390d2-b312-4185-a762-a868f15ad77a", "value": "\uff08\u4fc4\u7f57\u65af\u3001\u4e4c\u514b\u5170\uff09\u53e4\u51a2"}</skos:prefLabel>
+        <skos:closeMatch rdf:resource="http://localhost:8000/9807e58b-db92-44f6-9a2e-2b67e6fc946e"/>
+        <skos:prefLabel xml:lang="ru">{"id": "c1b56307-8c5c-41c7-87c7-607b7d6ae5a2", "value": "\u041a\u0443\u0440\u0433\u0430\u043d"}</skos:prefLabel>
+        <skos:closeMatch rdf:resource="http://localhost:8000/deea1edb-8a4b-4d7d-941d-878b8f1413ca"/>
+        <skos:prefLabel xml:lang="en">{"id": "0014edfc-3eed-41fb-8330-25b556abe5d0", "value": "Kurgan"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:closeMatch>
+    <skos:prefLabel xml:lang="zh">{"id": "69e004d1-c00e-4daa-a2cd-92c5861177b2", "value": "\u5893\u846c"}</skos:prefLabel>
+    <skos:closeMatch>
+      <skos:Concept rdf:about="http://localhost:8000/deea1edb-8a4b-4d7d-941d-878b8f1413ca">
+        <skos:prefLabel xml:lang="en">{"id": "68c8ce8d-60fb-407e-82e6-8cf8db614b6f", "value": "Barrow"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="ru">{"id": "90ef5b97-a268-4e3a-aa59-3a574d7a76c0", "value": "\u041c\u043e\u0433\u0438\u043b\u044c\u043d\u0438\u043a"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="zh">{"id": "4bb438c9-97fd-4491-9951-c9998860e732", "value": "\u53e4\u575f"}</skos:prefLabel>
+        <skos:closeMatch rdf:resource="http://localhost:8000/9807e58b-db92-44f6-9a2e-2b67e6fc946e"/>
+        <skos:closeMatch rdf:resource="http://localhost:8000/5f0d452f-4669-47f5-a819-42e0b12fca93"/>
+      </skos:Concept>
+    </skos:closeMatch>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:altLabel xml:lang="zh">{"id": "aceb6027-7fe1-4bd0-a064-d423ace41b8f", "value": "\u575f\u5893"}</skos:altLabel>
+    <skos:prefLabel xml:lang="en">{"id": "4abff36e-b14b-47dd-8810-29eb0d06c8ee", "value": "Burial mound"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="ru">{"id": "1232a116-4504-4ae1-a83d-8b6e4bd421cb", "value": "\u041c\u043e\u0433\u0438\u043b\u044c\u043d\u044b\u0439 \u0445\u043e\u043b\u043c"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/c869999f-29c1-4535-b5f5-6e9be6ee65af">
+    <skos:scopeNote xml:lang="ru">{"id": "81b75cf3-44b3-4731-aaa5-d939d14fb505", "value": "\u0421\u043e\u043e\u0440\u0443\u0436\u0435\u043d\u0438\u0435, \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044e\u0449\u0435\u0435\u0441\u044f \u0434\u043b\u044f \u043e\u0433\u0440\u0430\u0436\u0434\u0435\u043d\u0438\u044f \u0443\u0447\u0430\u0441\u0442\u043a\u0430 \u0437\u0435\u043c\u043b\u0438, \u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0439 \u043f\u043b\u043e\u0449\u0430\u0434\u043a\u0438 \u0438 \u0442.\u0434."}</skos:scopeNote>
+    <skos:prefLabel xml:lang="ru">{"id": "2c96450d-83ca-466b-9ac0-981407af79be", "value": "\u041e\u0433\u0440\u0430\u0434\u0430"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="zh">{"id": "5ed0ad21-6afa-4cb0-9a2a-da909caeed31", "value": "\u6805\u680f"}</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">{"id": "685e35fb-45e7-4c59-b63a-467ea442a674", "value": "A construction used to enclose an area of land, a building plot, etc."}</skos:scopeNote>
+    <skos:prefLabel xml:lang="en">{"id": "6f3a1ae1-04aa-40a8-8e18-a4ef4968bf40", "value": "Fence"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/0687d75b-e0a0-446f-8d06-7851684afa79">
+    <skos:prefLabel xml:lang="en">{"id": "740a355c-aa73-42a7-8676-d766dc1902ea", "value": "Industrial"}</skos:prefLabel>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/8a5b7ad8-639c-41d9-a20b-795d85d46eef">
+        <skos:prefLabel xml:lang="ru">{"id": "85ea7e7e-7fa4-4075-bf22-294eaa280c9e", "value": "\u0420\u0443\u0434\u043d\u0438\u043a"}</skos:prefLabel>
+        <skos:narrower rdf:resource="http://localhost:8000/cf705bc3-8938-40cb-a1d4-a6e663bbb4b8"/>
+        <skos:prefLabel xml:lang="en">{"id": "0c1124d9-a23f-423f-ac02-7e5a8fd773ec", "value": "Mine"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:closeMatch rdf:resource="http://localhost:8000/e3fd25a3-f405-488a-ae8f-1d78ab6e63dc"/>
+        <skos:prefLabel xml:lang="zh">{"id": "f1ae9bf4-ac16-49ae-accd-6e3715f3af8c", "value": "\u77ff"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower rdf:resource="http://localhost:8000/7a311099-91a6-435c-861b-a6d7555d1bf4"/>
+    <skos:narrower rdf:resource="http://localhost:8000/10532912-acf2-438b-9461-0962b9be9864"/>
+    <skos:prefLabel xml:lang="zh">{"id": "f1ae8b1e-497d-4244-898f-2f6450ee6fb0", "value": "\u5de5\u4e1a"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/fe8f6137-128c-4de7-9536-1c3c62f7d44d">
+        <skos:narrower rdf:resource="http://localhost:8000/25112b15-5a86-4eec-bb33-d44c293a4d6c"/>
+        <skos:prefLabel xml:lang="ru">{"id": "0209de35-84a6-45c0-9b36-4c56547586e9", "value": "\u041f\u0435\u0447\u044c \u043e\u0431\u0436\u0438\u0433\u0430"}</skos:prefLabel>
+        <skos:narrower rdf:resource="http://localhost:8000/bbb6a542-89bf-46ec-aa01-cbc44deb4896"/>
+        <skos:prefLabel xml:lang="en">{"id": "37003dc6-078d-425a-beb6-1317b5379533", "value": "Furnace"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="zh">{"id": "dd087f8b-565d-46ec-9638-4c2f7d9d32c1", "value": "\u7194\u7089"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:prefLabel xml:lang="ru">{"id": "8f0925e2-fe81-4cc6-a731-30421efe21e4", "value": "\u0418\u043d\u0434\u0443\u0441\u0442\u0440\u0438\u0430\u043b\u044c\u043d\u044b\u0439"}</skos:prefLabel>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/e3fd25a3-f405-488a-ae8f-1d78ab6e63dc">
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:closeMatch rdf:resource="http://localhost:8000/77926d99-7935-420e-a014-a9a877812387"/>
+        <skos:closeMatch rdf:resource="http://localhost:8000/8a5b7ad8-639c-41d9-a20b-795d85d46eef"/>
+        <skos:prefLabel xml:lang="en">{"id": "cd126cc2-e947-4df2-bc8c-dac8e985c718", "value": "Mining/smelting site"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/d0dd1aba-ce0f-448e-946e-c7dd4361a263">
+        <skos:prefLabel xml:lang="en">{"id": "a4a57e39-bd4c-434c-a969-8abf4352f810", "value": "Icehouse"}</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">{"id": "8673c393-4df9-45aa-9cc8-a0a860f46792", "value": "A structure, sometimes partly underground, for the preservation of ice for use during warmer weather"}</skos:scopeNote>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower rdf:resource="http://localhost:8000/438e583e-c1f2-4a92-afbb-f4327c874051"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/fbd67152-ac93-4e73-99f0-17b042c42686">
+        <skos:prefLabel xml:lang="ru">{"id": "aa200196-aaba-453c-abd8-89a968d563d7", "value": "\u041f\u0440\u043e\u043c\u044b\u0448\u043b\u0435\u043d\u043d\u043e\u0435 \u0437\u0434\u0430\u043d\u0438\u0435"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">{"id": "8a1f06e8-26fb-476b-bd62-33a78c2287fe", "value": "Industrial building"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="zh">{"id": "4e4fdf34-d73a-43f0-a13a-ca0f39dbbb40", "value": "\u5de5\u4e1a\u5efa\u7b51"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower rdf:resource="http://localhost:8000/83461df5-fe13-4616-8d36-e9154d6ece69"/>
+    <skos:narrower rdf:resource="http://localhost:8000/70b44259-5183-471d-beb6-6f81170fb526"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/77926d99-7935-420e-a014-a9a877812387">
+        <skos:prefLabel xml:lang="en">{"id": "0e2f3b65-4037-4d0f-b572-ed893d2e227e", "value": "Copper working site"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="zh">{"id": "a23a3e39-ea93-4e82-8707-5295de26a721", "value": "\u94dc\u52a0\u5de5\u9057\u5740"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="ru">{"id": "9efcc53e-5eb1-4731-8a7b-98ed3ebcf472", "value": "\u041f\u0430\u043c\u044f\u0442\u043d\u0438\u043a \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u043a\u0438 \u043c\u0435\u0434\u0438"}</skos:prefLabel>
+        <skos:closeMatch rdf:resource="http://localhost:8000/e3fd25a3-f405-488a-ae8f-1d78ab6e63dc"/>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+      </skos:Concept>
+    </skos:narrower>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/b32fd84a-4b78-4d6e-b164-5a232491225d">
+    <skos:prefLabel xml:lang="en">{"id": "e79fcdb3-1809-4fd1-93ee-2b132e450b87", "value": "Russian and Soviet architecture "}</skos:prefLabel>
+    <skos:prefLabel xml:lang="ru">{"id": "afadb4c4-757b-40cd-8cae-cb277540ff5f", "value": "\u0420\u0443\u0441\u0441\u043a\u0430\u044f \u0438 \u0441\u043e\u0432\u0435\u0442\u0441\u043a\u0430\u044f \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="zh">{"id": "9aea3494-f301-4322-86b7-2d25f9e9ca51", "value": "\u4fc4\u3001\u82cf\u5f0f\u5efa\u7b51"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/4cad05c2-2e95-419f-862a-d9cba85f3bc5">
+    <skos:prefLabel xml:lang="ru">{"id": "ac679845-3144-4893-b66e-9d49da1d7e56", "value": "\u0426\u0435\u0440\u043a\u043e\u0432\u044c"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">{"id": "a1b49b1f-18fe-4081-be76-c8ae568486f6", "value": "Church"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="zh">{"id": "2ac36d55-68ad-4cf6-a6a4-a4c14b8725ca", "value": "\u6559\u5802"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/262e10ef-288b-4468-8bf7-02b5d176093e">
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="ru">{"id": "7f3a2515-c8e5-442e-b1a9-243b5451a50e", "value": "\u041f\u043e\u0433\u0440\u0435\u0431\u0430\u043b\u044c\u043d\u0430\u044f \u043a\u0430\u043c\u0435\u0440\u0430"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">{"id": "8dc6ad98-be30-4b09-822e-4ae039222197", "value": "Burial chamber"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="zh">{"id": "d5036dfd-d643-4371-b952-1153a5ab67cc", "value": "\u5893\u5ba4"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/6db29eb1-ed6e-43f6-a5c8-b392e84dca76">
+    <skos:prefLabel xml:lang="ru">{"id": "ba314b47-6d97-4fc2-b3b3-2da0f243cf38", "value": "\u0421\u0442\u043e\u043b\u0431"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">{"id": "1cb16452-3a05-4851-99f5-7f045cb2d578", "value": "Pillar"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="zh">{"id": "f5368199-b54d-4365-8787-d37a37a4c666", "value": "\u67f1"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/95d65b92-aa88-4884-96b0-c6cd6b06c6d0">
+    <skos:prefLabel xml:lang="zh">{"id": "de557aa2-2535-4d9c-a7b5-4b85c6a24d06", "value": "\u5ca9\u753b"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="en-us">{"id": "90ad2ecc-09ba-4526-99e1-8e52edff3a26", "value": "Rock art"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="ru">{"id": "c03bc93c-2646-423c-8ba1-0904c164274d", "value": "\u041d\u0430\u0441\u043a\u0430\u043b\u044c\u043d\u043e\u0435 \u0438\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0435 "}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/104ddc6a-5f89-4ea5-b7c5-f4326bcbc835">
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/186cff91-385e-48a7-9169-3c52a06190de">
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="ru">{"id": "4cc867b5-e9bd-4f84-9cfe-43c1ed5ec64f", "value": "\u0413\u043e\u0440\u043e\u0434"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="zh">{"id": "e67a9504-2814-413d-b101-9f4cd8b13f49", "value": "\u57ce\u5e02"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">{"id": "32a801af-7fc5-43b0-a923-a103222d543d", "value": "City"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower rdf:resource="http://localhost:8000/008b6e5b-bbc5-4e3b-9072-6404e410d1f0"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/04a5d6ab-d37a-43ca-978f-dcc1e928ad02">
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="ru">{"id": "85c3d462-052f-4d0f-9c10-abdc897e67db", "value": "\u041a\u0451\u0448\u043a"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">{"id": "17acdcad-f4e5-4ced-9762-5995b53077a0", "value": "Koshk"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="de">{"id": "668ffe5e-a7a3-43ff-8f8c-6ed9c7cddb34", "value": "K\u00f6shk"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/c117332f-a1ed-4583-a6bb-b14d3da1edde">
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="en">{"id": "8e66fb8f-f7e8-4acc-8ecb-57532d3c5103", "value": "Stone circle dwelling"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="zh">{"id": "2bb06e75-0011-4561-8004-8055ff93dfbc", "value": "\u77f3\u56f4\u5c45\u5740"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="ru">{"id": "12c90fb6-5f16-46b6-880d-006d520cf55b", "value": "\u0416\u0438\u043b\u0438\u0449\u0430 \u0438\u0437 \u043a\u0430\u043c\u0435\u043d\u043d\u043e\u0433\u043e \u043a\u0440\u0443\u0433\u0430 "}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:prefLabel xml:lang="en">{"id": "6ec9ad02-ec84-4bc8-8a36-fc9f7870778c", "value": "Settlement"}</skos:prefLabel>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/523c7a9e-c812-4311-a56f-f1d7c0a4cb53">
+        <skos:prefLabel xml:lang="ru">{"id": "bf5cab7f-ffd5-49f3-973c-483bfbfbca84", "value": "\u0414\u0435\u0440\u0435\u0432\u043d\u044f"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="en">{"id": "ae1392cf-85ac-45ac-89e4-9cd595678835", "value": "Village"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="zh">{"id": "8c6e96da-53ac-44a4-938b-9482b09cca4f", "value": "\u6751\u5e84"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/1c2deb51-9ff4-4986-91e6-ad9349cc97e0">
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="zh">{"id": "5781cec2-5534-4333-aa5b-04b081e7aa47", "value": "\u57ce\u9547"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="ru">{"id": "bdd01e1d-0a15-4b9e-a5fb-398ca0de6f31", "value": "\u0413\u043e\u0440\u043e\u0434\u043e\u043a"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">{"id": "438f54a6-abc6-4724-86b8-06c0582a272a", "value": "Town"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/10e5a28e-cd00-44c8-9b08-c898530f8e04">
+        <skos:prefLabel xml:lang="en-us">{"id": "3ff3d399-7428-4039-9da5-c3566151f40a", "value": "Nomadic campsite"}</skos:prefLabel>
+        <skos:narrower rdf:resource="http://localhost:8000/023a740e-edd5-425c-8e02-f2ece2b2c5c1"/>
+        <skos:prefLabel xml:lang="ru">{"id": "c4890771-16f8-44a3-b3c4-2fe8dab0b867", "value": "\u041a\u043e\u0447\u0435\u0432\u043e\u0439 \u043b\u0430\u0433\u0435\u0440\u044c"}</skos:prefLabel>
+        <skos:narrower rdf:resource="http://localhost:8000/5b9eced2-1f6a-4a9f-92a4-e60c5832bab2"/>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:narrower rdf:resource="http://localhost:8000/d400a0ae-da71-414a-839d-5c5b90efdba4"/>
+        <skos:prefLabel xml:lang="zh">{"id": "85ea7fa5-d00f-4c14-b356-7ab961b260f9", "value": "\u6e38\u7267\u5e10\u5e55\u9057\u5740"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:prefLabel xml:lang="ru">{"id": "5d7c4ccb-d58e-4b66-b943-e3bc674ca3db", "value": "\u041f\u043e\u0441\u0435\u043b\u0435\u043d\u0438\u0435"}</skos:prefLabel>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/5927cb10-2387-4fae-9bd1-1be6fa11f322">
+        <skos:prefLabel xml:lang="en">{"id": "bbbeb104-3404-44aa-a499-b1f1e7c20e24", "value": "Cave"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="ru">{"id": "71fd9c7a-28eb-4f55-bef7-711db1e3e7b7", "value": "\u041f\u0435\u0449\u0435\u0440\u0430"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="zh">{"id": "8e6d162f-b08a-427e-988d-dd4700ad04a8", "value": "\u6d1e\u7a74"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/5c9f59ee-de3d-4ac8-9961-f0b6d83611e8">
+        <skos:prefLabel xml:lang="ru">{"id": "501fc72e-0170-443a-9068-8321d1fc3ea5", "value": "\u041d\u0435\u0437\u0430\u043a\u0440\u044b\u0442\u043e\u0435 \u043f\u043e\u0441\u0435\u043b\u0435\u043d\u0438\u0435"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="zh">{"id": "7ff34eb3-03b9-459d-9644-92ef0659ab75", "value": "\u5f00\u653e\u5f0f\u5c45\u5740"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">{"id": "717b3ba4-a301-4440-a559-fee5c505f6bb", "value": "Unenclosed settlement"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/b46e3246-730f-484d-81ac-0d2c17967c54">
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="en">{"id": "32d00f92-6d59-4c64-b8e7-c1b372f1df00", "value": "Tepe"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="zh">{"id": "6fab9986-d765-4562-9f51-79c7ddd667be", "value": "\u5c71\u4e18\u5c45\u5740"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="ru">{"id": "47044675-aa51-4a02-880b-e41384659402", "value": "\u0422\u0435\u043f\u0435; \u0434\u0435\u043f\u0435"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/b24e3dff-6747-4c6d-a3ed-27490d51810b">
+        <skos:prefLabel xml:lang="en">{"id": "f1e93ae8-afa9-44bf-a3b9-13ad0cb23aaf", "value": "Citadel"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="ru">{"id": "d7928c6d-818d-42dd-99b5-c1e27cc5b481", "value": "\u0426\u0438\u0442\u0430\u0434\u0435\u043b\u044c"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="zh">{"id": "54fb2ba1-dcc5-4320-b1de-14a0c5fdaf57", "value": "\u57ce\u5821"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower rdf:resource="http://localhost:8000/f4cf3297-56e9-4ece-a7c3-8ae381782695"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/2f672e12-ab05-4029-a775-073f147fbb85">
+        <skos:prefLabel xml:lang="zh">{"id": "63e72765-d4c2-4bb9-b1a7-0638afcd4af0", "value": "\u5e84\u56ed"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="ru">{"id": "31446298-dafe-450f-a72e-529851c0974f", "value": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="en">{"id": "cb7abcbb-ce3e-4410-a976-5d6ce5a8da5a", "value": "Manor house"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:prefLabel xml:lang="zh">{"id": "27652a2d-e315-4f8d-a7d1-3c99b38beba7", "value": "\u805a\u843d\u9057\u5740"}</skos:prefLabel>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/e50759df-fc1f-4206-ac67-f026dfa8e41b">
+        <skos:prefLabel xml:lang="en">{"id": "3361a715-6b85-478a-81a8-e94f77ecf612", "value": "Hillfort"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="zh">{"id": "bd8f0f4f-3ac4-4ca7-93c9-d2dad35240be", "value": "\u4e18\u5821"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="ru">{"id": "3b9c9b72-777c-460c-8ce4-962058514b02", "value": "\u0413\u043e\u0440\u043e\u0434\u0438\u0449\u0435"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/e396052b-2a9c-43c4-8223-67b6860e0e26">
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/be69ba54-5369-4a2d-bcb6-dacb5057b853">
+        <skos:prefLabel xml:lang="zh">{"id": "f04a1737-0275-4402-b4da-ea15a7826397", "value": "\u5c71\u53e3"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="ru">{"id": "c54072df-e8ce-457e-b26c-cfdce79994eb", "value": "\u041f\u0440\u043e\u0445\u043e\u0434"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">{"id": "9631c0e0-2e99-43b0-92c8-144c9a4f7d00", "value": "Pass"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:prefLabel xml:lang="zh">{"id": "d662b689-1d52-4cc9-a509-57fc6bc69f38", "value": "\u5730\u8c8c\u7279\u5f81"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="ru">{"id": "735c79f2-0fdb-46b1-b575-767f1e2fba71", "value": "\u0427\u0435\u0440\u0442\u0430 \u043b\u0430\u043d\u0434\u0448\u0430\u0444\u0442\u0430"}</skos:prefLabel>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/17ef93aa-c803-4ae7-98f5-e5797b105a62">
+        <skos:prefLabel xml:lang="en">{"id": "2165e854-8476-43a0-987b-40ab0b84147e", "value": "Valley"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="zh">{"id": "81792e38-d170-468a-9c2d-d854d7f4f62c", "value": "\u5c71\u8c37"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="ru">{"id": "7af68ec5-7977-454d-b724-4904f70a2124", "value": "\u0414\u043e\u043b\u0438\u043d\u0430"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/a3831523-acda-4ef7-b02b-a11c0d535cb1">
+        <skos:prefLabel xml:lang="en">{"id": "066df487-7e18-450a-9be8-4fa9044a586f", "value": "Wadi"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="zh">{"id": "58f49d50-be64-44ca-9537-504af99f0c31", "value": "\u5e72\u6cb3\u9053"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="ru">{"id": "01b73edd-51a0-4211-b771-9e595eefe648", "value": "\u0420\u0443\u0441\u043b\u043e \u0440\u0435\u043a\u0438"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:prefLabel xml:lang="en">{"id": "3837ceec-df85-4e0e-9651-1bbe9c2d45be", "value": "Landscape feature"}</skos:prefLabel>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/0a14e4ea-ff12-45b6-b2ec-b020445904c9">
+        <skos:prefLabel xml:lang="zh">{"id": "f7017580-f874-4205-aa68-639a4973e4a0", "value": "\u5ce1\u8c37"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">{"id": "d55c792a-ae38-4e0e-983e-06d7f19b4bb2", "value": "Gorge"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="ru">{"id": "2d5c5a55-4306-4f28-946b-cee433e92e34", "value": "\u0423\u0449\u0435\u043b\u044c\u0435"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/cf705bc3-8938-40cb-a1d4-a6e663bbb4b8">
+    <skos:prefLabel xml:lang="en">{"id": "2df26ff9-c381-4926-930f-5d2e7d2989c9", "value": "Copper mine"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="zh">{"id": "1d06a438-f9d9-4738-9ebf-496ead4d1634", "value": "\u94dc\u77ff"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="ru">{"id": "c18e4ae8-7606-4726-8901-bb23da9a0be7", "value": "\u041c\u0435\u0434\u043d\u044b\u0439 \u0420\u0443\u0434\u043d\u0438\u043a"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/5ba82147-b82b-4b65-923b-c8deba99f753">
+    <skos:prefLabel xml:lang="zh">{"id": "031ddbf7-b9be-44a8-99b9-cfff58d14ee2", "value": "\u5899\u57fa"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">{"id": "07983c7e-8e04-4ba7-a64a-b531c6c20165", "value": "Wall foundation "}</skos:prefLabel>
+    <skos:prefLabel xml:lang="ru">{"id": "94f4e79c-e815-4d53-bbb7-addf80440875", "value": "\u0424\u0443\u043d\u0434\u0430\u043c\u0435\u043d\u0442 \u0441\u0442\u0435\u043d\u044b"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/198d41d2-3937-4cd6-935d-5d8d423a84c7">
+    <skos:prefLabel xml:lang="en">{"id": "91ace3ca-06fc-4757-b0a8-d9bbb1297fb1", "value": "Hospital"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="zh">{"id": "8e2ed1f9-e503-4cb4-a453-4bd7f9ea70a4", "value": "\u533b\u9662"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="ru">{"id": "c6d91609-5425-4235-a8cf-fc7142cea240", "value": "\u0411\u043e\u043b\u044c\u043d\u0438\u0446\u0430"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/c1b931f1-f761-4d02-a05c-a8e99d71bf6b">
+    <skos:prefLabel xml:lang="ru">{"id": "de8ccc71-041a-4cb3-bc50-37ee1729d1d8", "value": "\u041a\u043e\u043b\u043e\u0434\u0435\u0446"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="zh">{"id": "54101447-0e0d-4df5-9f26-818bece50969", "value": "\u4e95"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="en">{"id": "747e58a1-1f93-4b3c-9f60-81aab5d4d69f", "value": "Well"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/278c14b7-8510-4145-bd78-d95f95d154dc">
+    <skos:prefLabel xml:lang="zh">{"id": "48e875bf-b6d5-4bca-9704-11b5ecc41a28", "value": "\u77f3\u4eba"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="ru">{"id": "e4c716f8-d4c9-4c57-b5fe-0bb775eb57ec", "value": "\u0411\u0430\u043b\u0431\u0430\u043b / \u0411\u0430\u043b\u0431\u0430\u043b\u0442\u0430\u0441"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">{"id": "7de050d2-ba8c-4d90-9cf4-a263016f42b8", "value": "Man stone"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/25112b15-5a86-4eec-bb33-d44c293a4d6c">
+    <skos:prefLabel xml:lang="en">{"id": "5879f74c-053e-4c52-9922-4e4b15cf715f", "value": "Metalworking furnace"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="zh">{"id": "d983bbd4-5775-4350-85d8-5c8c93453196", "value": "\u91d1\u5c5e\u52a0\u5de5\u7089"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="ru">{"id": "51efabc8-9c8a-4001-82fd-3a1f5a997cc0", "value": "\u041c\u0430\u0442\u0430\u043b\u043e\u043e\u0431\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u044e\u0449\u0430\u044f \u043f\u0435\u0447\u044c"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/9f4da484-e797-40ee-8ab5-6ea7d102372a">
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="en">{"id": "3754c14e-e9f2-4d56-9081-d5b1f44a09e2", "value": "Central pillar cave"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="zh">{"id": "d4ce4316-a915-469c-aa7d-d75fa56595ff", "value": "\u4e2d\u5fc3\u67f1\u7a9f"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="ru">{"id": "cafe3cfa-48a5-4fa3-b51e-37ab8306fbf2", "value": "\u041f\u0435\u0449\u0435\u0440\u0430 \u0441 \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0439 \u043a\u043e\u043b\u043e\u043d\u043d\u043e\u0439"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/985db531-65e4-4fe6-9689-166015876d5a">
+    <skos:prefLabel xml:lang="zh">{"id": "6296e6e4-1f61-420a-983c-19a54ed09410", "value": "\u6e21\u69fd"}</skos:prefLabel>
+    <skos:altLabel xml:lang="zh">{"id": "b65c8cce-39ca-4270-9e38-75f340b36238", "value": "\u9ad8\u67b6\u6e20"}</skos:altLabel>
+    <skos:prefLabel xml:lang="ru">{"id": "44e8c8b3-c153-403f-9546-c2ca9662ed1d", "value": "\u0410\u043a\u0432\u0435\u0434\u0443\u043a"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">{"id": "41b51519-42b1-485c-92a7-6327ea80d5a3", "value": "Aqueduct"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/17009348-0957-4136-a010-b25d68d19aa2">
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/215455cf-6bed-45b9-9ccd-65661d6f13ff">
+        <skos:prefLabel xml:lang="en">{"id": "f1068853-a4ae-49c9-b0f3-743afe2483d1", "value": "Enclosure"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower rdf:resource="http://localhost:8000/c869999f-29c1-4535-b5f5-6e9be6ee65af"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/0f942186-9186-41dc-af97-062e72271290">
+        <skos:prefLabel xml:lang="en">{"id": "644702f4-b245-4eee-800b-93142bb07687", "value": "Farm house"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="ru">{"id": "80b2de26-4530-45d5-b283-41095031af7c", "value": "\u0421\u0435\u043b\u044c\u0441\u043a\u0438\u0439 \u0434\u043e\u043c"}</skos:prefLabel>
+        <skos:scopeNote xml:lang="ru">{"id": "a8130a9f-b79e-4a73-96bb-a9acbec38560", "value": "\u041e\u0441\u043d\u043e\u0432\u043d\u043e\u0435 \u0441\u0442\u0440\u043e\u0435\u043d\u0438\u0435 \u0441\u0435\u043b\u044c\u0441\u043a\u043e\u0433\u043e \u0434\u043e\u043c\u0430, \u043e\u0442\u0434\u0435\u043b\u044c\u043d\u043e\u0435 \u0441\u0442\u043e\u044f\u0449\u0435\u0435 \u0438\u043b\u0438 \u043f\u0440\u0438\u043b\u0435\u0433\u0430\u044e\u0449\u0435\u0435 \u043a \u043f\u043e\u0434\u0441\u043e\u0431\u043d\u044b\u043c/\u0440\u0430\u0431\u043e\u0447\u0438\u043c \u043f\u043e\u043c\u0435\u0449\u0435\u043d\u0438\u044f\u043c. "}</skos:scopeNote>
+        <skos:prefLabel xml:lang="zh">{"id": "b64136c6-d618-413e-9886-e1ae922b2d50", "value": "\u519c\u820d"}</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">{"id": "222bbd62-b483-4103-aeb2-8ed1f32fbdb1", "value": "The main dwelling-house of a farm, it can be either detached from or attached to the working buildings."}</skos:scopeNote>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:prefLabel xml:lang="ru">{"id": "8c789d5c-be01-4432-a300-82bfdef13d76", "value": "\u0421\u0435\u043b\u044c\u0441\u043a\u043e\u0435 \u0445\u043e\u0437\u044f\u0439\u0441\u0442\u0432\u043e \u0438 \u043f\u0440\u043e\u0436\u0438\u0432\u0430\u043d\u0438\u0435"}</skos:prefLabel>
+    <skos:narrower rdf:resource="http://localhost:8000/efec2620-ae42-4aa8-bfaa-8b3c1e1185a0"/>
+    <skos:narrower rdf:resource="http://localhost:8000/9ba92468-db6d-45d7-91d7-1bc2793d3a0d"/>
+    <skos:prefLabel xml:lang="zh">{"id": "b1694008-cd98-41ac-8970-8259c1cedfb7", "value": "\u519c\u4e1a\u4e0e\u751f\u4e1a"}</skos:prefLabel>
+    <skos:scopeNote xml:lang="ru">{"id": "3d0731aa-8d6b-4349-b385-f22014de33f4", "value": "\u042d\u0442\u043e \u0433\u043b\u0430\u0432\u043d\u044b\u0439 \u0442\u0435\u0440\u043c\u0438\u043d \u0434\u043b\u044f \u043a\u043b\u0430\u0441\u0441\u0430."}</skos:scopeNote>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/c141bf18-799f-4a81-bd71-20d23c8c1b22">
+        <skos:scopeNote xml:lang="en">{"id": "21ad3133-0c97-41df-ad58-d7f1916edb8f", "value": "Area of irrigated/fertile land, in a desert or semi-desert environment."}</skos:scopeNote>
+        <skos:prefLabel xml:lang="zh">{"id": "768daff6-5f60-4586-bff5-a996e8e23731", "value": "\u7eff\u6d32"}</skos:prefLabel>
+        <skos:scopeNote xml:lang="ru">{"id": "cd648f77-27df-4bbd-aa21-cf66fefb900f", "value": "\u0423\u0447\u0430\u0441\u0442\u043e\u043a \u043f\u043e\u043b\u0438\u0432\u043d\u043e\u0439/\u043f\u043b\u043e\u0434\u043e\u0440\u043e\u0434\u043d\u043e\u0439 \u0437\u0435\u043c\u043b\u0438 \u0432 \u043f\u0443\u0441\u0442\u044b\u043d\u043d\u044b\u0445 \u0438\u043b\u0438 \u043f\u043e\u043b\u0443\u043f\u0443\u0441\u0442\u044b\u043d\u043d\u044b\u0445 \u0440\u0430\u0439\u043e\u043d\u0430\u0445."}</skos:scopeNote>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="en">{"id": "6012aa6b-72d0-40f8-a440-b3482bf2beeb", "value": "Oasis"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="ru">{"id": "4b59c0e2-f6a4-4e55-83ba-8dca414f5de8", "value": "\u041e\u0430\u0437\u0438\u0441"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower rdf:resource="http://localhost:8000/b62f2412-dee8-4808-948b-7bb5abac1e1b"/>
+    <skos:scopeNote xml:lang="en">{"id": "915274ea-1c21-42a7-a068-571d4a25e6d0", "value": "This is the top term for the class. "}</skos:scopeNote>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/e4fb2848-717b-4232-acc8-84308954cc78">
+        <skos:scopeNote xml:lang="zh">{"id": "d2046ba0-b7a9-4e55-9578-362527b03ce0", "value": "\u5730\u9762\u5f00\u51ff\u7684\u72ed\u957f\u7a7a\u6d1e\u6216\u6c9f\uff0c\u5e38\u7528\u4e8e\u8f93\u6c34\uff0c\u4e00\u5e74\u5f53\u4e2d\u90e8\u5206\u65f6\u95f4\u6216\u8bb8\u662f\u5e72\u6db8\u7684\u3002\u5e38\u7528\u4e8e\u519c\u7530\u7684\u6392\u6c34\u6216\u704c\u6e89\u3002\u4e5f\u53ef\u4ee5\u5f53\u4f5c\u662f\u8fb9\u754c\u7684\u6807\u8bb0\u3002"}</skos:scopeNote>
+        <skos:prefLabel xml:lang="zh">{"id": "acf75781-72c0-4451-b0a3-b6ed79fc8722", "value": "\u6c9f\u6e20"}</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">{"id": "b4889851-ff5c-41a4-99cc-d98011c6cc47", "value": "A long and narrow hollow or trench dug in the ground, often used to carry water, though it may be dry for part of the year. Often for drainage or irrigation of fields. Can also be boundary marker."}</skos:scopeNote>
+        <skos:prefLabel xml:lang="en">{"id": "662a4355-a3f1-4741-8f69-506a927ef091", "value": "Ditch"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:scopeNote xml:lang="ru">{"id": "85ba2b48-f6ba-435a-a8bf-5fc605be80b1", "value": "\u0414\u043b\u0438\u043d\u043d\u0430\u044f \u0438 \u0443\u0437\u043a\u0430\u044f \u0432\u043f\u0430\u0434\u0438\u043d\u0430 \u0438\u043b\u0438 \u0442\u0440\u0430\u043d\u0448\u0435\u044f, \u0432\u044b\u0440\u044b\u0442\u0430\u044f \u0432 \u0437\u0435\u043c\u043b\u0435, \u0447\u0430\u0441\u0442\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442\u0441\u044f \u0434\u043b\u044f \u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u0432\u043e\u0434\u044b, \u0445\u043e\u0442\u044f \u0432 \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u043e\u0435 \u0432\u0440\u0435\u043c\u044f \u0433\u043e\u0434\u0430 \u043e\u043d\u0430 \u043c\u043e\u0436\u0435\u0442 \u0431\u044b\u0442\u044c \u0441\u0443\u0445\u043e\u0439. \u0427\u0430\u0441\u0442\u043e \u0434\u043b\u044f \u043e\u0441\u0443\u0448\u0435\u043d\u0438\u044f \u0438\u043b\u0438 \u043e\u0440\u043e\u0448\u0435\u043d\u0438\u044f \u043f\u043e\u043b\u0435\u0439. \u0422\u0430\u043a\u0436\u0435 \u043c\u043e\u0436\u0435\u0442 \u0431\u044b\u0442\u044c \u043f\u043e\u0433\u0440\u0430\u043d\u0438\u0447\u043d\u044b\u043c \u043c\u0430\u0440\u043a\u0435\u0440\u043e\u043c."}</skos:scopeNote>
+        <skos:prefLabel xml:lang="ru">{"id": "669b70f8-1544-4ffb-82ee-e6448e1f91ed", "value": "\u0420\u043e\u0432"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/cce5ceea-aa49-4ea6-ae42-bfc1743b04f4">
+        <skos:scopeNote xml:lang="ru">{"id": "bd3f5f19-2f52-454e-ac33-57416d0d813e", "value": "\u0420\u043e\u0432 \u0438\u043b\u0438 \u043a\u0430\u043d\u0430\u043b, \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u043c\u044b\u0439 \u0434\u043b\u044f \u043f\u043e\u043b\u0438\u0432\u0430."}</skos:scopeNote>
+        <skos:prefLabel xml:lang="en">{"id": "404416f9-eb9b-4551-bd7b-9fa718a986a0", "value": "Irrigation"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="ru">{"id": "59d71dbd-ba82-472d-9cc1-b9b9d444a08f", "value": "\u0418\u0440\u0440\u0438\u0433\u0430\u0446\u0438\u044f"}</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">{"id": "3495bd7d-c52e-46d8-909f-aaaeea39a4ec", "value": "Ditch or channel used for irrigation."}</skos:scopeNote>
+        <skos:prefLabel xml:lang="zh">{"id": "ef5134b9-5da5-4d34-a366-7611d10db42d", "value": "\u519c\u7530\u8fb9\u754c"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:prefLabel xml:lang="en">{"id": "7e8718ab-72ad-45a0-95dd-84640be85809", "value": "Agriculture and subsistence"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/5d1b4d67-6bd6-45b7-bb55-5af4ff12d62f">
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="zh">{"id": "1439576a-e386-4e41-9352-1ac6bf738c9b", "value": "\u58c1\u753b"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">{"id": "9cf8961c-1b6f-402d-81bc-42d93dc3a3e2", "value": "Wall painting/mural"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="ru">{"id": "9a5a2500-30d9-43da-b3ca-063137e5be02", "value": "\u041d\u0430\u0441\u0442\u0435\u043d\u043d\u0430\u044f \u0440\u043e\u0441\u043f\u0438\u0441\u044c"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/0e36cc30-666d-464b-9f87-368b45dd8240">
+    <skos:prefLabel xml:lang="zh">{"id": "fc0a8287-9ab2-40a1-986e-67439eca43eb", "value": "\u6587\u5316\u666f\u89c2"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">{"id": "1c2e2aed-ab82-4c42-8150-232d2d916a20", "value": "Cultural landscape"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="ru">{"id": "e2340ffb-6b50-488e-9f78-a2e525dce705", "value": "\u041a\u0443\u043b\u044c\u0442\u0443\u0440\u043d\u044b\u0439 \u043b\u0430\u043d\u0434\u0448\u0430\u0444\u0442"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/22b9ec26-749f-4d3c-b8db-3e0c58f74581">
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:narrower rdf:resource="http://localhost:8000/c1b931f1-f761-4d02-a05c-a8e99d71bf6b"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/bf20e9a9-e926-40e7-8337-ef1b00b8ebf8">
+        <skos:prefLabel xml:lang="zh">{"id": "4209d6d0-d908-47e6-b722-4bd71567e7a4", "value": "\u6c34\u7bb1"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">{"id": "9902ebb0-e346-46d5-8613-d378a67e3a88", "value": "Water tank"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="ru">{"id": "2af7dd69-2bfb-4ee3-955d-f787d7f80b06", "value": "\u0420\u0435\u0437\u0435\u0440\u0432\u0443\u0430\u0440"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/a1acf12f-4bdc-4efc-bfd7-0c2ae975266b">
+        <skos:prefLabel xml:lang="en">{"id": "4fe55a73-257b-4faf-9bb6-5c4e55f8ada9", "value": "Cistern"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="ru">{"id": "2bd252b1-b7ce-49e2-a1f8-f09605b21db7", "value": "\u0426\u0438\u0441\u0442\u0435\u0440\u043d\u0430"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="zh">{"id": "7a75fee5-2b85-41bd-9ee4-9f9500ed6817", "value": "\u6c34\u6c60"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/2973c51f-5ea4-402b-9abd-a0ae35c36c3b">
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="ru">{"id": "b8e1230c-48f1-42ce-8648-a9c3d880fc1a", "value": "\u0412\u043e\u0434\u043e\u0445\u0440\u0430\u043d\u0438\u043b\u0438\u0449\u0435"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">{"id": "f1464752-e9b7-4b6b-9967-e73a2eaeddfd", "value": "Reservoir"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="zh">{"id": "b7c9d815-05c2-498e-bddc-201c4b287550", "value": "\u6c34\u5e93"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:prefLabel xml:lang="en">{"id": "dbd46f1b-ae45-4472-9584-41736140cecf", "value": "Water storage"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="ru">{"id": "15590996-1b07-4b36-9da9-a1a6d35e01cf", "value": "\u0425\u0440\u0430\u043d\u0435\u043d\u0438\u0435 \u0432\u043e\u0434\u044b"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="zh">{"id": "29a5b460-cb4d-4a77-ba27-2ffb11288686", "value": "\u50a8\u6c34"}</skos:prefLabel>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/111ec276-c961-4e40-913d-4e92bfd51078">
+        <skos:prefLabel xml:lang="en">{"id": "90b5fde5-a80e-4afc-ada8-f4936d50084f", "value": "Sardoba"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="zh">{"id": "a0b1ca1b-df04-4c44-91c7-2d57c4a9eed1", "value": "\u62f1\u9876\u84c4\u6c34\u6c60"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="ru">{"id": "cf5e24fb-c243-4416-aa39-43940c337d87", "value": "\u0421\u0430\u0440\u0434\u043e\u0431\u0430"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/6d1a1fcc-fd8e-47fe-9325-4e3cb0445db6">
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:prefLabel xml:lang="zh">{"id": "6e619458-51cb-454e-a4a7-974a5a35d1ad", "value": "\u6c60\u5858"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">{"id": "93eadfc8-6d9e-4212-888f-3d4c3830affe", "value": "Pond"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/9281431e-9e30-427c-9c52-72348e6bd1cb">
+    <skos:prefLabel xml:lang="en">{"id": "e4d45105-4252-4b81-85e5-35ebc52f38fc", "value": "Sculpture "}</skos:prefLabel>
+    <skos:prefLabel xml:lang="ru">{"id": "685faf18-6c4a-45ba-b283-d3020bc1bf24", "value": "\u0421\u043a\u0443\u043b\u044c\u043f\u0442\u0443\u0440\u0430"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="zh">{"id": "fbcf7da8-ed65-4487-8d44-531bdb6cdc7d", "value": "\u96d5\u5851"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/ad3fa89d-2beb-44e4-acde-90aa1ca0ee26">
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="en">{"id": "f2978c94-df96-4c5a-b21b-ce0e5ec4c6f1", "value": "Palace"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="zh">{"id": "1e0b9970-1c42-4f62-aa4a-b74752dd5696", "value": "\u5bab\u6bbf"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="ru">{"id": "e528acd4-159a-46f6-89ee-e8d96c16df2c", "value": "\u0414\u0432\u043e\u0440\u0435\u0446"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/7329807c-c406-4dfd-9f35-9d47527993de">
+    <skos:prefLabel xml:lang="en">{"id": "83c01ca0-ee19-419d-9eb9-30c84bec95b1", "value": "Mazar (Ma Zha)"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="zh">{"id": "612bb625-9ba6-49a1-836b-87042026f504", "value": "\u9ebb\u624e"}</skos:prefLabel>
+    <skos:scopeNote xml:lang="zh">{"id": "3d993bd2-68e3-487a-8632-c4c5044a3c83", "value": "\u65b0\u7586\u5730\u533a\u4f0a\u65af\u5170\u6559\u9ad8\u7ea7\u5893\u5730\u3001\u9675\u5893"}</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">{"id": "1fd5ea45-5f4d-42ac-ad79-0137c58a0a51", "value": "Islamic elite grave/mausoleum in Xinjiang region"}</skos:scopeNote>
+    <skos:scopeNote xml:lang="ru">{"id": "1dbcc6fc-bd0e-4392-a859-8f081c0e84c7", "value": "\u0418\u0441\u043b\u0430\u043c\u0441\u043a\u0430\u044f \u044d\u043b\u0438\u0442\u043d\u0430\u044f \u043c\u043e\u0433\u0438\u043b\u0430 / \u043c\u0430\u0432\u0437\u043e\u043b\u0435\u0439 \u0432 \u0440\u0435\u0433\u0438\u043e\u043d\u0435 \u0421\u0438\u043d\u044c\u0446\u0437\u044f\u043d"}</skos:scopeNote>
+    <skos:prefLabel xml:lang="ru">{"id": "21ad7482-7510-4ee3-bd80-9759109ee3d7", "value": " \u041c\u0430\u0437\u0430\u0440 (\u041c\u0430 \u0447\u0436\u0430)"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/210e351b-a507-49a5-bd13-5b6e5b342261">
+    <skos:prefLabel xml:lang="en">{"id": "c38dfbdb-f491-403a-b53d-8e9bf2c3b4f8", "value": "Tombstone"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="zh">{"id": "40446a90-30d9-44ba-86ce-4a9de9a9c228", "value": "\u5893\u7891"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="ru">{"id": "d1ce666d-9bcb-4066-b4d7-c72aa1d9d0d1", "value": "\u041d\u0430\u0434\u0433\u0440\u043e\u0431\u043d\u044b\u0439 \u043a\u0430\u043c\u0435\u043d\u044c"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/512eef5d-d100-4e84-a70f-d41f24b89cd0">
+    <skos:prefLabel xml:lang="en">{"id": "605e8d95-41ff-4578-9271-f030efe25d92", "value": "Grave"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="ru">{"id": "c76f883a-d1d7-40e8-a7c7-9b0b7cfee1fa", "value": "\u041c\u043e\u0433\u0438\u043b\u0430"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="zh">{"id": "8e8b024a-a558-4b72-993b-0cbf3681ef12", "value": "\u5893\u7a74"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/cb26b851-a0e4-4037-9a6f-bd818024ac2d">
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="zh">{"id": "92c5b7a3-dce2-43e5-9092-48d3d3cb5d8b", "value": "\u7a9f\u5916\u5efa\u7b51"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="ru">{"id": "abac1e6a-9e40-4fae-a6c9-36c66fcec781", "value": "\u0410\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430, \u043f\u0440\u0438\u043b\u0430\u0433\u0430\u044e\u0449\u0430\u044f \u043a \u0433\u0440\u043e\u0442\u0430\u043c"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">{"id": "7dfc0ccf-61a6-4193-94f8-30f4e80e2446", "value": "Architecture attached to grottos"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/779b52dd-efc1-43da-b0c6-51b0fe841a42">
+    <skos:prefLabel xml:lang="en">{"id": "1dda576f-a27b-4ca9-9d98-3a4306a9f7b4", "value": "Palaeochannel"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:scopeNote xml:lang="zh">{"id": "a7823061-0a13-471b-9400-c641b3453a55", "value": "\u5e72\u6db8\u4fdd\u5b58\u5e76\u5448\u73b0\u51fa\u571f\u5730\u7279\u5f81\u7684\u6cb3\u9053\u3001\u6c34\u8def\u3002"}</skos:scopeNote>
+    <skos:prefLabel xml:lang="ru">{"id": "f24767a7-32c2-4d2c-ab0a-d2b6767d98e8", "value": "\u041f\u0430\u043b\u0435\u043e\u043a\u0430\u043d\u0430\u043b"}</skos:prefLabel>
+    <skos:scopeNote xml:lang="ru">{"id": "6e61e342-295f-4833-a770-0ad50c81018a", "value": "\u0422\u0435\u0447\u0435\u043d\u0438\u0435 \u0438\u043b\u0438 \u0440\u0443\u0441\u043b\u043e \u0440\u0435\u043a\u0438 \u0438\u043b\u0438 \u0440\u0443\u0447\u044c\u044f, \u0441\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u043d\u044b\u0435 \u0432 \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0435 \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u0430 \u043f\u043e\u0447\u0432\u044b"}</skos:scopeNote>
+    <skos:prefLabel xml:lang="zh">{"id": "9a9c9d77-afb9-4021-a87f-65dded34296a", "value": "\u53e4\u6cb3\u9053"}</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">{"id": "62722267-819b-40eb-ab0e-ec541fcf9f06", "value": "The course or channel of a river or stream preserved as a soil feature"}</skos:scopeNote>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/683b61be-97c5-475b-8891-f43165641816">
+    <skos:prefLabel xml:lang="en">{"id": "ebb14b30-e8d6-463b-a977-0836003e20ba", "value": "Bath house"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="ru">{"id": "d6f4f427-c4fe-418f-842e-30bb7051a89f", "value": "\u0411\u0430\u043d\u044f"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="zh">{"id": "a1a267b3-e58d-41b6-b9a2-212292e1e18b", "value": "\u6fa1\u5802/\u6d74\u573a"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/9d27a4c3-eb9f-4251-aed9-eba0bf291baa">
+    <skos:prefLabel xml:lang="en">{"id": "c927384f-d4e5-4c8d-8af9-7fd45dc1ba65", "value": "Rampart"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="zh">{"id": "f9e9f83e-08a7-44c7-b701-982188c656a9", "value": "\u58c1\u5792/\u9a6c\u9762/\u58a9\u53f0"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="ru">{"id": "6ba5c69d-e44c-48ad-ad2a-0d41e9c4f0cc", "value": "\u0412\u0430\u043b"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/1a0b0401-6cf0-4537-b774-01ccefb7f3ee">
+    <skos:prefLabel xml:lang="zh">{"id": "3279ed63-8dcb-459a-9f0d-edb294178b15", "value": "\u6eaa\u6d41"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="en">{"id": "98f56007-5261-4c59-83f8-05bbf1b90c14", "value": "Stream"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="ru">{"id": "5e468af5-9fae-4d23-a4b3-9880be3c0c96", "value": "\u041f\u043e\u0442\u043e\u043a"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/98dc354d-0268-47a4-b123-88774b54c9be">
+    <skos:narrower rdf:resource="http://localhost:8000/683b61be-97c5-475b-8891-f43165641816"/>
+    <skos:prefLabel xml:lang="en">{"id": "e0f3774e-fc79-408f-9175-8f08d7db064d", "value": "Health and welfare"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="ru">{"id": "fecb1520-021d-48ae-b30e-c08e8961c2d0", "value": "\u0417\u0434\u043e\u0440\u043e\u0432\u044c\u0435 \u0438 \u0411\u043b\u0430\u0433\u043e\u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435"}</skos:prefLabel>
+    <skos:narrower rdf:resource="http://localhost:8000/198d41d2-3937-4cd6-935d-5d8d423a84c7"/>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="zh">{"id": "cbac4e56-eec3-41b0-9b1d-e181992ab0c0", "value": "\u536b\u751f\u798f\u5229"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/023a740e-edd5-425c-8e02-f2ece2b2c5c1">
+    <skos:prefLabel xml:lang="ru">{"id": "141f6571-8103-404d-ad19-c0f8fba764cb", "value": "\u0414\u0432\u0435\u0440\u043d\u043e\u0439 \u043f\u0440\u043e\u0435\u043c"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="en">{"id": "c4d42419-65bf-4159-b69d-8aab4c406fc4", "value": "Doorway"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="zh">{"id": "e581f0ac-fd19-4e41-ad39-aac5f38b1eeb", "value": "\u95e8\u9053"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/65051d7b-fbb6-46c6-a8df-a12fce0eaf4a">
+    <skos:narrower rdf:resource="http://localhost:8000/0afa0ba2-bb6f-45e9-91da-dbd4d1f21ed8"/>
+    <skos:prefLabel xml:lang="en">{"id": "a6fad890-e16a-40d2-886a-ad9dab1246f0", "value": "Water supply and disposal"}</skos:prefLabel>
+    <skos:narrower rdf:resource="http://localhost:8000/bf442219-1b10-4541-a4be-8e2172362fa1"/>
+    <skos:narrower rdf:resource="http://localhost:8000/44fd3146-21cc-43e0-9664-0146a16826c8"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/434f02bc-ad85-43f7-b913-3457b5116584">
+        <skos:prefLabel xml:lang="ru">{"id": "cbc52a4f-744d-47e6-b444-78c1b9132979", "value": "\u0414\u0430\u043c\u0431\u0430"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="zh">{"id": "bf7498f8-5ec5-4b82-86af-d64563f230ad", "value": "\u575d"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">{"id": "c681d01f-bf41-4841-8038-b4e7d786ef12", "value": "Dam"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:prefLabel xml:lang="zh">{"id": "209f9097-4cee-4717-a0f8-db7b47765b4e", "value": "\u7ed9\u6392\u6c34"}</skos:prefLabel>
+    <skos:narrower rdf:resource="http://localhost:8000/cbf96bd2-7e98-4986-88c8-d1f73aff2876"/>
+    <skos:narrower rdf:resource="http://localhost:8000/22b9ec26-749f-4d3c-b8db-3e0c58f74581"/>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/056159e5-c52e-4c60-9ef9-765bad9fbb19">
+        <skos:narrower rdf:resource="http://localhost:8000/b824d2bd-dcb6-44a8-86c4-0d6d2bcbb353"/>
+        <skos:prefLabel xml:lang="zh">{"id": "491502e4-759d-43ac-8a0b-761926d0b344", "value": "\u6c34\u9053"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+        <skos:narrower rdf:resource="http://localhost:8000/779b52dd-efc1-43da-b0c6-51b0fe841a42"/>
+        <skos:narrower rdf:resource="http://localhost:8000/985db531-65e4-4fe6-9689-166015876d5a"/>
+        <skos:prefLabel xml:lang="en">{"id": "80de3f7a-ba18-486d-89d4-49e54b409376", "value": "Watercourse"}</skos:prefLabel>
+        <skos:narrower rdf:resource="http://localhost:8000/1a0b0401-6cf0-4537-b774-01ccefb7f3ee"/>
+        <skos:narrower rdf:resource="http://localhost:8000/445314eb-b8dc-4521-bd28-196bf3bf82ec"/>
+        <skos:prefLabel xml:lang="ru">{"id": "93fbca95-c8b6-4978-a11d-0aeac3b44a3c", "value": "\u0422\u0435\u0447\u0435\u043d\u0438\u0435 \u0432\u043e\u0434\u044b"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:prefLabel xml:lang="ru">{"id": "8a165856-8217-4a02-8559-21e35af56383", "value": "\u0412\u043e\u0434\u043e\u0441\u043d\u0430\u0431\u0436\u0435\u043d\u0438\u0435 \u0438 \u0432\u043e\u0434\u043e\u043e\u0442\u0432\u0435\u0434\u0435\u043d\u0438\u0435"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/0b031489-7c30-41b4-b56c-b42b8e483d7e">
+    <skos:prefLabel xml:lang="en">{"id": "60b3d974-8678-4697-a62e-33cdaead410c", "value": "Elevated depositional area"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/8a548761-fe37-47f4-b595-8a70122a2a00">
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="zh">{"id": "f4b222a4-47dd-4c5f-959e-ee5af4c20c4e", "value": "\u5893\u5739"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">{"id": "c5071dff-eac8-4bbc-b855-56953968298f", "value": "Tomb pit"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="ru">{"id": "104cf0b5-5298-47a4-9de3-fe6f26702983", "value": "\u041c\u043e\u0433\u0438\u043b\u044c\u043d\u0430\u044f \u044f\u043c\u0430"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/e7ade950-8576-4ec0-a369-aec6114788fc">
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="ru">{"id": "4d9d295d-9f23-4460-a418-282c0986348b", "value": "\u0416\u0435\u0440\u0442\u0432\u043e\u043f\u0440\u0438\u043d\u043e\u0448\u0435\u043d\u0438\u0435 \u043b\u044e\u0434\u0435\u0439 \u0438 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="zh">{"id": "51df9cbc-01b3-4ce2-ba84-7c9265d195d7", "value": "\u4eba\u755c\u6b89\u846c"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">{"id": "fbc254e3-3502-4681-9b4b-cf430c8c40e3", "value": "Human and animal sacrifice"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/16b2b7ca-e757-4ad7-afee-eca811871bfd">
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="en">{"id": "dfbedbb4-bbaf-4215-987c-9354f748080e", "value": "Pyramid-shaped burial"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="ru">{"id": "71177015-4634-4e22-a8db-f95957038500", "value": "\u041f\u0438\u0440\u0430\u043c\u0438\u0434\u043d\u043e\u0435 \u0437\u0430\u0445\u043e\u0440\u043e\u043d\u0435\u043d\u0438\u0435  "}</skos:prefLabel>
+    <skos:prefLabel xml:lang="zh">{"id": "3f477dcc-28a8-4f3c-8e53-585e1f9adbe6", "value": "\u91d1\u5b57\u5854\u578b\u5893\u5730"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/8edc885c-cf4f-40ff-ba25-58dfc08f5fe5">
+    <skos:prefLabel xml:lang="ru">{"id": "22cbbc1f-c3de-486a-85a9-8b459acc09c9", "value": "\u041c\u0435\u0447\u0435\u0442\u044c"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="zh">{"id": "d3f19dbd-c6bb-4d00-b6fb-08e8ccc09df5", "value": "\u6e05\u771f\u5bfa"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">{"id": "bae59c6d-c733-4c8c-86ed-81e7672a5a19", "value": "Mosque"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/b824d2bd-dcb6-44a8-86c4-0d6d2bcbb353">
+    <skos:prefLabel xml:lang="en">{"id": "da95b242-f720-468b-873d-65e0abb84fa8", "value": "Qanat"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="zh">{"id": "1fb69f58-5a44-4f37-ac59-40f100e3bb2b", "value": "\u574e\u513f\u4e95"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="ru">{"id": "a50a69cc-0a76-467b-8023-be4b388a8efe", "value": "\u041a\u0430\u043d\u0430\u0442 / \u041a\u044f\u0440\u0438\u0437"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/82690b23-df25-46c8-b6d4-5056da3a4424">
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="zh">{"id": "08f6814c-1f48-48f9-a43d-b6e22e11b8c1", "value": "\uff08\u8f66\uff09\u9a6c\u5751"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">{"id": "90831bd4-2440-44f8-8474-2c5d310ac1ed", "value": "Horse burial"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="ru">{"id": "6510601e-a531-4920-a4df-e1b58f64faf3", "value": "\u041a\u043e\u043d\u043d\u043e\u0435 \u0437\u0430\u0445\u043e\u0440\u043e\u043d\u0435\u043d\u0438\u0435"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/80d562e4-fb7c-49f6-84ff-2ab4b6f1c8f7">
+    <skos:prefLabel xml:lang="zh">{"id": "010650c3-367b-4091-af59-d5614f7d4f0f", "value": "\u846c\u5177"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="ru">{"id": "3b2ee242-ace2-44cf-89b4-692024095d7a", "value": "\u041f\u043e\u0433\u0440\u0435\u0431\u0430\u043b\u044c\u043d\u043e\u0435 \u0441\u043a\u043e\u043f\u043b\u0435\u043d\u0438\u0435"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">{"id": "7d0cbf8a-5767-4507-81a9-a65be8bb76c2", "value": "Burial assemblage"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/c74b8544-463f-4560-8ff0-7dd3c4fed003">
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="en">{"id": "0bd7ea99-449f-430f-b40a-7ae5a22bfcac", "value": "Tower"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="ru">{"id": "8c677ad5-cc44-48c4-86cc-16b74288191f", "value": "\u0411\u0430\u0448\u043d\u044f"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="zh">{"id": "470b7ebe-82bb-4241-ac27-c378baad437a", "value": "\u5854"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/5b9eced2-1f6a-4a9f-92a4-e60c5832bab2">
+    <skos:prefLabel xml:lang="ru">{"id": "05c23cae-6eb6-4b06-8d98-c4550513b47d", "value": "\u041a\u0430\u043c\u0435\u043d\u043d\u044b\u0439 \u0444\u0443\u043d\u0434\u0430\u043c\u0435\u043d\u0442"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="zh">{"id": "8f87bef4-8c49-4f34-bff9-080412de2a95", "value": "\u77f3\u6784\u57fa\u5740"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="en">{"id": "0abe73f4-a375-47c9-947c-ceadcc006b6c", "value": "Stone foundation "}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/bbb6a542-89bf-46ec-aa01-cbc44deb4896">
+    <skos:prefLabel xml:lang="ru">{"id": "7e0aeed0-4ed5-461b-8afa-5086bd6239e4", "value": "\u0420\u0443\u0434\u043d\u0430\u044f \u043f\u0435\u0447\u044c"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="zh">{"id": "6ed462b3-f236-4c12-9dad-3b87f5ee1c25", "value": "\u77ff\u77f3\u7089"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="en">{"id": "8ff7ffa3-0f1d-418a-a9b2-347614a9baa4", "value": "Ore furnace"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/701c688f-4736-4ea8-a09a-77432747d79c">
+    <skos:prefLabel xml:lang="en">{"id": "24973dd4-4ed8-4aab-b2c5-407d9ecc37cd", "value": "Burial vault"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="ru">{"id": "cf8d81e9-a157-4bc2-a819-6b873f7cfce2", "value": "\u0423\u0441\u044b\u043f\u0430\u043b\u044c\u043d\u0438\u0446\u0430"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="zh">{"id": "a3cb4d95-c62b-4e4d-b72c-addbfe9d854d", "value": "\uff08\u7a79\u5f62\uff09\u5893\u7a74"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/adbccdb8-b31c-4569-be54-2f7b65e5a8af">
+    <skos:prefLabel xml:lang="zh">{"id": "dc67c3a3-6af2-41cc-a079-f352b622fac3", "value": "\u706b\u846c\u5893"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="ru">{"id": "0c873627-d201-4824-8aa9-f8d2dd5115e1", "value": "\u0417\u0430\u0445\u043e\u0440\u0435\u043d\u0435\u043d\u0438\u0435 \u041a\u0440\u0435\u043c\u0430\u0446\u0438\u0438"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">{"id": "5ed88e2d-bb88-41cd-8005-389c47faaa01", "value": "Cremation burial"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/3af64a5d-b890-47a7-b568-948a736c2844">
+    <skos:prefLabel xml:lang="zh">{"id": "42b7a9fd-eb48-48e2-a9e5-1f76ea928f0a", "value": "\u846c\u5751"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="ru">{"id": "c14c5448-c126-4326-be70-398461f44241", "value": "\u042f\u043c\u0430 \u0434\u043b\u044f \u0437\u0430\u0445\u043e\u0440\u043e\u043d\u0435\u043d\u0438\u044f"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">{"id": "69182034-3f52-4088-ad7f-83267c7376f3", "value": "Burial pit"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/0df53aaa-95a6-4878-a2a0-e43c7570351b">
+    <skos:prefLabel xml:lang="ru">{"id": "382c88a4-34fb-478a-a860-13f30fd7a5b7", "value": "\u0414\u0440\u0435\u0432\u043d\u0438\u0435 \u0441\u0442\u0435\u043b\u044b / \u043d\u0430\u0434\u043f\u0438\u0441\u0438 \u043d\u0430 \u0442\u0430\u0431\u043b\u0438\u0447\u043a\u0430\u0445"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="zh">{"id": "3d8ae6b8-8b6c-4a10-ab43-4e5591617d98", "value": "\u5386\u4ee3\u7891\u523b"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">{"id": "2f16bb2b-6e7c-4385-a165-5a71a86f7dd8", "value": "Ancient steles / tablet inscriptions "}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/8dda52ea-799b-4067-9076-e520915bcf59">
+    <skos:prefLabel xml:lang="ru">{"id": "01058d2e-1b6c-4ffc-8ade-4faf1746c00f", "value": "\u041d\u0435\u043a\u0440\u043e\u043f\u043e\u043b\u044c"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="zh">{"id": "bfd11146-aeb4-4ac3-aba2-730aa0b5c92f", "value": "\u5893\u56ed"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">{"id": "0f422a60-83e4-468f-be90-225405d7c580", "value": "Necropolis"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/7a9f11b7-ebf5-4d69-a189-dc822c449863">
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="en">{"id": "5038f66e-dc64-4826-a23a-d8b4472c59a1", "value": "Low-lying depositional area "}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/dad60ee3-0d0c-46cd-94ab-a6cd80f1affa">
+    <skos:prefLabel xml:lang="ru">{"id": "7e8b2e26-92a1-4209-8bcf-8f473a15ccf7", "value": "\u0414\u044b\u043d\u044b"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="zh">{"id": "0c18ec8a-4896-4b42-93d0-1927939ca861", "value": "\u5e73\u9876\u5c71\u4e18\u5893\u5730"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">{"id": "74679916-a74a-46bb-ad54-feb01967c2c2", "value": "Dyn type burial"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/8ffdb8a6-ffb8-448b-8189-86e97cea5291">
+    <skos:prefLabel xml:lang="ru">{"id": "ac1a51a4-fcb4-4453-88a8-8dcff5ac00bc", "value": "\u041c\u043e\u043d\u0430\u0441\u0442\u044b\u0440\u044c"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="zh">{"id": "44cc2923-3cc5-4950-be88-42cf0c3fa038", "value": "\u4fee\u9053\u9662"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="en">{"id": "b68256cf-4939-4743-b6ee-befddaf2984f", "value": "Monastery"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/388c4f93-72e8-4877-b85f-1ef74822b4c5">
+    <skos:prefLabel xml:lang="en">{"id": "8fb10091-8346-4b8a-8874-ef0393a4e069", "value": "Chambered tomb"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="ru">{"id": "e8ebd6a1-84f1-445c-b386-bd352a5014fc", "value": "\u041a\u0430\u043c\u0435\u0440\u0430\u043b\u043d\u0430\u044f \u0433\u0440\u043e\u0431\u043d\u0438\u0446\u0430"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="zh">{"id": "591c63cb-5a90-4b21-954a-29bdb76eff9d", "value": "\u591a\u5ba4\u5893"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/fe12bcdb-7e0b-4d07-97b7-95047acab1ee">
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="en">{"id": "8ec996aa-d7af-41bd-a17c-0ceae031b7d1", "value": "Temple"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="zh">{"id": "56fe0cfb-4d38-475e-a1bd-f9375c20c304", "value": "\u5bfa\u5e99"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/d400a0ae-da71-414a-839d-5c5b90efdba4">
+    <skos:prefLabel xml:lang="zh">{"id": "54825a17-b24c-4e23-a0c4-27d555f5ba5e", "value": "\u706b\u5858"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="en">{"id": "60fd4faa-d4da-4a86-a747-c9778d2dc95a", "value": "Fire pit"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="ru">{"id": "3647d1b1-1b5c-4d09-8b88-b95aee717720", "value": "\u042f\u043c\u0430 \u0434\u043b\u044f \u043e\u0433\u043d\u044f"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/f4f5d9fa-fa94-48a8-89b4-72910c5682ce">
+    <skos:prefLabel xml:lang="en">{"id": "7bc47a1f-98c0-41c7-bf46-e078706bd427", "value": "Parapet wall"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="zh">{"id": "4a11a658-5923-40c2-9e5e-2d6a0086268a", "value": "\u5973\u5899"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="ru">{"id": "289166e1-f991-4ba9-b95b-51b115c6a0ae", "value": "\u041f\u0430\u0440\u0430\u043f\u0435\u0442\u043d\u0430\u044f \u0441\u0442\u0435\u043d\u0430"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/e9e7f357-6eda-47f9-9719-64ce0278f7c5">
+    <skos:narrower rdf:resource="http://localhost:8000/8a548761-fe37-47f4-b595-8a70122a2a00"/>
+    <skos:prefLabel xml:lang="en">{"id": "fc4c894d-bf58-479b-8850-4e963dd5f4f6", "value": "Tomb"}</skos:prefLabel>
+    <skos:narrower rdf:resource="http://localhost:8000/16b2b7ca-e757-4ad7-afee-eca811871bfd"/>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:narrower rdf:resource="http://localhost:8000/dad60ee3-0d0c-46cd-94ab-a6cd80f1affa"/>
+    <skos:prefLabel xml:lang="zh">{"id": "d0f4cdf3-dc15-4468-977a-f994782654b3", "value": "\u575f\u5893"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="ru">{"id": "062925f6-4161-407b-80d6-006a7053a8ca", "value": "\u0413\u0440\u043e\u0431\u043d\u0438\u0446\u0430"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/85bb3549-97a9-4096-8162-aa8a9d0ac763">
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="en">{"id": "46eb93ec-704f-4304-ad0b-551d8e93c6d3", "value": "House"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="zh">{"id": "c579d6a3-1254-4dfb-802d-b202d54304e6", "value": "\u4f4f\u5b85"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/7f6a271f-c0d5-4707-ba55-b4d8618c9e08">
+    <skos:prefLabel xml:lang="zh">{"id": "6e8be273-ce61-4d9b-b821-d4a465760f6f", "value": "\u96c6\u5e02"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/b484ee24-1761-44d0-813c-ed9cb135e294"/>
+    <skos:prefLabel xml:lang="en">{"id": "a4ab2002-6a5e-460c-b3c9-4ee6ebe2c98b", "value": "Bazaar"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="ru">{"id": "2838417a-d7fe-4bb2-a969-f199d16feaf0", "value": "\u0411\u0430\u0437\u0430\u0440"}</skos:prefLabel>
+    <skos:altLabel xml:lang="zh">{"id": "4bbfaacd-5c2f-42bc-8be0-54a6d1623acd", "value": "\u5df4\u624e"}</skos:altLabel>
+  </skos:Concept>
+</rdf:RDF>
